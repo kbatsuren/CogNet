@@ -6,7 +6,7 @@ It is a large-scale database of cognate pairs: it contains 5.9 million cognates
 
 ## CogNet Structure
 Please have a look at the following website.
-http://ukc.disi.unitn.it/index.php/cognet/
+http://cognet.ukc.disi.unitn.it
 
 ## License
 This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
