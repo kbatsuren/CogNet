@@ -15,3 +15,7 @@ This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 Intern
 For the acedemic use, please cite the following article:
 
 Khuyagbaatar Batsuren, Gabor Bella, and Fausto Giunchiglia – CogNet: A large-scale cognate database, Proceedings of The 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
+
+## Acknowledgements
+Thanks to Global Wordnet Organization and all the wordnet developers.
+http://globalwordnet.org/resources/wordnets-in-the-world/
