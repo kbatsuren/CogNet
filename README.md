@@ -5,4 +5,4 @@ It is a large-scale database of cognate pairs: it contains 5.9 million cognates
 Please have a look at the following website.
 
 ## License
-The resource is under CC-BY-SA-NC-4.0.
+This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
