@@ -1,4 +1,4 @@
-# CogNet
+# CogNet: a Large-Scale Cognate Database
 
 ![alt text](http://ukc.disi.unitn.it/wp-content/uploads/2019/05/Cognate_fish.jpg)
 
