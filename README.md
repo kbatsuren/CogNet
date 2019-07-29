@@ -18,9 +18,6 @@ Each line represents one instance of a pair of cognate words. Columns are separa
 | transliteration 1 |	a romanized word for the first word |
 | tranlisteration 2 |	a romanized word for the second word |
 
-Please have a look at the following website.
-http://cognet.ukc.disi.unitn.it
-
 ## License
 This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
