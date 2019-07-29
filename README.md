@@ -4,7 +4,20 @@
 
 CogNet is a large-scale database of cognate pairs: it contains 5.9 million cognates in 338 languages, 38 writing systems, and 91285 concepts. It was automatically constructed from wordnets and dictionaries contained within the UKC resource, as described in our paper.
 
-## CogNet Structure
+## CogNet Format
+Each line represents one instance of a pair of cognate words. Columns are separated by TAB.
+
+| Column | Description |
+| --- | --- |
+| concept | A code used by Princeton WordNet 3.0 to represent a synset. |
+| language 1 |	the 3-letter iso code for the first language |
+| word 1 |	a word in the language 1 |
+| language 2 |	the 3-letter iso code for the second language |
+| word 2 |	a word in the language 2 |
+| evidence |	direct etymological or indirect algorithmic |
+| transliteration 1 |	a romanized word for the first word |
+| tranlisteration 2 |	a romanized word for the second word |
+
 Please have a look at the following website.
 http://cognet.ukc.disi.unitn.it
 
