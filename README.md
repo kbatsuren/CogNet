@@ -1,4 +1,4 @@
-# CogNet: a Large-Scale Cognate Database
+# CogNet: a Large-Scale Cognate Database For 338 languages
 
 ![alt text](http://ukc.disi.unitn.it/wp-content/uploads/2019/05/Cognate_fish.jpg)
 
