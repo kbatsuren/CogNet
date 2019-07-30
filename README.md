@@ -24,6 +24,15 @@ Each line represents one instance of a pair of cognate words. Columns are separa
 | transliteration 1 |	a romanized word for the first word |
 | tranlisteration 2 |	a romanized word for the second word |
 
+For example,
+
+|concept|	lang 1 |  word 1 |	lang 2|	word 2|	evidence|	translit 1|	translit 2|
+|n14996158|	glg	| polipropileno |	jpn	ポリプロピレン|	ETY	|-	|poripuropiren
+|n06566077|	nep	| सफ्टवेर |	kas	سافٹویٚیَر|	ALG|	saphtawera|	saftoeyar
+|n07062058|	eng	| song | jpn |	ソング	|ALG|	-|	songu
+|n02506148|	cmn	| 象 |	mon |	заан|	ALG|	xiang|	zaan
+
+
 ## License
 This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
