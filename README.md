@@ -6,6 +6,10 @@ CogNet is a large-scale database of cognate pairs: it contains 5.9 million cogn
 
 UKC resource is at http://ukc.disi.unitn.it, and more details of CogNet is at http://cognet.ukc.disi.unitn.it/
 
+## Why cognates are important?
+In Computational Linguistics: improve the cross-lingual NLP tasks, e.g., word translation, cross-lingual knowledge transfer.
+![alt text](http://ukc.disi.unitn.it/wp-content/uploads/2019/07/cognate_morphology.jpg)
+
 ## CogNet Format
 Each line represents one instance of a pair of cognate words. Columns are separated by TAB.
 
