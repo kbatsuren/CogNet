@@ -28,8 +28,8 @@ For example,
 
 | concept|	lang 1 |  word 1 |	lang 2|	word 2|	evidence|	translit 1|	translit 2|
 | --- |	--- | --- | --- | --- | --- | --- | --- |
-| n14996158|	glg	| polipropileno |	jpn	ポリプロピレン|	ETY	|-	|poripuropiren
-| n06566077|	nep	| सफ्टवेर |	kas	سافٹویٚیَر|	ALG|	saphtawera|	saftoeyar
+| n14996158|	glg	| polipropileno |	jpn |	ポリプロピレン|	ETY	|-	|poripuropiren
+| n06566077|	nep	| सफ्टवेर |	kas|	سافٹویٚیَر|	ALG|	saphtawera|	saftoeyar
 | n07062058|	eng	| song | jpn |	ソング	|ALG|	-|	songu
 | n02506148|	cmn	| 象 |	mon |	заан|	ALG|	xiang|	zaan
 
