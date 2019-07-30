@@ -11,7 +11,7 @@ Each line represents one instance of a pair of cognate words. Columns are separa
 
 | Column | Description |
 | --- | --- |
-| concept | A code used by Princeton WordNet 3.0 to represent a synset. |
+| concept | A code used by Princeton WordNet 3.0 to represent a meaning (called a synset)|
 | language 1 |	the 3-letter iso code for the first language |
 | word 1 |	a word in the language 1 |
 | language 2 |	the 3-letter iso code for the second language |
