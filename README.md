@@ -38,7 +38,7 @@ For example,
 This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ## Reference
-Please cite the following article if you use this resource:
+Please cite the following article if you find this resource useful:
 https://aclweb.org/anthology/papers/P/P19/P19-1302/
 
 Khuyagbaatar Batsuren, Gabor Bella, and Fausto Giunchiglia – CogNet: A large-scale cognate database, Proceedings of The 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
