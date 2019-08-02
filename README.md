@@ -2,7 +2,7 @@
 
 ![alt text](http://ukc.disi.unitn.it/wp-content/uploads/2019/05/Cognate_fish.jpg)
 
-CogNet is a large-scale database of cognate pairs: it contains 5.9 million cognates in 338 languages, 38 writing systems, and 91285 concepts. It was automatically constructed from wordnets and dictionaries contained within the UKC resource, as described in our paper.
+CogNet is a large-scale database of cognate pairs: it contains 5.9 million cognates in 338 languages, 38 writing systems, and 91285 concepts. Its quality is manually evaulated at 94% precision. It was automatically constructed from wordnets and dictionaries contained within the UKC resource, as described in our paper.
 
 UKC resource is at http://ukc.disi.unitn.it, and more details of CogNet is at http://cognet.ukc.disi.unitn.it/
 
