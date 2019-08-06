@@ -20,18 +20,17 @@ Each line represents one instance of a pair of cognate words. Columns are separa
 | word 1 |	a word in the language 1 |
 | language 2 |	the 3-letter iso code for the second language |
 | word 2 |	a word in the language 2 |
-| evidence |	direct etymological or indirect algorithmic |
 | transliteration 1 |	a romanized word for the first word |
 | tranlisteration 2 |	a romanized word for the second word |
 
 For example,
 
-| concept|	lang 1 |  word 1 |	lang 2|	word 2|	evidence|	translit 1|	translit 2|
-| --- |	--- | --- | --- | --- | --- | --- | --- |
-| n14996158|	glg	| polipropileno |	jpn |	ポリプロピレン|	ETY	|-	|poripuropiren
-| n06566077|	nep	| सफ्टवेर |	kas|	سافٹویٚیَر|	ALG|	saphtawera|	saftoeyar
-| n07062058|	eng	| song | jpn |	ソング	|ALG|	-|	songu
-| n02506148|	cmn	| 象 |	mon |	заан|	ALG|	xiang|	zaan
+| concept|	lang 1 |  word 1 |	lang 2|	word 2|	translit 1|	translit 2|
+| --- |	--- | --- | --- | --- | --- | --- |
+| n14996158|	glg	| polipropileno |	jpn |	ポリプロピレン|-	|poripuropiren
+| n06566077|	nep	| सफ्टवेर |	kas|	سافٹویٚیَر|	saphtawera|	saftoeyar
+| n07062058|	eng	| song | jpn |	ソング	|	-|	songu
+| n02506148|	cmn	| 象 |	mon |	заан| xiang|	zaan
 
 
 ## License
