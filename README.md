@@ -35,7 +35,7 @@ For example,
 
 ## FAQ
 
-#### Why the CogNet size is almost twice larger than numbers in your ACL paper?
+#### Why the CogNet size is larger than numbers in your ACL paper?
 After publishing ACL paper, the number of UKC words increased from 1.7 million to 2.5 million. Then we have regenerated the current version of CogNet as v1.0 by rerunning the same algorithm on the bigger UKC.
 
 ## License
