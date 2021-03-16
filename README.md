@@ -6,7 +6,7 @@ CogNet is a large-scale database of cognate pairs: CogNet v2 contains 8.1 milli
 
 UKC resource is at http://ukc.disi.unitn.it, and more details of CogNet is at http://cognet.ukc.disi.unitn.it/
 
-# LFS issue
+# Download and LFS issue 
 You can download CogNet-v2.0.zip from the Gdrive link below.
 https://drive.google.com/file/d/1yp0d-GPtHxx5qfh-lsi0FaBQAINDZ2gb/view?usp=sharing
 
