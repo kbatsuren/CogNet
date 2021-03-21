@@ -1,0 +1,3868 @@
+concept_id	language_code	id	group	lemma	transliteration
+15071	eng	25028	1	book	
+15071	eng	25029	2	volume	
+15071	ita	147626	3	libro	
+15071	ita	150085	2	volume	
+15071	spa	175533	4	ejemplar	
+15071	spa	178930	3	libro	
+15071	spa	181489	2	volumen	
+15071	cat	213836	4	exemplar	
+15071	cat	215587	3	llibre	
+15071	cat	215588	2	volum	
+15071	glg	241334	2	volume	
+15071	glg	241843	4	exemplar	
+15071	glg	241880	3	libro	
+15071	zho	324971	10	书籍	shu ji
+15071	jpn	391190	1	ブック	bukku
+15071	jpn	391203	10	本	hon
+15071	tha	461609	10	สมุด	s̄mud
+15071	tha	463201	10	หนังสือ	h̄nạngs̄ụ̄x
+15071	tha	470165	10	เล่ม	lêem
+15071	sqi	512996	3	libër	
+15071	sqi	512997	2	vëllim	
+15071	bul	519702	10	издание	izdanie
+15071	bul	519703	5	книга	kniga
+15071	bul	519704	6	том	tom
+15071	dan	523102	1	bog	
+15071	hrv	558676	5	knjiga	
+15071	isl	572811	10	bókarbindi	
+15071	isl	575060	10	bindi	
+15071	ind	597635	1	buku	
+15071	ind	597537	7	jilid	
+15071	ind	597636	8	kitab	
+15071	msa	622195	1	buku	
+15071	msa	622101	7	jilid	
+15071	msa	622196	8	kitab	
+15071	msa	608367	10	isi padu	
+15071	pol	647954	5	księga	
+15071	swe	693092	1	bok	
+15071	nno	697419	1	bok	
+15071	nob	700888	1	bok	
+15071	fin	725891	10	kirja	
+15071	fin	725892	2	volyymi	
+15071	eus	836050	3	liburu	
+15071	arb	858095	8	كِتَاب	kitāb
+15071	arb	859736	10	مُجَلَّد	mujallad
+15071	fra	865193	2	volume	
+15071	fra	870990	3	livre	
+15071	ell	918278	10	βιβλίο	biblío
+15071	nld	937974	10	jaargang	
+15071	por	983928	3	livro	
+15071	por	983929	3	livros	
+15071	ron	1021341	6	tom	
+15071	ron	1012052	2	volum	
+15071	lit	1058983	5	knyga	
+15071	lit	1062240	6	tomas	
+15071	slk	1064382	11	zväzok	
+15071	slk	1075635	5	kniha	
+15071	slv	1105322	5	knjiga	
+15071	ces	1139682	11	svazek	
+15071	cmn	1153926	10	卷	juan
+15071	deu	1174246	10	band	
+15071	epo	1193430	2	volumo	
+15071	gle	1208476	10	imleabhar	
+15071	hun	1221373	10	kötet	
+15071	hye	1230231	10	հատոր	hator
+15071	mkd	1261597	6	том	tom
+15071	rus	1282407	6	том	tom
+15071	rus	1282408	5	книга	kniga
+15071	tur	1313344	10	cilt	
+15071	zsm	1332823	7	jilid	
+15071	zul	1757434	9	umqulu	
+15071	tsn	1765296	1	buka	
+15071	tsn	1765978	10	lokwalô	
+15071	nso	1777918	1	buka	
+15071	nso	1777919	1	puku	
+15071	xho	1784987	10	incwadi	
+15071	xho	1783777	9	umqulu	
+15071	mon	1634101	10	ном хэвлэл	nom hevlel
+16321	eng	26764	1	computer	
+16321	ita	146086	1	computer	
+16321	ita	146087	3	calcolatore	
+16321	spa	182417	1	computadora	
+16321	spa	182418	2	ordenador	
+16321	spa	182038	5	procesador	
+16321	cat	216298	2	ordinador	
+16321	cat	216299	5	processador	
+16321	glg	241049	2	ordenador	
+16321	glg	241294	1	computador	
+16321	jpn	392645	1	コンピューター	konpyūtā
+16321	jpn	392649	10	電算	densan
+16321	tha	445184	1	คอมพิวเตอร์	khxmphiwtexr̒
+16321	tha	477181	10	คอม	kɔɔm
+16321	sqi	513072	1	kompjuter	
+16321	bul	519840	1	компютър	kompjutǎr
+16321	dan	523524	1	computer	
+16321	dan	523525	6	datamaskine	
+16321	fas	533723	1	کامپیوتر	kâmpyutr
+16321	fas	533724	10	رایانه	râyânh
+16321	hrv	559278	1	kompjuter	
+16321	hrv	559279	1	kompjutor	
+16321	hrv	559280	8	računalo	
+16321	isl	581206	10	tölva	
+16321	ind	598211	1	komputer	
+16321	msa	622818	1	komputer	
+16321	pol	648921	1	komputer	
+16321	swe	695910	10	dator	
+16321	nno	697739	6	datamaskin	
+16321	nob	701277	6	datamaskin	
+16321	nob	701278	10	elektronhjerne	
+16321	fin	727369	10	tietokone	
+16321	eus	835126	1	konputagailu	
+16321	eus	838042	2	ordenagailu	
+16321	heb	848092	10	מַחְשֵׁב	maḥšēḇ
+16321	arb	854895	10	حَاسِب	ḥāsib
+16321	arb	854899	10	حَاسُوب	ḥāsūb
+16321	arb	858121	1	كمبيوتر	كmbيutr
+16321	fra	885485	3	calculateur	
+16321	fra	885486	2	ordinateur	
+16321	ell	919329	10	υπολογιστής	upologistḗs
+16321	nld	950216	1	computer	
+16321	por	984281	3	calculadora	
+16321	por	984283	1	computador	
+16321	ron	1022619	3	calculator	
+16321	ron	1023013	1	computer	
+16321	ron	1023014	2	ordinator	
+16321	slk	1079860	7	počítač	
+16321	slk	1082977	5	procesor	
+16321	slv	1106173	8	računalnik	
+16321	afr	1127006	8	rekenaar	
+16321	amh	1128631	1	ኮምፒዩተር	kompiyutär
+16321	bel	1132795	1	кампутар	kamputar
+16321	bod	1134693	10	གློག་ཀླད	glog klad
+16321	bre	1135127	10	urzhiataer	
+16321	ces	1139905	7	počítač	
+16321	cmn	1154276	10	电脑	dian nao
+16321	cmn	1154073	10	计算机	ji suan ji
+16321	cym	1166700	10	cyfrifiadur	
+16321	deu	1174817	1	computer	
+16321	deu	1174559	8	rechner	
+16321	epo	1193541	1	komputilo	
+16321	fao	1199636	10	telda	
+16321	fry	1201446	1	kompjûter	
+16321	gla	1204262	1	coimpiutair	
+16321	gla	1204263	10	rianadair	
+16321	gle	1208576	10	ríomhaire	
+16321	glv	1212266	10	co-earrooder	
+16321	haw	1214723	10	lolouila	
+16321	haw	1214724	1	kamepuila	
+16321	hin	1215904	4	संगणक	saṅgṇak
+16321	hin	1215905	1	कंप्यूटर	kampyūṭar
+16321	hun	1221602	10	számítógép	
+16321	hye	1230346	10	համակարգիչ	hamakargičʿ
+16321	kal	1234788	10	qarasaasiaq	
+16321	kam	1235067	1	kompiuta	
+16321	khm	1239745	1	កុំព្យូទ័រ	kompyutôr
+16321	khm	1239746	10	គណិតូបករណ៍	
+16321	kik	1241160	1	kompyuta	
+16321	kis	1242417	1	ekompyuta	
+16321	kor	1244274	1	컴퓨터	keompyuteo
+16321	kor	1244275	10	전자계산기	jeonjagyesan-gi
+16321	lao	1250635	1	ຄອມພິວເຕີ	khǭm phiu tœ̄
+16321	lat	1252438	1	computatrum	
+16321	lat	1252439	2	ordinatrum	
+16321	ltz	1257229	1	computer	
+16321	mar	1259366	4	संगणक	saṅgṇak
+16321	mer	1260122	1	kompyuta	
+16321	mkd	1261661	10	сметач	smetač
+16321	mkd	1261760	1	компјутер	kompjuter
+16321	mlt	1266425	1	kompjuter	
+16321	mri	1267635	10	rorohiko	
+16321	nav	1270534	10	béésh nitsékeesí	
+16321	roh	1274671	1	computer	
+16321	roh	1274651	3	calculader	
+16321	rus	1282878	1	компьютер	kompʹjuter
+16321	sah	1300027	1	көмпүүтэр	kömpüüter
+16321	sin	1302349	10	පරිගණකය	parigaṇakaya
+16321	sme	1302703	10	dihtor	
+16321	smo	1302901	1	komipiuta	
+16321	sms	1303004	10	teâttmašina	
+16321	sot	1303417	1	khomputa	
+16321	tgk	1308353	1	компутар	komputar
+16321	tgl	1309347	1	kompyuter	
+16321	tur	1313837	10	bilgisayar	
+16321	ukr	1321501	1	комп'ютер	kompʺjuter
+16321	vie1	1327158	10	máy vi tính	
+16321	vro	1330659	10	puutri	
+16321	zsm	1332905	1	komputer	
+16321	asm	1417641	1	কম্পিউটাৰ	kompiutar
+16321	tel	1433743	1	కంప్యూటర్	kampyūṭar
+16321	tam	1447503	1	கணிப்பொறி	kaṇippoṟi
+16321	san	1469372	4	सङ्गणकः	saṅgaṇakaḥ
+16321	pan	1532750	1		ੰਪਿਊਟਰ	mpiūṭar
+16321	ori	1553650	1	କମ୍ପୁଟର	kômpuṭôrô
+16321	mal	1587640	1	കമ്പ്യൂട്ടര്	kampyūṭṭar
+16321	mni	1611050	1	kmpiutr	
+16321	kok	1623030	1	कम्प्युटर	kampyuṭar
+16321	kok	1623031	4	संगणक	saṅgṇak
+16321	kan	1648650	1	ಕಂಪ್ಯೂಟರ್	kampyūṭar
+16321	kan	1646335	10	ಗಣಕಯಂತ್ರ	gaṇakayantra
+16321	ben	1699047	4	সংগণক	sônggṇôk
+16321	ben	1699048	1	কম্পিউটার	kômpiuṭar
+16321	brx	1716590	1	कम्पिउटार	kampiuṭār
+16321	ven	1757243	1	khomphiyutha	
+16321	zul	1762135	1	ikhompiyutha	
+16321	tsn	1769424	10	sebalamakgolo	
+16321	tsn	1769425	1	khompiutara	
+16321	nso	1781265	1	khomphutha	
+16321	xho	1790128	1	ikhompyutha	
+16321	mya	1793190	1	ကွန်ပျူတာ	kwanpyuta
+16321	guj	1811179	4	સંગણક	saṅgṇak
+16321	guj	1811181	1	કમ્પ્યુટર	kampyuṭar
+16321	guj	1811182	1	કોમ્પ્યુટર	kompyuṭar
+16321	nep	1831449	4	संगणक	sãgaṇaka
+16321	nep	1831450	1	कम्प्यूटर	kampyūṭara
+16321	urd	1846564	1	كمپوٹر	كmpuٹr
+16321	kas	1874015	1	کَمپیٛوٗٹَر	kampeūṭar
+16321	mon	1954669	1	компьютер	kompʹyuter
+41210	eng	57945	1	apple	
+41210	ita	156896	4	mela	
+41210	ita	156897	5	pomo	
+41210	spa	189656	4	manzana	
+41210	cat	225553	5	poma	
+41210	zho	283699	9	苹果	ping guo
+41210	jpn	416972	10	リンゴ	ringo
+41210	tha	472367	10	แอปเปิ้ล	xæ ppeîl
+41210	sqi	514481	4	mollë	
+41210	bul	521466	1	ябълка	jabǎlka
+41210	dan	522853	1	æble	
+41210	fas	532957	10	مردمک چشم	mrdmk čšm
+41210	fas	538947	7	سیب	sib
+41210	hrv	565531	1	jabuka	
+41210	isl	579055	1	epli	
+41210	ind	602349	1	apel	
+41210	msa	627001	1	apel	
+41210	msa	627002	1	epal	
+41210	pol	665449	1	jabłko	
+41210	swe	692989	1	äpple	
+41210	nno	697217	1	eple	
+41210	nob	700648	1	eple	
+41210	fin	752913	10	omena	
+41210	heb	849673	8	תַּפּוּחַ	tappūaḥ
+41210	arb	863493	8	تُفَّاح	tuffāḥ
+41210	fra	889137	5	pomme	
+41210	ell	911614	4	μήλο	mḗlo
+41210	nld	939349	1	appel	
+41210	por	995647	4	maçã	
+41210	ron	1010672	4	măr	
+41210	lit	1057083	1	obuolys	
+41210	slk	1064582	1	jablko	
+41210	slv	1114698	1	jabolko	
+41210	abe	1126409	1	aples	
+41210	afr	1127499	1	appel	
+41210	akz	1128416	10	takkólchoba	
+41210	amh	1128692	5	ፖም	pom
+41210	arg	1129012	4	mazana	
+41210	ast	1130992	4	mazana	
+41210	bak	1131954	2	алма	alma
+41210	bel	1133576	1	яблык	jablyk
+41210	bod	1134724	10	ཀུ་ཤུ	ku shu
+41210	bre	1135397	1	aval	
+41210	ces	1143612	1	jablko	
+41210	chr	1149608	10	ᏒᎦᏔ	svgata
+41210	chu	1149913	1	аблъко	
+41210	cmn	1159109	9	苹果	ping guo
+41210	crh	1165914	2	alma	
+41210	cym	1167248	1	afal	
+41210	deu	1181161	1	apfel	
+41210	dsb	1191454	1	jabłuko	
+41210	epo	1195416	5	pomo	
+41210	fao	1200146	1	epli	
+41210	fry	1201664	1	apel	
+41210	fur	1202339	4	miluç	
+41210	gag	1202767	2	alma	
+41210	gla	1205490	1	ubhal	
+41210	gle	1210032	1	úll	
+41210	glv	1212603	1	ooyl	
+41210	haw	1214800	10	ʻāhia	
+41210	hin	1216971	7	सेब	seb
+41210	hsb	1218649	1	jabłuko	
+41210	hun	1224540	2	alma	
+41210	hye	1231911	10	խնձոր	xnjor
+41210	jam	1234432	1	apl	
+41210	kaa	1234668	2	alma	
+41210	kat	1237194	10	ვაშლი	vašli
+41210	kaz	1238921	2	алма	alma
+41210	khm	1240348	5	ប៉ុម	bŏm
+41210	kir	1241996	2	алма	alma
+41210	kor	1246824	10	사과	sagwa
+41210	krc	1250088	2	алма	alma
+41210	ksh	1250233	1	appel	
+41210	kum	1250318	2	алма	alma
+41210	lao	1250887	10	ໝາກໂປມ	māk pōm
+41210	lat	1252758	4	malum	
+41210	ltg	1256440	1	uobeļs	
+41210	ltz	1257612	1	apel	
+41210	mar	1259679	10	सफरचंद	sapharcand
+41210	mkd	1263533	1	јаболко	jabolko
+41210	mlt	1266823	8	tuffieħa	
+41210	mri	1267794	1	āporo	
+41210	mwl	1268118	4	maçana	
+41210	myv	1269044	10	умарь	umarʹ
+41210	nan	1269348	9	蘋果	pin guo
+41210	nap	1269713	4	méla	
+41210	nav	1270897	4	bilasáana	
+41210	nog	1272056	2	алма	alma
+41210	oci	1272773	5	poma	
+41210	oss	1273511	10	фæткъуы	fætk’°y
+41210	pap	1273899	1	apel	
+41210	rhg	1274331	7	sép	
+41210	rup	1275942	4	mer	
+41210	rus	1289147	1	яблоко	jabloko
+41210	sah	1300078	1	яблоко	yabloko
+41210	scn	1301160	5	puma	
+41210	sco	1301572	1	aipple	
+41210	sin	1302492	1	ඇපල්	æpal
+41210	smo	1302921	10	apu	
+41210	som	1303323	8	tufaax	
+41210	sot	1303525	1	apole	
+41210	tat	1305787	2	алма	alma
+41210	tgk	1308641	7	себ	seb
+41210	tgl	1309816	4	mansanas	
+41210	tly	1310425	7	سیف	sif
+41210	tuk	1311348	2	alma	
+41210	tur	1316350	2	elma	
+41210	tzm	1320250	10	ⵜⴰⴷⴼⴼⵓⵢⵜ	tadffuyt
+41210	uig	1320504	2	ئالما	alma
+41210	ukr	1322615	1	яблуко	jabluko
+41210	vie	1328579	10	quả táo	
+41210	wln	1330961	5	peme	
+41210	wol	1331257	5	pom	
+41210	wym	1331359	1	epuł	
+41210	yor	1331582	10	èso òro òyìnbó	
+41210	yua	1331643	10	chak pak’aal	
+41210	zsm	1333880	1	epal	
+41210	asm	1415901	1	আপেল	apel
+41210	tel	1432028	10	సీమరేగుపండు	sīmarēgupaṇḍu
+41210	tel	1432030	1	ఆపిల్	āpil
+41210	tam	1446065	1	ஆப்பிள்	āppiḷ
+41210	san	1461662	10	पारावतः	pārāvataḥ
+41210	pan	1530701	10	ਸਿਉ	siu
+41210	ori	1551591	10	ସେଓ	seo
+41210	mal	1585840	1	ആപ്പിള്	āppiḷ
+41210	mni	1609756	10	sem	
+41210	kok	1621444	1	आपोल	āpol
+41210	kan	1645918	1	ಆಪಲ್ಲು	āpallu
+41210	kan	1645920	7	ಸೇಬು	sēbu
+41210	ben	1697120	1	আপেল	apel
+41210	brx	1714581	1	आपेल	āpel
+41210	ven	1756219	1	apula	
+41210	zul	1758457	1	ihhabhula	
+41210	tsn	1765305	1	apolê	
+41210	nso	1777270	1	apola	
+41210	xho	1784781	1	iapile	
+41210	mya	1792970	10	ပန်းသီး	pan:si:
+41210	guj	1808229	7	સેબ	seb
+41210	nep	1829869	10	स्याउ	syāu
+41210	urd	1844392	7	سیب	sib
+41210	kas	1872549	10	ژوٗنٛٹھ	ćūnṭh
+41210	mon	1954979	2	алим	alim
+10828	eng	17322	1	lion	
+10828	ita	136533	1	leone	
+10828	spa	177549	1	león	
+10828	cat	211862	1	lleó	
+10828	zho	321227	10	美洲拟狮	mei zhou ni shi
+10828	jpn	385515	1	ライオン	raion
+10828	jpn	385518	3	獅子	shishi
+10828	tha	462377	4	สิงโต	s̄ingto
+10828	bul	519025	1	лъв	lǎv
+10828	dan	525634	1	løve	
+10828	hrv	556073	1	lav	
+10828	isl	575334	1	ljón	
+10828	ind	595969	6	asad	
+10828	ind	595970	4	singa	
+10828	msa	620414	6	asad	
+10828	msa	620415	4	singa	
+10828	pol	645246	1	lew	
+10828	swe	693961	1	lejon	
+10828	nno	699426	1	løve	
+10828	nob	703272	1	løve	
+10828	fin	719185	1	leijona	
+10828	eus	835886	1	lehoi	
+10828	heb	847697	10	אַרְיֵה	ʾaryē
+10828	heb	847698	10	מֶלֶךְ-הַחַיּוֹת	meleḵ-haḥayyōṯ
+10828	arb	852458	6	أَسَد	ʾasad
+10828	arb	858346	1	لَيْث	layṯ
+10828	arb	858854	10	مَلِك	malik
+10828	fra	880169	1	lion	
+10828	ell	920402	1	λέων	léōn
+10828	nld	939705	1	leeuw	
+10828	por	980439	1	leões	
+10828	por	980440	1	leão	
+10828	ron	1011519	1	leu	
+10828	lit	1057318	10	liūtas	
+10828	slk	1071167	1	lev	
+10828	slv	1102013	1	lev	
+10828	abe	1126406	10	pitôlo	
+10828	abk	1126427	10	алым	āləm
+10828	afr	1126889	1	leeu	
+10828	amh	1128613	10	አንበሳ	ʾänbäsa
+10828	arz	1129356	10	سبع	
+10828	ast	1130469	1	lleón	
+10828	bak	1131813	2	арыҫлан	arïθlan
+10828	bel	1132579	1	леў	ljeŭ
+10828	bod	1134680	4	སེངགེ	sengge
+10828	ces	1139268	1	lev	
+10828	chr	1149440	10	ᏢᏓᏥ ᎤᏍᏆᎴᏂ	tlvdatsi usqualeni
+10828	cmn	1153359	3	狮子	shi zi
+10828	cop	1165322	1	ⲗⲉⲱⲛ	leōn
+10828	cym	1166535	1	llew	
+10828	deu	1173514	1	löwe	
+10828	dsb	1191359	1	law	
+10828	epo	1193098	1	leono	
+10828	fao	1199479	1	ljón	
+10828	frr	1201154	1	lau	
+10828	fry	1201365	1	liuw	
+10828	gla	1204017	1	leòmhann	
+10828	gle	1208253	1	leon	
+10828	hin	1215686	4	सिंह	sinh
+10828	hin	1215687	7	शेर	śer
+10828	hsb	1218571	1	law	
+10828	hun	1220930	2	oroszlán	
+10828	hye	1229998	10	առյուծ	aṙyuc
+10828	kat	1236068	10	ლომი	lomi
+10828	kaz	1238547	2	арыстан	arıstan
+10828	khm	1239632	4	សឹង្ហ	sœ̆ngh
+10828	khm	1239633	10	តោ	taô
+10828	kir	1241574	2	арстан	arstan
+10828	kor	1243815	10	사자	saja
+10828	kor	1243816	3	獅子	
+10828	lao	1250562	4	ສິງໂຕ	sing tō
+10828	lat	1252211	1	leo	
+10828	ltg	1256182	1	ļovs	
+10828	mar	1259307	4	सिंह	sinh
+10828	mel	1260096	4	singa	
+10828	mkd	1261343	1	лав	lav
+10828	mlt	1266313	1	iljun	
+10828	naq	1269896	10	xami	
+10828	nav	1270304	10	náshdóítsoh bitsiijįʼ daditłʼooígíí	
+10828	oci	1272380	1	leon	
+10828	oss	1273423	10	домбай	dombaj
+10828	oss	1273424	1	лев	lev
+10828	pam	1273646	1	leon	
+10828	pli	1274009	4	sīha	
+10828	prg	1274161	1	laūws	
+10828	rup	1275736	2	aslan	
+10828	rus	1281570	1	лев	lev
+10828	sin	1302319	4	සිංහය	siṁhaya
+10828	snd	1303152	10	شِینھُن	
+10828	sne	1303259	4	singa	
+10828	sot	1303382	5	tau	
+10828	tat	1305569	2	арыслан	arıslan
+10828	tgk	1308289	7	шер	šer
+10828	tgl	1309244	1	leon	
+10828	tgl	1309245	1	liyon	
+10828	tuk	1311038	2	arslan	
+10828	tuk	1311039	7	şir	
+10828	tuk	1311040	10	ýolbars	
+10828	tur	1313410	2	aslan	
+10828	tzm	1320217	10	ⵉⵣⵎ	izm
+10828	tzm	1320218	10	ⴰⵢⵔⴰⴷ	ayrad
+10828	uig	1320412	2	ئارسلان	arslan
+10828	ukr	1321224	1	лев	lev
+10828	vie	1326845	10	sư tử	
+10828	vie	1326846	3	獅子	
+10828	wol	1331190	10	gaynde	
+10828	zsm	1332663	4	singa	
+10828	tel	1438518	4	సింహము	siṃhamu
+10828	tam	1453031	4	சிங்கம்	ciṅkam
+10828	san	1475449	10	केसरी	kesarī
+10828	san	1475450	4	सिंह	siṃha
+10828	mal	1593333	4	സിംഹം	siṃhaṃ
+10828	kan	1658895	4	ಸಿಂಹ	siṃha
+10828	zul	1763770	10	imbube	
+10828	zul	1763771	10	ingonyama	
+10828	zul	1763772	10	ibhubesi	
+10828	tsn	1769330	5	tau	
+10828	mya	1793251	10	ခြင်္သေ့	hkrangse.
+10828	guj	1797150	4	સિંહ	sĩh
+10828	urd	1852075	4	سنگھ	sngھ
+10828	mon	1946660	2	арслан	arslan
+46300	eng	63651	1	moon	
+46300	ita	143254	2	luna	
+46300	cat	227134	2	lluna	
+46300	jpn	398312	8	衛星	eisei
+46300	tha	507221	3	จันทรา	cạnthrā
+46300	bul	521780	2	луна	luna
+46300	bul	521781	1	месец	mesec
+46300	dan	525807	1	måne	
+46300	hrv	566798	1	mjesec	
+46300	ind	597282	4	bulan	
+46300	msa	621815	4	bulan	
+46300	pol	667969	10	księżyc	
+46300	nno	699543	1	måne	
+46300	nob	703439	1	måne	
+46300	fin	758119	7	kuu	
+46300	eus	821645	10	ilargi	
+46300	arb	861010	6	قَمَر	qamar
+46300	fra	872686	2	lune	
+46300	nld	940514	1	maan	
+46300	por	997810	2	lua	
+46300	ron	1008305	2	lună	
+46300	lit	1055038	1	mėnulis	
+46300	slk	1069627	1	mesiac	
+46300	slv	1116205	2	luna	
+46300	ale	1128445	10	tugidax	
+46300	ces	1144289	1	měsíc	
+46300	cym	1167384	10	lleuad	
+46300	cym	1167385	10	lloer	
+46300	deu	1182376	1	mond	
+46300	fao	1200264	1	máni	
+46300	fry	1201712	1	moanne	
+46300	gla	1205692	10	gealach	
+46300	hin	1217202	3	चाँद	chā̃d
+46300	hin	1217203	3	चन्द्रमा	chandramā
+46300	hun	1225068	7	hold	
+46300	hye	1232294	2	լուսին	lusin
+46300	kat	1237407	10	თანამგზავრი	tanamgzavri
+46300	khm	1240524	10	លោកខែ	loŭkkhê
+46300	kor	1247412	8	위성	wiseong
+46300	liv	1255858	7	kū	
+46300	ltz	1257718	1	mound	
+46300	mlt	1266918	6	qamar	
+46300	nav	1270989	10	ooljééʼ	
+46300	rus	1290367	2	луна	luna
+46300	tur	1314406	10	uydu	
+46300	zsm	1334091	4	bulan	
+46300	tel	1436743	3	-చంద్రుడు	-candruḍu
+46300	tel	1429393	3	చందమామ	candamāma
+46300	tam	1451319	3	சந்திரன்	cantiraṉ
+46300	san	1458408	3	चन्द्रः	candraḥ
+46300	pan	1538631	3	ਚੰਦਰਮਾ	candramā
+46300	ori	1558891	3	ଚନ୍ଦ୍ରମା	côndrôma
+46300	mni	1605707	10	ta	
+46300	kok	1626890	3	चंद्रीम	chandrīm
+46300	kan	1648603	3	ಚಂದ್ರ	candra
+46300	kan	1655507	3	ಚಂದ್ರಮಾ	candramā
+46300	brx	1714612	10	अखाफोर	akhāphor
+46300	ven	1756921	9	ṅwedzi	
+46300	nso	1779754	9	ngwedi	
+46300	xho	1784208	10	inyanga	
+46300	guj	1804352	3	ચંદ્ર	candra
+46300	urd	1841391	3	چاند	cānd
+46300	kas	1878098	3	ژَنٛدٕر	ćandụr
+4168	eng	6008	1	kung fu	
+4168	spa	171237	1	kung fu	
+4168	cat	204983	1	kung-fu	
+4168	tha	439298	1	กังฟู	kạngfū
+4168	msa	615316	1	kung fu	
+4168	pol	639892	10	boks chiński	
+4168	pol	639893	1	kung-fu	
+4168	fin	709641	1	kung-fu	
+4168	eus	835470	1	kung fu	
+4168	nld	934563	1	kung fu	
+4168	cmn	1152559	1	功夫	gong fu
+4168	hin	1215524	1	कुंग फू	kuṅg phū
+4168	hin	1215525	1	कुंग फ़ू	kuṅg fū
+4168	kor	1243370	1	쿵후	kunghu
+4168	nan	1269145	1	功夫	gong fu
+4168	rus	1280420	1	кун-фу	kun-fu
+4168	rus	1280421	1	кунфу	kunfu
+4168	rus	1280422	1	кунг-фу	kung-fu
+4168	rus	1280423	1	гунфу	gunfu
+4168	vie	1326614	1	công phu	
+4168	vie	1326615	1	功夫	
+4168	yue	1331687	1	功夫	
+8591	eng	13072	2	snake	
+8591	eng	13073	1	serpent	
+8591	eng	13074	12	ophidian	
+8591	ita	142413	1	serpente	
+8591	ita	142412	1	serpe	
+8591	ita	148747	3	colubro	
+8591	spa	175307	1	serpentes	
+8591	spa	175310	1	serpiente	
+8591	cat	209404	1	serp	
+8591	glg	258896	3	cobra	
+8591	zho	319210	11	蛇	she
+8591	jpn	381748	2	スネーク	sunēku
+8591	jpn	381751	11	蛇	hebi
+8591	tha	445847	13	งู	nguu
+8591	tha	481338	10	อสรพิษ	xs̄rphis̄ʹ
+8591	bul	518491	6	змия	zmija
+8591	dan	524364	4	slange	
+8591	fas	531630	10	صورت فلکی حیه	surt flki hih
+8591	fas	541282	10	ماری	mâri
+8591	hrv	554252	6	zmija	
+8591	isl	575523	2	snákur	
+8591	isl	577344	10	höggormur	
+8591	isl	580697	4	slanga	
+8591	ind	594704	9	ular	
+8591	msa	619159	9	ular	
+8591	pol	643715	18	wąż	
+8591	swe	691668	19	orm	
+8591	nno	698437	4	slange	
+8591	nob	702074	4	slange	
+8591	fin	715594	10	käärme	
+8591	eus	833250	12	ofidio	
+8591	eus	839962	10	suge	
+8591	heb	847478	10	נָחָשׁ	nāḥāš
+8591	arb	852242	1	أَفْعَى	ʾafʿā
+8591	arb	863567	20	ثُعْبَان	
+8591	fra	877181	12	ophidien	
+8591	fra	877180	1	serpent	
+8591	ell	913692	12	φίδι	phídi
+8591	nld	934120	1	serpent	
+8591	nld	933766	4	slang	
+8591	por	978411	1	serpentes	
+8591	por	978412	3	cobra	
+8591	por	978413	3	cobras	
+8591	por	978414	12	ofídio	
+8591	por	978415	1	serpente	
+8591	ron	1009421	1	șarpe	
+8591	lit	1057508	10	gyvatė	
+8591	slk	1069875	14	had	
+8591	slv	1099718	10	kača	
+8591	abk	1126423	10	амаҭ	āmāt
+8591	ace	1126567	9	uleue	
+8591	afr	1126841	4	slang	
+8591	ain	1128211	10	ウェンペサニ	wenpesani
+8591	alt	1128489	5	јылан	ǰïlan
+8591	arz	1129324	20	تعبان	
+8591	ast	1130445	3	culiebra	
+8591	bak	1131798	5	йылан	yïlan
+8591	ban	1132117	10	lelipi	
+8591	bel	1132507	6	змяя	zmjaja
+8591	blt	1134653	13	ʻngú	
+8591	bre	1135004	15	naer	
+8591	bre	1135005	1	sarpant	
+8591	bug	1135845	9	ula	
+8591	ccc	1135995	10	sokopleye	
+8591	ces	1139097	14	had	
+8591	che	1149137	10	лаьхьа	läḥa
+8591	chr	1149391	10	ᎢᎾᏛ	inadv
+8591	chu	1149820	6	змиꙗ	
+8591	chv	1150053	5	ҫӗлен	śĕlen
+8591	cjs	1150284	5	чылан	
+8591	cmn	1153130	11	蛇	she
+8591	cop	1165313	10	ϩⲟϥ	hof
+8591	cor	1165448	1	sarf	
+8591	cuk	1166154	10	naibe	
+8591	cym	1166476	15	neidr	
+8591	deu	1173070	4	schlange	
+8591	deu	1173045	19	wurm	
+8591	dsb	1191334	14	had	
+8591	epo	1192904	1	serpento	
+8591	evn	1198877	5	kulïn	
+8591	fij	1201044	10	gata	
+8591	fry	1201331	4	slange	
+8591	fur	1202144	1	sarpint	
+8591	gag	1202727	5	yılan	
+8591	gla	1203914	15	nathair	
+8591	gle	1208124	15	nathair	
+8591	glv	1212161	10	aarnieu	
+8591	glv	1212162	10	ardnieu	
+8591	grc	1213267	12	ὄφις	óphis
+8591	hat	1214174	10	koulèv	
+8591	hin	1215626	1	साँप	sā̃p
+8591	hop	1218492	10	taaho	
+8591	hsb	1218550	18	wuž	
+8591	hun	1220768	10	kígyó	
+8591	hye	1229911	10	օձ	ōj
+8591	jav	1234491	9	ula	
+8591	kam	1235061	10	nzoka	
+8591	kat	1236001	10	გველი	gveli
+8591	kaz	1238517	5	жылан	jılan
+8591	khm	1239591	10	ពស់	pôs
+8591	kir	1241552	5	жылан	cılan
+8591	kjh	1242433	5	чылан	çılan
+8591	kor	1243676	10	뱀	baem
+8591	krc	1250010	5	жылан	cılan
+8591	krc	1250011	5	джылан	dcılan
+8591	kum	1250263	5	йылан	yılan
+8591	lao	1250541	13	ງູ	ngū
+8591	lat	1252126	18	anguis	
+8591	lat	1252127	1	serpens	
+8591	lat	1252128	10	vipera	
+8591	lat	1252129	3	colubra	
+8591	ltg	1256152	10	čyuška	
+8591	ltg	1256153	10	tuorps	
+8591	mad	1258488	9	olar	
+8591	mar	1259295	1	साप	sāp
+8591	min	1260246	9	ula	
+8591	mkd	1261235	6	змија	zmija
+8591	mri	1267566	2	neke	
+8591	mri	1267567	10	naakahi	
+8591	nap	1269650	1	sierpe	
+8591	nav	1270148	10	tłʼiish	
+8591	nav	1270138	10	naʼashǫ́ʼii	
+8591	nay	1271424	10	krayi	
+8591	oci	1272340	1	sèrp	
+8591	oss	1273408	10	калм	kalm
+8591	pim	1273964	10	askok	
+8591	pjt	1273979	10	liru	
+8591	ppl	1274070	10	kuat	
+8591	ppl	1274071	10	cúat	
+8591	rgn	1274290	10	bìssa	
+8591	roh	1274520	1	serp	
+8591	roh	1274524	1	serpent	
+8591	roh	1274525	1	serpaint	
+8591	rup	1275717	1	sharpe	
+8591	rus	1281260	6	змея	zmeja
+8591	rus	1281261	6	змеи	zmei
+8591	sah	1300007	7	моҕой	moğoy
+8591	scn	1300945	1	serpenti	
+8591	sin	1302311	1	සර්පයා	sarpayā
+8591	sot	1303375	13	noha	
+8591	sun	1304342	10	oray	
+8591	syc	1304447	10	ܚܘܝܐ	
+8591	syc	1304448	10	ܚܘܘܝܬܐ	
+8591	tat	1305552	5	елан	elan
+8591	tgk	1308266	10	мор	mor
+8591	tuk	1311012	5	ýylan	
+8591	tur	1313285	5	yılan	
+8591	tyv	1320113	5	чылан	čılan
+8591	uig	1320399	5	يىلان	yilan
+8591	ukr	1321139	6	змія	zmija
+8591	vie	1326769	10	xà	
+8591	vie	1326264	10	rắn	
+8591	wbp	1330748	10	warna	
+8591	wol	1331159	10	jaan	
+8591	zai	1332068	10	beendaʼ	
+8591	zsm	1332565	9	ular	
+8591	tel	1438082	8	పాము	pāmu
+8591	tam	1445082	8	பாம்பு	pāmpu
+8591	san	1475398	1	सर्प	sarpa
+8591	san	1470141	2	नाग	nāga
+8591	pan	1542150	1	ਸੱਪ	sappa
+8591	mal	1593285	1	സര്‍പ്പം	sar‍ppaṃ
+8591	kan	1643749	8	ಹಾವು	hāvu
+8591	zul	1763723	13	inyoka	
+8591	tsn	1764855	13	nôga	
+8591	mya	1793565	10	မြွေ	mrwe
+8591	urd	1842535	1	سانپ	sānp
+8591	mon	1951602	7	могой	mogoi
+92781	eng	51842	2	laugh	
+92781	spa	166392	8	reír	
+92781	cat	198611	8	riure	
+92781	jpn	352700	5	笑う	warau
+92781	jpn	352563	5	笑む	emu
+92781	tha	485787	12	หัวร่อ	h̄ạwr̀x
+92781	bul	516003	1	смея се	smeja se
+92781	dan	525550	2	le	
+92781	hrv	545088	1	smijati se	
+92781	isl	582995	2	hlæja	
+92781	ind	584195	9	gelak	
+92781	ind	584201	4	ketawa	
+92781	msa	608300	9	gelak	
+92781	msa	608306	4	ketawa	
+92781	swe	696061	10	skratta	
+92781	nno	699363	2	le	
+92781	nob	703191	2	le	
+92781	fin	791449	10	nauraa	
+92781	eus	842407	10	barre egin	
+92781	arb	854011	13	ضَحِكَ	ḍaḥika
+92781	fra	865155	8	rire	
+92781	ell	921554	10	εκφράζω χαρά	ekphrázō khará
+92781	nld	932925	2	uitlachen	
+92781	nld	939181	2	lachen	
+92781	por	967743	10	gargalhar	
+92781	por	967744	8	rir	
+92781	ron	1014440	8	râde	
+92781	lit	1055108	10	nusijuokti	
+92781	lit	1057428	10	juoktis	
+92781	slk	1067828	1	zasmiať sa	
+92781	slk	1082119	1	smiať sa	
+92781	slv	1089157	1	nasmejati	
+92781	slv	1089158	1	nasmejati se	
+92781	slv	1089159	1	zasmejati se	
+92781	afr	1128096	2	lag	
+92781	bel	1134463	1	смяяцца	smjajacca
+92781	ces	1147672	1	smát	
+92781	cmn	1158475	5	笑	xiao
+92781	cmn	1164042	5	发笑	fa xiao
+92781	deu	1180282	2	lachen	
+92781	dng	1191279	5	щё	xio
+92781	epo	1198082	8	ridi	
+92781	fry	1201989	2	laitsje	
+92781	fur	1202596	8	riri	
+92781	gla	1206759	11	dèan gàire	
+92781	gle	1211460	11	gáir	
+92781	haw	1214944	10	ʻaka	
+92781	hin	1218230	3	हँसना	hãsnā
+92781	hin	1218231	3	हंसना	hansnā
+92781	hun	1227622	10	nevet	
+92781	hye	1233764	10	ծիծաղել	cicałel
+92781	kal	1235039	10	illarpoq	
+92781	kal	1235040	10	illaatigaa	
+92781	kat	1238197	10	გაცინება	gacineba
+92781	kaz	1239338	6	күлу	külw
+92781	khm	1241032	10	សើច	saeuch
+92781	kir	1242346	6	күлүү	külüü
+92781	kor	1249560	10	웃다	utda
+92781	lao	1250763	12	ຫົວ	hūa
+92781	lat	1254759	8	rideo	
+92781	ltz	1257532	2	laachen	
+92781	mkd	1265536	1	се смее	se smee
+92781	oci	1273184	8	rire	
+92781	oci	1273185	8	rider	
+92781	rap	1274252	10	kata	
+92781	roh	1275340	8	rir	
+92781	roh	1275341	8	reir	
+92781	roh	1275342	8	rier	
+92781	rup	1276238	8	arãdu	
+92781	rus	1296372	1	смеяться	smejatʹsja
+92781	rus	1296371	10	хохотать	xoxotatʹ
+92781	scn	1301335	8	rìdiri	
+92781	scn	1301336	8	arrìdiri	
+92781	sin	1302640	10	හිනා වෙනවා	hinā venavā
+92781	syc	1304467	13	ܓܚܟ	
+92781	tat	1305989	10	көлергә	kölergä
+92781	tgk	1308975	10	хандидан	xandidan
+92781	tuk	1311595	6	gülmek	
+92781	tur	1319157	6	gülmek	
+92781	ukr	1323883	1	сміятися	smijatysja
+92781	vie	1328314	10	cười	
+92781	zsm	1333767	4	ketawa	
+92781	zsm	1333768	9	gelak	
+92781	asm	1413142	3	হঁহ্া	hõha
+92781	asm	1413144	10	উচ্চহাস্য কৰা	ussohaisso kora
+92781	tel	1428852	14	నవ్వు	navvu
+92781	tam	1443988	10	சிரி	ciri
+92781	tam	1443989	14	நகைத்தல்,	nakaittal,
+92781	san	1462638	3	हस्	has
+92781	ori	1548477	10	ହସିବା	hôsiba
+92781	mal	1580080	10	ചിരിക്കുക	cirikkuka
+92781	kan	1632761	14	ನಗು	nagu
+92781	ben	1694521	3	হাসা	hasa
+92781	zul	1761731	7	hleka	
+92781	xho	1789519	7	hleka	
+92781	mya	1792458	10	ရယ်	rai
+92781	guj	1803575	3	હસવું	hasvũ
+92781	nep	1827859	3	हाँस्नु	hā̃snu
+92781	urd	1840766	3	ہنسنا	ہnsnā
+92781	mon	1952328	10	инээх	ineeh
+71249	eng	37846	2	water	
+71249	eng	100476	1	h2o	
+71249	ita	138693	3	acqua	
+71249	ita	138694	1	h2o	
+71249	spa	190127	1	h2o	
+71249	spa	184814	3	agua	
+71249	cat	226125	3	aigua	
+71249	cat	226126	1	h2o	
+71249	glg	249719	1	h2o	
+71249	glg	241338	3	auga	
+71249	zho	279643	4	水	shui
+71249	jpn	417900	2	ウォーター	wōtā
+71249	jpn	417902	4	水	mizu
+71249	tha	452896	8	น้ำ	nám
+71249	sqi	515476	2	ujë	
+71249	sqi	515477	1	h2o	
+71249	bul	522581	2	вода	voda
+71249	dan	527099	2	vand	
+71249	hrv	571268	1	h2o	
+71249	hrv	565948	2	voda	
+71249	isl	575893	2	vatn	
+71249	ind	585743	13	air	
+71249	msa	609914	13	air	
+71249	pol	682898	1	h2o	
+71249	pol	662423	2	woda	
+71249	pol	682899	10	tlenek wodoru	
+71249	swe	693203	2	vatten	
+71249	nno	700433	2	vatn	
+71249	nob	704620	2	vann	
+71249	fin	754180	2	vesi	
+71249	fin	788446	1	h2o	
+71249	arb	858432	7	ماء	māʾ
+71249	fra	865794	3	eau	
+71249	ell	909751	2	νερό	neró
+71249	ell	922290	2	ύδωρ	údōr
+71249	nld	956969	7	majem	
+71249	nld	966150	2	water	
+71249	por	1006781	3	agua	
+71249	por	996189	3	água	
+71249	ron	1009111	3	apă	
+71249	ron	1009112	1	h2o	
+71249	slk	1063903	2	voda	
+71249	slk	1078371	1	h₂o	
+71249	slv	1125617	1	h2o	
+71249	slv	1110734	2	voda	
+71249	abk	1126507	10	аӡы	āʒə
+71249	abq	1126544	10	дзы	ʒə
+71249	ady	1126615	22	псы	psə
+71249	afr	1128025	2	water	
+71249	ain	1128371	2	ワッカ	wakka
+71249	aln	1128460	2	ujë	
+71249	alt	1128577	5	суу	suu
+71249	amh	1128760	2	ውሃ	wəha
+71249	arg	1129083	3	aigua	
+71249	arg	1129084	3	augua	
+71249	ary	1129210	7	ما	
+71249	arz	1129821	7	مياه	
+71249	ast	1131426	3	agua	
+71249	ava	1131690	16	лъим	łim
+71249	avd	1131742	12	او	
+71249	bak	1132072	5	һыу	hïw
+71249	bam	1132112	10	ji	
+71249	bel	1134331	2	вада	vada
+71249	blt	1134662	8	ꪙꪾ꫁	
+71249	bod	1134770	4	ཆུ	chu
+71249	bqi	1134852	12	او	
+71249	bre	1135682	2	dour	
+71249	bug	1135857	13	ᨓᨙᨕ	
+71249	bxr	1135913	6	уһан	uhan
+71249	cdo	1136294	4	水	shui
+71249	ces	1147038	2	voda	
+71249	cha	1149104	10	hånom	
+71249	che	1149250	16	хи	χi
+71249	chu	1149993	2	вода	
+71249	chv	1150210	5	шыв	šyv
+71249	cjs	1150366	5	суғ	
+71249	cmn	1163258	4	水	shui
+71249	cop	1165412	7	ⲙⲱⲟⲩ	mōou
+71249	cor	1165608	2	dowr	
+71249	cos	1165719	3	acqua	
+71249	csb	1166137	2	wòda	
+71249	cym	1167854	2	dŵr	
+71249	deu	1168333	2	wasser	
+71249	div	1191195	10	ފެން	fen
+71249	dlg	1191229	5	уу	uu
+71249	dng	1191275	4	фи	fi
+71249	dsb	1191517	2	woda	
+71249	dzo	1191543	4	ཆུ	chu
+71249	epo	1197559	3	akvo	
+71249	esh	1198817	12	اِو	
+71249	evn	1198910	4	му	mu
+71249	fao	1199863	2	vatn	
+71249	fry	1201913	2	wetter	
+71249	gan	1202817	4	水	
+71249	gla	1206100	2	uisge	
+71249	gld	1207139	4	муэ	mue
+71249	gle	1211252	2	uisce	
+71249	glv	1213086	2	ushtey	
+71249	grc	1213595	2	ὕδωρ	húdōr
+71249	gsw	1213709	2	wasser	
+71249	hak	1214092	4	水	shui
+71249	hin	1217992	6	पानी	pānī
+71249	hin	1217993	19	जल	jal
+71249	hin	1217994	12	आब	āb
+71249	hsb	1218693	2	woda	
+71249	hun	1227123	2	víz	
+71249	hye	1233548	10	ջուր	ǰur
+71249	iii	1234313	5	ꒉ	yy
+71249	inh	1234386	16	хий	χī
+71249	jav	1234607	10	banyu	
+71249	kal	1235010	10	imeq	
+71249	kat	1237995	11	წყალი	c̣q̇ali
+71249	kaz	1239277	5	су	sw
+71249	kbd	1239385	22	псы	psə
+71249	ket	1239398	10	ул'	ul
+71249	khm	1240936	21	ទឹក	tœ̆k
+71249	kin	1241233	18	amazi	
+71249	kir	1242070	5	суу	suu
+71249	kjh	1242498	5	суғ	suğ
+71249	kor	1245188	5	수	su
+71249	kpy	1249991	10	мимыл	mimïl
+71249	krc	1250103	5	суу	suu
+71249	ksh	1250247	2	wasser	
+71249	kum	1250359	5	сув	suv
+71249	lao	1251151	8	ນ້ຳ	nam
+71249	lat	1254443	3	aqua	
+71249	lbe	1255616	16	щин	š̄in
+71249	lez	1255630	16	яд	äd
+71249	lim	1255775	2	water	
+71249	lin	1255833	18	mái	
+71249	lld	1255986	3	aga	
+71249	ltz	1258008	2	waasser	
+71249	lzz	1258477	11	წკარი	c̣ḳari
+71249	mar	1259975	6	पाणी	pāṇī
+71249	mar	1259976	19	जल	jal
+71249	mdf	1260084	2	ведь	vedʹ
+71249	mkd	1265305	2	вода	voda
+71249	mlt	1267231	7	ilma	
+71249	mnc	1267400	4	ᠮᡠᡴᡝ	
+71249	mri	1267943	13	wai	
+71249	myv	1269072	2	ведь	vedʹ
+71249	mzn	1269111	12	او	
+71249	nan	1269576	4	水	shui
+71249	nds	1271855	2	water	
+71249	new	1271942	10	ला	lā
+71249	nio	1271952	10	бы”	
+71249	nog	1272069	5	сув	suv
+71249	oci	1273094	3	aiga	
+71249	oss	1273535	10	дон	don
+71249	pjt	1273995	10	mina	
+71249	rus	1295208	2	вода	voda
+71249	ryu	1299986	4	ミジ	miji
+71249	sah	1300138	5	уу	uu
+71249	sat	1300846	21	ᱫᱟᱜ	dag
+71249	scn	1301245	3	acqua	
+71249	sgs	1302180	10	ondou	
+71249	sin	1302608	19	ජලය	jalaya
+71249	sjd	1302671	10	ча̄дзь	čādzʹ
+71249	smo	1302949	13	vai	
+71249	snd	1303239	12	آب	
+71249	sot	1303624	18	metsi	
+71249	sro	1304151	3	àcua	
+71249	ssw	1304264	18	emanti	
+71249	sun	1304428	13	cai	
+71249	tah	1304555	10	pape	
+71249	tat	1305958	5	су	su
+71249	tgk	1308925	10	об	ob
+71249	tgl	1310163	10	tubig	
+71249	tir	1310371	7	ማይ	may
+71249	tly	1310472	12	او	āu
+71249	tpi	1310747	2	wara	
+71249	tuk	1311553	5	suw	
+71249	tur	1318704	5	su	
+71249	tvl	1319956	13	vai	
+71249	tyv	1320199	5	суг	sug
+71249	udi	1320314	16	хе	χe
+71249	udm	1320367	2	ву	vu
+71249	uig	1320582	5	سۇ	su
+71249	ukr	1323681	2	вода	voda
+71249	vie	1326394	21	nước	
+71249	wln	1330976	3	aiwe	
+71249	wuu	1331292	4	水	
+71249	xal	1331485	9	усн	usn
+71249	xmf	1331561	11	წყარი	c̣q̇ari
+71249	yor	1331592	10	omi	
+71249	yue	1332004	4	水	
+71249	zsm	1334809	13	air	
+71249	tel	1438187	20	నీరు	nīru
+71249	tel	1438188	19	జలము	jalamu
+71249	tam	1444570	20	நீர்	nīr
+71249	tam	1444571	20	தண்ணீர்	taṇṇīr
+71249	san	1475266	19	जल	jala
+71249	san	1475267	6	पानीय	pānīya
+71249	pan	1542120	19	ਜਲ	jal
+71249	pan	1542121	6	ਪਾਣੀ	pāṇī
+71249	mal	1593168	10	വെള്ളം	veḷḷaṃ
+71249	mal	1593169	19	ജലം	jalaṃ
+71249	kan	1658798	20	ನೀರು	nīru
+71249	zul	1757881	18	amanzi	
+71249	tsn	1767289	18	mêtsi	
+71249	xho	1787300	18	amanzi	
+71249	mya	1793231	10	ရေ	re
+71249	guj	1806369	6	પાણી	pāṇī
+71249	urd	1842892	6	پانی	pāni
+71249	urd	1842200	12	آب	âb
+71249	mon	1950218	9	ус	us
+37254	eng	4007	1	song	
+37254	eng	53849	10	vocal	
+37254	ita	146576	2	canzone	
+37254	spa	169916	2	canción	
+37254	cat	203593	2	cançó	
+37254	glg	259611	2	canción	
+37254	zho	266733	8	歌曲	ge qu
+37254	jpn	413234	2	シャンソン	shanson
+37254	jpn	413236	1	ソング	songu
+37254	jpn	413237	9	唄	uta
+37254	jpn	413122	8	歌曲	kakyoku
+37254	tha	469350	15	เพลง	pleeng
+37254	sqi	514211	2	këngë	
+37254	dan	524513	1	sang	
+37254	hrv	564162	12	pjesma	
+37254	hrv	564718	10	popjevka	
+37254	ind	589154	13	lagu	
+37254	ind	589156	14	nyanyian	
+37254	msa	613455	13	lagu	
+37254	msa	613457	14	nyanyian	
+37254	pol	662313	10	śpiewka	
+37254	pol	662314	12	piosnka	
+37254	pol	662315	1	song	
+37254	nno	698563	1	song	
+37254	nob	702215	1	sang	
+37254	fin	707986	10	laulu	
+37254	eus	825715	10	abesti	
+37254	eus	834033	3	kantu	
+37254	eus	834380	3	kanta	
+37254	eus	831912	10	lelo	
+37254	arb	852758	17	أُغْنِيَة	ʾuḡniya
+37254	fra	870206	2	chanson	
+37254	ell	910260	10	τραγούδι	tragoúdi
+37254	nld	936842	10	nummer	
+37254	nld	939617	16	lied	
+37254	nld	935027	1	zang	
+37254	por	994219	2	canções	
+37254	por	994220	2	cantiga	
+37254	por	972267	2	canção	
+37254	ron	1013542	2	cântec	
+37254	lit	1054223	10	daina	
+37254	slk	1074017	1	song	
+37254	slk	1086325	12	pesnička	
+37254	slv	1112515	12	pesem	
+37254	abk	1126463	10	ашәа	āš°ā
+37254	ady	1126604	10	орэд	orăd
+37254	afr	1127435	16	lied	
+37254	alt	1128535	10	кожоҥ	kožoŋ
+37254	alt	1128536	4	сарын	sarïn
+37254	arz	1129588	17	اغنية	
+37254	ast	1130936	2	canción	
+37254	bak	1131936	5	йыр	yïr
+37254	bel	1133476	12	песня	pjesnja
+37254	ccc	1136144	10	usma'chachi	
+37254	ces	1142894	12	píseň	
+37254	ces	1143133	12	písnička	
+37254	chr	1149591	10	ᎧᏃᎩᏍᏗ	kanogisdi
+37254	chv	1150130	10	юрӑ	jură
+37254	cjs	1150328	4	сарын	
+37254	cmn	1158366	8	歌曲	ge qu
+37254	crh	1165904	5	yır	
+37254	deu	1180180	16	lied	
+37254	deu	1171967	1	gesang	
+37254	deu	1180181	1	song	
+37254	epo	1195143	3	kanto	
+37254	epo	1195144	2	kanzono	
+37254	fao	1200090	1	songur	
+37254	fry	1201630	1	sang	
+37254	gla	1205114	11	òran	
+37254	gla	1205315	10	luinneag	
+37254	gla	1205316	11	amhran	
+37254	gle	1209852	11	amhrán	
+37254	gle	1209358	10	ceol	
+37254	glv	1212546	11	arrane	
+37254	hil	1215021	3	kanta	
+37254	hin	1216816	7	गाना	gānā
+37254	hin	1216817	6	गीत	gīt
+37254	hun	1224109	10	ének	
+37254	hun	1224110	10	dal	
+37254	hye	1231713	5	երգ	erg
+37254	kaa	1234659	10	qosıq	
+37254	kaa	1234660	5	jır	
+37254	kat	1237061	10	სიმღერა	simɣera
+37254	kaz	1238872	5	жыр	jır
+37254	kaz	1238874	10	өлең	öleñ
+37254	khm	1240285	10	ចម្រៀង	châmriĕng
+37254	kir	1241958	5	ыр	ır
+37254	kjh	1242480	5	ыр	ır
+37254	kjh	1242481	4	сарын	sarın
+37254	kor	1246467	10	노래	norae
+37254	kor	1246468	10	가요	gayo
+37254	kor	1246470	10	가곡	gagok
+37254	kor	1246471	8	歌曲	
+37254	krc	1250074	5	жыр	cır
+37254	krc	1250075	5	джыр	dcır
+37254	kum	1250310	5	йыр	yır
+37254	lao	1250851	15	ເພງ	phēng
+37254	lat	1253285	10	carmen	
+37254	mar	1259619	7	गाण	gāṇ
+37254	mkd	1263294	12	песна	pesna
+37254	mwl	1268112	2	cancion	
+37254	mwl	1268113	10	moda	
+37254	nav	1270835	10	sin	
+37254	nog	1272054	5	йыр	yır
+37254	oci	1272729	2	cançon	
+37254	oss	1273502	10	зарӕг	zaræg
+37254	rhg	1274328	7	gana	
+37254	rus	1288186	12	песня	pesnja
+37254	rus	1288188	12	песенка	pesenka
+37254	ryu	1299964	9	うた	uta
+37254	sah	1300071	5	ырыа	ırıa
+37254	scn	1301144	2	canzùna	
+37254	sdc	1301800	2	cantzoni	
+37254	sdn	1301976	2	cantzoni	
+37254	shi	1302222	10	urar	
+37254	sin	1302480	6	ගීතය	gītaya
+37254	sot	1303509	19	pina	
+37254	sro	1304089	2	cantzoni	
+37254	tat	1305763	5	җыр	cır
+37254	tgk	1308606	10	суруд	surud
+37254	tgk	1308607	10	тарона	tarona
+37254	tgl	1309756	3	kanta	
+37254	tly	1310418	10	ترانه	trānh
+37254	tuk	1311322	10	aýdym	
+37254	tur	1315964	4	şarkı	
+37254	twf	1320031	10	yò'ónemą	
+37254	tyv	1320155	5	ыр	ır
+37254	uig	1320491	10	ناخشا	naxsha
+37254	ukr	1322474	12	пісня	pisnja
+37254	vie	1328401	10	bài hát	
+37254	zsm	1333754	13	lagu	
+37254	zsm	1333752	6	gita	
+37254	tel	1438171	18	పాట	pāṭa
+37254	tam	1453057	18	பாட்டு	pāṭṭu
+37254	san	1475242	6	गीत	gīta
+37254	pan	1542105	7	ਗਾਣਾ	gāṇā
+37254	mal	1593137	18	പാട്ട്	pāṭṭ
+37254	mal	1593138	7	ഗാനം	gānaṃ
+37254	kan	1658784	6	ಗೀತೆ	gīte
+37254	tsn	1766362	10	kôpêlô	
+37254	tsn	1764670	19	pina	
+37254	nso	1780153	10	koša	
+37254	xho	1786168	10	ingoma	
+37254	mya	1793349	10	သီချင်း	sihkyang:
+37254	guj	1821924	6	ગીત	gīt
+37254	urd	1854741	6	گیت	git
+37254	urd	1848129	7	گانا	gānā
+37254	mon	1944446	10	дуу	duu
+54384	eng	26646	1	snow	
+54384	ita	157802	1	neve	
+54384	spa	182339	1	nieve	
+54384	cat	216207	1	neu	
+54384	glg	250204	1	neve	
+54384	zho	315900	4	雪	xue
+54384	jpn	427845	4	雪	yuki
+54384	tha	464270	3	หิมะตก	h̄ima tk
+54384	sqi	515660	10	dëborë	
+54384	bul	522201	1	сняг	snjag
+54384	dan	524667	1	sne	
+54384	hrv	568179	1	snijeg	
+54384	isl	574255	1	snær	
+54384	isl	583386	1	snjór	
+54384	ind	604796	5	salju	
+54384	msa	629155	5	salju	
+54384	pol	648801	1	śnieg	
+54384	swe	696239	1	snö	
+54384	nno	698695	1	snø	
+54384	nob	702362	1	snø	
+54384	fin	727278	11	lumi	
+54384	eus	827118	10	elur	
+54384	heb	850374	10	שֶׁלֶג	šeleḡ
+54384	arb	863220	10	تَسَاقُط الثَلْج	tasāquṭ aṯ-ṯalj
+54384	arb	863530	5	ثَلْج	ṯalj
+54384	fra	871958	1	neige	
+54384	ell	915634	10	χιονόπτωση	khionóptōsē
+54384	ell	915635	3	χιόνι	khióni
+54384	nld	962429	1	sneeuw	
+54384	por	984917	1	neve	
+54384	ron	1009871	10	ninsoare	
+54384	ron	1009872	10	zăpadă	
+54384	slk	1068247	1	sneh	
+54384	slv	1106106	1	sneg	
+54384	abk	1126497	12	асы	āsə
+54384	abq	1126542	12	сы	sə
+54384	afr	1127806	1	sneeu	
+54384	ain	1128352	10	ウパㇱ	upaㇱ
+54384	ale	1128452	10	qaniigix	
+54384	amh	1128748	10	የበረዶ ብናኝ	yäbärädo bnañ
+54384	arg	1129057	1	nieu	
+54384	ary	1129198	5	تلْج	
+54384	arz	1129751	5	تلج	
+54384	ast	1131216	1	ñeve	
+54384	bak	1132020	2	ҡар	qar
+54384	bel	1134053	1	снег	snjeh
+54384	bod	1134753	10	གངས	gangs
+54384	bqi	1134850	7	برف	
+54384	bre	1135555	14	erc'h	
+54384	ceb	1136380	1	nyebe	
+54384	ces	1145620	1	sníh	
+54384	che	1149277	10	ло	lo
+54384	chr	1149679	10	ᎤᎾᏥ	unatsi
+54384	chu	1149969	1	снѣгъ	
+54384	cjs	1150346	2	қар	
+54384	cmn	1161712	4	雪	xue
+54384	cop	1165400	3	ⲭⲓⲱⲛ	khiōn
+54384	cor	1165547	14	ergh	
+54384	crh	1165964	2	qar	
+54384	cym	1167613	14	eira	
+54384	deu	1185522	1	schnee	
+54384	dgr	1191124	10	zhah	
+54384	div	1191183	1	ސްނޯ	snō
+54384	dsb	1191500	1	sněg	
+54384	epo	1196739	1	neĝo	
+54384	ext	1199126	1	ñevi	
+54384	fao	1200491	10	kavi	
+54384	fao	1200492	1	snjógvur	
+54384	fry	1201802	1	snie	
+54384	fur	1202438	1	nêf	
+54384	gla	1206106	1	sneachda	
+54384	gle	1210765	1	sneachta	
+54384	glv	1212888	1	sniaghtey	
+54384	grc	1213549	3	χιών	khiṓn
+54384	hat	1214432	1	nèj	
+54384	hau	1214627	10	ƙànƙáráa	
+54384	haw	1214866	10	hau	
+54384	hin	1217561	7	बर्फ़	barf
+54384	hin	1217562	3	हिमपात	himpāt
+54384	hop	1218516	1	nuva	
+54384	hsb	1218665	1	sněh	
+54384	hun	1226142	10	hó	
+54384	hun	1226143	10	hóesés	
+54384	hye	1232931	3	ձյուն	jyun
+54384	iii	1234308	10	ꃰ	vo
+54384	jav	1234580	5	salju	
+54384	kal	1234979	10	aput	
+54384	kat	1237652	10	თოვლი	tovli
+54384	kaz	1239089	2	қар	qar
+54384	khm	1240774	10	ព្រិល	prĭl
+54384	kir	1242145	2	кар	kar
+54384	kor	1245273	10	눈	nun
+54384	kor	1248230	10	강설	gangseol
+54384	krc	1250120	2	къар	kʺar
+54384	krl	1250215	11	lumi	
+54384	lad	1250432	1	nieve	
+54384	lao	1251055	3	ຫິມະ	hi ma
+54384	lat	1254032	1	nix	
+54384	lkt	1255934	10	wá	
+54384	ltg	1256601	1	snīgs	
+54384	ltz	1257841	1	schnéi	
+54384	mar	1259876	7	बर्फ	barph
+54384	mkd	1264738	1	снег	sneg
+54384	mlt	1267075	5	silġ	
+54384	mwl	1268147	1	niebe	
+54384	nap	1269746	1	neve	
+54384	nds	1271820	1	snee	
+54384	oci	1272967	1	nèu	
+54384	oss	1273564	10	мит	mit
+54384	pam	1273659	1	niebi	
+54384	roh	1275073	1	nev	
+54384	rup	1276072	1	neao	
+54384	rus	1293185	1	снег	sneg
+54384	sat	1300847	3	ᱦᱤᱢ	him
+54384	scn	1301246	1	nivi	
+54384	sco	1301629	1	snaw	
+54384	sin	1302580	3	හිම	hima
+54384	snd	1303227	7	برف	
+54384	sot	1303604	9	lehlwa	
+54384	srn	1303977	10	karki	
+54384	sro	1304125	1	nii	
+54384	tat	1305900	2	кар	qar
+54384	tgk	1308788	7	барф	barf
+54384	tgl	1310063	1	niyebe	
+54384	tuk	1311484	2	gar	
+54384	tur	1317754	2	kar	
+54384	tyv	1320174	2	хар	har
+54384	tzm	1320272	10	ⴰⴷⴼⵍ	adfl
+54384	uig	1320557	2	قار	qar
+54384	ukr	1323307	1	сніг	snih
+54384	vec	1326059	1	neve	
+54384	vie	1329459	10	tuyết	
+54384	vie	1329460	4	雪	
+54384	wln	1331004	1	nive	
+54384	xmf	1331560	10	თირი	tiri
+54384	zsm	1334420	5	salji	
+54384	asm	1417183	3	হিমপাত	himopat
+54384	tel	1433259	10	హిమ వర్షం	hima varṣaṃ
+54384	tel	1433260	10	మంచువర్షం	mañcuvarṣaṃ
+54384	tam	1447123	10	பனிபொழிவு	paṉipoḻivu
+54384	san	1468837	3	हिमपातः	himapātaḥ
+54384	pan	1532160	3	ਹਿਮਪਾਤ	himpāt
+54384	ori	1553103	3	ହିମପାତ	himôpatô
+54384	mal	1587163	3	ഹിമപാതം	himapātaṃ
+54384	mni	1607177	10	un tab	
+54384	kok	1622600	10	बर्फ पडणी	barph paḍṇī
+54384	kok	1622601	3	हिमपात	himpāt
+54384	kan	1648010	10	ಹಿಮ ಸುರಿಯುವುದು	hima suriyuvudu
+54384	kan	1648011	3	ಹಿಮಪಾತ	himapāta
+54384	kan	1648013	10	ಮಂಜು ಸುರಿಸುವುದು	mañju surisuvudu
+54384	ben	1698567	10	তুষারপাত	tuṣarôpat
+54384	ben	1698568	3	হিমপাত	himpat
+54384	brx	1716045	10	बरब गोग्लैनाय	barab goglaināy
+54384	zul	1759797	8	umoya	
+54384	tsn	1773301	10	sefokabolea	
+54384	tsn	1773302	9	letlhwa	
+54384	xho	1783838	8	umoya	
+54384	mya	1792451	10	နှင်း	hnang:
+54384	guj	1810441	3	હિમપાત	himpāt
+54384	nep	1831026	3	हिमपात	himapāta
+54384	urd	1845998	15	برف باری	brf bāri
+54384	kas	1873620	15	بَرف بٲری	barf bạ̄rī
+13043	eng	21561	1	fish	
+13043	ita	140184	1	pesce	
+13043	spa	179540	1	pez	
+13043	spa	179541	1	pisces	
+13043	cat	214094	1	peix	
+13043	glg	241746	1	peixe	
+13043	zho	323228	6	鱼	yu
+13043	jpn	388486	1	フィッシュ	fisshu
+13043	jpn	388489	6	魚	sakana
+13043	jpn	383489	10	鱗	uroko
+13043	tha	454016	17	ปลา	bplaa
+13043	tha	507834	4	มัจฉา	mạcc̄hā
+13043	tha	507877	4	มัสยา	mạs̄yā
+13043	sqi	512737	1	peshk	
+13043	bul	519404	3	риба	riba
+13043	dan	524964	1	fisk	
+13043	hrv	557526	3	riba	
+13043	isl	580934	1	fiskur	
+13043	ind	596812	5	ikan	
+13043	msa	621332	5	ikan	
+13043	pol	646550	10	wyłowić	
+13043	pol	646548	3	ryby	
+13043	pol	646551	3	ryba	
+13043	swe	692983	1	fisk	
+13043	nno	698935	1	fisk	
+13043	nob	702644	1	fisk	
+13043	fin	713111	9	kala	
+13043	eus	831913	10	arrain	
+13043	arb	861877	21	سَمَكَة	samaka
+13043	fra	873653	1	poisson	
+13043	ell	925348	20	ιχθύς	ikhthús
+13043	ell	917306	10	ψάρι	psári
+13043	nld	965522	1	vis	
+13043	por	982249	10	cardume	
+13043	por	982250	1	peixe	
+13043	por	982251	1	peixes	
+13043	por	982252	10	procurada	
+13043	ron	1008068	1	pește	
+13043	slk	1086560	3	ryba	
+13043	slv	1103961	3	riba	
+13043	abe	1126408	7	namas	
+13043	abk	1126438	10	аҧсыӡ	āpsəʒ
+13043	ace	1126580	10	eungkôt	
+13043	afr	1126933	1	vis	
+13043	agr	1128185	7	namak	
+13043	ain	1128252	10	チェㇷ゚	cheㇷ゚
+13043	alt	1128507	2	балык	balïk
+13043	amh	1128623	10	ዓሣ	ʿaśa
+13043	amm	1128803	10	la	
+13043	arg	1128951	1	peix	
+13043	ary	1129143	22	حوت	
+13043	ary	1129144	22	حوتة	
+13043	arz	1129370	21	سمكة	
+13043	ast	1130501	1	pexe	
+13043	bak	1131831	2	балыҡ	balïq
+13043	ban	1132124	10	be	
+13043	bar	1132141	1	fiisch	
+13043	bel	1132689	3	рыба	ryba
+13043	bjn	1134642	12	iwak	
+13043	bod	1134690	6	ཉ	nya
+13043	bor	1134788	10	karo	
+13043	bre	1135084	1	pesk	
+13043	bug	1135852	10	bale	
+13043	bxr	1135876	23	загаhан	zagahan
+13043	ccc	1136046	10	awachi	
+13043	ceb	1136325	14	isda	
+13043	ces	1139464	3	ryba	
+13043	che	1149167	10	чӏара	č̣ara
+13043	chr	1149500	10	ᎠᏣᏗ	atsadi
+13043	chu	1149856	3	рꙑба	
+13043	chu	1149857	3	ⱃⱏⰺⰱⰰ	
+13043	chv	1150077	10	пулă	pulă
+13043	chy	1150248	10	nomaˀne	
+13043	cjs	1150299	2	палық	
+13043	cmn	1153614	6	鱼	yu
+13043	crh	1165804	2	balıq	
+13043	csb	1166046	3	rëba	
+13043	cym	1166610	1	pysgodyn	
+13043	deu	1173975	1	fisch	
+13043	dgr	1191112	10	łıwe	
+13043	dlg	1191211	2	балык	balık
+13043	dsb	1191393	3	ryba	
+13043	epo	1193309	1	fiŝo	
+13043	fao	1199563	1	fiskur	
+13043	fij	1201050	5	ika	
+13043	fry	1201407	1	fisk	
+13043	fur	1202209	1	pes	
+13043	gag	1202740	2	balık	
+13043	gan	1202803	6	魚	
+13043	gan	1202804	6	鱼	
+13043	gla	1204098	1	iasg	
+13043	gle	1208402	1	iasc	
+13043	grc	1213327	20	ἰχθύς	ikhthús
+13043	hak	1214072	6	魚	yu
+13043	hak	1214073	6	鱼	yu
+13043	hat	1214190	1	pwason	
+13043	hau	1214592	10	kifi	
+13043	haw	1214714	5	iʻa	
+13043	hil	1214991	10	abakan	
+13043	hin	1215775	4	मछली	machlī
+13043	hin	1215776	4	मत्स्य	matsya
+13043	hin	1215777	4	माही	māhī
+13043	hop	1218509	10	paakiw	
+13043	hun	1221119	9	hal	
+13043	hye	1230124	20	ձուկ	juk
+13043	ibo	1234252	10	azụ	
+13043	iii	1234295	6	ꉛ	hxe
+13043	ilo	1234332	10	sida	
+13043	ilo	1234333	5	ikan	
+13043	ilo	1234334	10	lames	
+13043	jav	1234508	12	iwak	
+13043	kaa	1234642	2	balıq	
+13043	kal	1234765	10	aalisagaq	
+13043	kat	1236149	10	თევზი	tevzi
+13043	kaz	1238590	2	балық	balıq
+13043	khm	1239686	10	ត្រី	trei
+13043	kik	1241155	21	thamaki	
+13043	kir	1241615	2	балык	balık
+13043	kjh	1242449	2	палых	palıx
+13043	kor	1243949	10	물고기	mulgogi
+13043	kor	1243950	10	생선	saengseon
+13043	kpy	1249973	10	ынныын	ïnnïïn
+13043	krc	1250034	10	чабакъ	ćabakʺ
+13043	krc	1250035	2	балыкъ	balıkʺ
+13043	kum	1250283	2	балыкъ	balıq
+13043	lao	1250595	17	ປາ	pā
+13043	lat	1252314	1	piscis	
+13043	ltg	1256229	20	zivs	
+13043	ltz	1257168	1	fësch	
+13043	luo	1258324	10	rech	
+13043	mad	1258493	20	jukoʔ	
+13043	mar	1259340	4	मासा	māsā
+13043	mkd	1261460	3	риба	riba
+13043	mlt	1266370	22	ħuta	
+13043	moe	1267445	7	namesh	
+13043	mri	1267614	5	ika	
+13043	myv	1269020	9	кал	kal
+13043	nan	1269175	6	魚	yu
+13043	nan	1269176	6	鱼	yu
+13043	nap	1269662	1	pesce	
+13043	nav	1270491	10	łóóʼ	
+13043	nds	1271629	1	fisk	
+13043	new	1271925	6	न्या	nyā
+13043	nog	1272040	2	балык	balık
+13043	oci	1272441	1	peis	
+13043	ood	1273373	10	watopi	
+13043	oss	1273442	10	кæсалгæ	kæsalgæ
+13043	oss	1273443	10	кæф	kæf
+13043	oss	1273444	10	кæсаг	kæsag
+13043	pap	1273868	1	piska	
+13043	rhg	1274320	4	mas	
+13043	rmf	1274353	4	matšo	
+13043	roh	1274624	1	pesch	
+13043	roh	1274625	1	pestg	
+13043	rup	1275770	1	pescu	
+13043	rus	1281890	3	рыба	ryba
+13043	sah	1300025	2	балык	balık
+13043	scn	1300996	1	pisci	
+13043	sin	1302335	4	මාළුවා	māḷuvā
+13043	sms	1302996	9	kue´ll	
+13043	sot	1303399	8	sehlapi	
+13043	src	1303742	1	pische	
+13043	sun	1304360	10	lauk	
+13043	tah	1304539	10	eiya	
+13043	tat	1305601	2	балык	balıq
+13043	tet	1308134	5	ikan	
+13043	tgk	1308327	10	моҳӣ	mohī
+13043	tgl	1309279	14	isda	
+13043	ton	1310506	5	ika	
+13043	tpi	1310631	1	pis	
+13043	tuk	1311078	2	balyk	
+13043	tur	1313558	2	balık	
+13043	twf	1319987	10	pə̏’ə́na	
+13043	tyv	1320129	2	балык	balık
+13043	tzm	1320225	10	ⴰⵙⵍⵎ	aslm
+13043	uig	1320433	2	بېلىق	bëliq
+13043	ukr	1321344	3	риба	ryba
+13043	vec	1325999	1	pése	
+13043	vie	1326958	10	cá	
+13043	vie	1326959	6	ngư	
+13043	wln	1330841	10	pexhon	
+13043	xal	1331420	23	заһсн	zahsn
+13043	yor	1331575	10	eja	
+13043	yue	1331716	6	魚	
+13043	yue	1331717	6	鱼	
+13043	zsm	1332770	5	ikan	
+13043	tel	1438174	10	చేప	cēpa
+13043	tam	1453061	18	மீன்	mīṉ
+13043	san	1475251	4	मत्स्य	matsya
+13043	pan	1542109	4	ਮੱਛੀ	macchī
+13043	mal	1593145	18	മീന്‍	mīn‍
+13043	mal	1593146	4	മത്സ്യം	matsyaṃ
+13043	kan	1658790	18	ಮೀನು	mīnu
+13043	zul	1758446	19	inhlanzi	
+13043	tsn	1765057	8	tlhapi	
+13043	nso	1777257	8	hlapi	
+13043	xho	1784770	19	intlanzi	
+13043	mya	1793362	6	ငါး	nga:
+13043	guj	1821927	4	માછલી	māchlī
+13043	urd	1854753	4	ماہی	māہi
+13043	urd	1854754	4	متسیہ	mtsiہ
+13043	urd	1854755	4	مچھلی	mcھli
+13043	mon	1953138	23	загас	zagas
+46535	eng	46198	1	star	
+46535	ita	142692	1	stella	
+46535	spa	191233	1	estrella	
+46535	cat	217494	1	estel	
+46535	cat	227218	1	estrella	
+46535	glg	240959	1	estrela	
+46535	zho	285612	2	星	xing
+46535	jpn	421363	1	スタア	sutā
+46535	jpn	421365	2	星	hoshi
+46535	tha	448238	10	ดวงดาว	dwngdāw
+46535	tha	481505	7	ดาว	daao
+46535	dan	524613	1	stjerne	
+46535	hrv	566873	3	zvijezda	
+46535	ind	587097	4	bintang	
+46535	msa	611299	4	bintang	
+46535	pol	668165	3	gwiazda	
+46535	nno	698650	1	stjerne	
+46535	nob	702311	1	stjerne	
+46535	fin	741002	5	tähti	
+46535	eus	820609	10	izar	
+46535	arb	860523	11	نَجْم	najm
+46535	fra	870026	1	étoile	
+46535	fra	870027	1	star	
+46535	ell	914985	1	αστέρι	astéri
+46535	nld	937365	10	zon	
+46535	nld	934560	1	ster	
+46535	nld	933287	10	sterretje	
+46535	por	971589	1	estrela	
+46535	ron	1011544	1	stea	
+46535	lit	1054623	3	žvaigždė	
+46535	slk	1065178	3	hviezda	
+46535	slv	1116275	3	zvezda	
+46535	afr	1127639	1	ster	
+46535	agr	1128196	10	yaya	
+46535	alt	1128550	8	јылдыс	ǰïldïs
+46535	aqc	1128918	10	ххьӏоло́шхъӏан	
+46535	arg	1129036	1	estrela	
+46535	ast	1131076	1	estrella	
+46535	ava	1131688	10	ціва	cіwa
+46535	avd	1131729	1	ایستاره	
+46535	bel	1133797	3	звязда	zvjazda
+46535	bor	1134800	10	kuieje	
+46535	bre	1135468	1	stered	
+46535	bxr	1135902	6	одон	odon
+46535	ccc	1136193	10	katepulu	
+46535	ces	1144345	3	hvězda	
+46535	chr	1149638	10	ᏃᏈᏏ	noquisi
+46535	chu	1149933	3	ѕвѣзда	
+46535	cjs	1150340	8	чылтыс	
+46535	cmn	1151722	2	星	xing
+46535	cop	1165375	10	ⲥⲓⲟⲩ	siou
+46535	cor	1165533	1	steren	
+46535	cos	1165685	1	stella	
+46535	deu	1170756	1	stern	
+46535	dlg	1191223	8	һулус	hulus
+46535	epo	1195916	1	stelo	
+46535	esh	1198806	1	استر	
+46535	ewe	1199012	10	ɣletivi	
+46535	fao	1200282	1	stjørna	
+46535	fij	1201081	10	kalo kalo	
+46535	fry	1201720	1	stjer	
+46535	fur	1202386	1	stele	
+46535	gag	1202776	8	yıldız	
+46535	gla	1205246	13	reul	
+46535	gla	1205721	10	rionnag	
+46535	gle	1209746	13	réalta	
+46535	hat	1214402	1	zetwal	
+46535	hin	1217239	1	तारा	tārā
+46535	hye	1232331	1	աստղ	astł
+46535	kaa	1234678	8	juldız	
+46535	kal	1234927	10	ulloriaq	
+46535	kat	1237430	10	ვარსკვლავი	varsḳvlavi
+46535	kaz	1239005	8	жұлдыз	juldız
+46535	khm	1240555	1	តារា	taréa
+46535	khm	1240556	10	ផ្កាយ	phkay
+46535	kir	1242075	8	жылдыз	cıldız
+46535	kjh	1242500	8	чылтыс	çıltıs
+46535	kor	1247470	10	별	byeol
+46535	krc	1250104	8	жулдуз	culduz
+46535	krc	1250105	8	джулдуз	dculduz
+46535	kum	1250329	8	юлдуз	yulduz
+46535	lao	1250962	7	ດາວ	dāo
+46535	lao	1250963	10	ນັກຂັດຕະ	nak khat ta
+46535	lat	1253641	1	stella	
+46535	liv	1255859	5	tēḑ	
+46535	ltg	1256509	3	zvaigzne	
+46535	ltz	1257726	1	stär	
+46535	luo	1258348	10	sulwe	
+46535	mhn	1260186	1	stern	
+46535	mkd	1260948	3	ѕвезда	dzvezda
+46535	mlt	1266930	11	niġma	
+46535	mlt	1266931	1	stilla	
+46535	mnc	1267392	10	ᡠᠰᡳᡥᠠ	
+46535	nay	1271463	10	tuldi	
+46535	nog	1272060	8	юлдыз	yuldız
+46535	oci	1272849	1	estela	
+46535	rap	1274240	10	hetu'u	
+46535	rhg	1274338	1	tara	
+46535	roh	1275016	1	staila	
+46535	roh	1275017	1	steila	
+46535	roh	1275018	1	stéla	
+46535	rup	1276009	1	steauo	
+46535	rus	1290452	3	звезда	zvezda
+46535	ryu	1299974	10	ふし	fushi
+46535	sah	1300099	8	сулус	sulus
+46535	scn	1301202	1	stidda	
+46535	shi	1302236	12	itri	
+46535	sin	1302534	1	තරුව	taruva
+46535	sot	1303557	14	naledi	
+46535	tah	1304550	10	feti’a	
+46535	tat	1305846	8	йолдыз	yoldız
+46535	tgk	1308732	1	ситора	sitora
+46535	tgl	1309940	10	bituin	
+46535	tgl	1309941	1	tala	
+46535	tuk	1311420	8	ýyldyz	
+46535	tur	1316882	8	yıldız	
+46535	tur	1316883	8	yultuz	
+46535	twf	1320055	10	p’ȍxəłóna	
+46535	tyv	1320170	8	сылдыс	sıldıs
+46535	tzm	1320265	12	ⵉⵜⵔⵉ	itri
+46535	uig	1320530	8	يۇلتۇز	yultuz
+46535	ukr	1322922	3	звізда	zvizda
+46535	vie	1328991	2	sao	
+46535	xal	1331465	6	одн	odn
+46535	zsm	1333659	4	bintang	
+46535	tel	1423174	1	తార	tāra
+46535	san	1453932	1	तारा	tārā
+46535	pan	1538506	1	ਸਟਾਰ	saṭār
+46535	pan	1521761	1	ਾਰਾ	ārā
+46535	ori	1542928	1	ତାରା	tara
+46535	mal	1576863	1	താരം	tāraṃ
+46535	kok	1615561	1	तारो	tāro
+46535	ben	1690523	1	তারা	tara
+46535	zul	1758006	9	inkanyezi	
+46535	tsn	1764799	14	nalêdi	
+46535	xho	1785838	9	inkwenkwezi	
+46535	mya	1793324	10	ကြယ်	krai
+46535	guj	1797670	1	સ્ટાર	sṭār
+46535	guj	1800947	1	તારો	tāro
+46535	urd	1851971	1	تارہ	tārہ
+46535	urd	1837549	1	اسٹار	āsٹār
+46535	mon	1945175	6	од	od
+15848	eng	4375	1	chair	
+15848	ita	161025	7	seggiola	
+15848	ita	159376	10	poltrona	
+15848	spa	182063	7	silla	
+15848	cat	216045	1	cadira	
+15848	glg	241130	1	cadeira	
+15848	zho	325670	3	椅子	yi zi
+15848	jpn	392128	1	チェア	chea
+15848	jpn	392131	3	椅子	isu
+15848	tha	467166	11	เก้าอี้	kêāxī̂
+15848	tha	504158	10	ม้านั่ง	m̂ā nạ̀ng
+15848	sqi	511190	1	karrige	
+15848	bul	519807	2	стол	stol
+15848	dan	523336	2	stol	
+15848	hrv	559093	2	stolac	
+15848	hrv	559094	2	stolica	
+15848	isl	572127	2	stóll	
+15848	ind	598052	4	kursi	
+15848	ind	597514	9	bangku	
+15848	msa	622634	4	kursi	
+15848	msa	622075	9	bangku	
+15848	msa	613700	4	kerusi	
+15848	pol	648527	5	krzesło	
+15848	swe	693693	2	stol	
+15848	nno	697594	2	stol	
+15848	nob	701099	2	stol	
+15848	fin	725532	2	tuoli	
+15848	eus	829837	10	aulki	
+15848	heb	848117	4	כִּסֵּא	kissē
+15848	arb	858142	4	كُرْسِي	kursī
+15848	fra	870476	1	chaise	
+15848	ell	921486	1	καρέκλα	karékla
+15848	nld	945654	10	crapaud	
+15848	nld	963137	2	stoel	
+15848	por	984659	10	assento	
+15848	por	984660	1	cadeira	
+15848	ron	1018729	13	scaun	
+15848	slk	1088014	2	stolička	
+15848	slv	1105878	2	stol	
+15848	afr	1127000	2	stoel	
+15848	amh	1128627	10	ወንበር	wänbär
+15848	arz	1129392	4	كرسي	
+15848	bel	1132780	2	стул	stul
+15848	bel	1132710	5	крэсла	kresla
+15848	bre	1135119	1	kador	
+15848	ceb	1136326	10	lingkoranan	
+15848	ces	1139834	10	židle	
+15848	cmn	1154164	3	椅子	yi zi
+15848	cop	1165328	10	ⲧⲟⲧⲥ	tots
+15848	cym	1166686	1	cadair	
+15848	deu	1174693	2	stuhl	
+15848	epo	1193505	7	seĝo	
+15848	fur	1202220	1	čhadree	
+15848	gla	1204231	1	cathair	
+15848	gle	1208544	1	cathaoir	
+15848	hin	1215889	4	कुरसी	kursī
+15848	hun	1221523	10	szék	
+15848	hye	1230307	10	աթոռ	atʿoṙ
+15848	kam	1235066	10	kibila	
+15848	kat	1236267	10	სკამი	sḳami
+15848	kaz	1238617	8	орындық	orındıq
+15848	khm	1239732	11	កៅអី	kau’ei
+15848	kik	1241158	10	gete	
+15848	kir	1241693	8	орундук	orunduk
+15848	kor	1244221	3	의자	uija
+15848	kor	1244222	3	椅子	
+15848	lao	1250628	10	ຕັ່ງ	tang
+15848	lat	1252410	1	cathedra	
+15848	ltg	1256255	5	krāslys	
+15848	ltz	1257220	2	stull	
+15848	mkd	1261707	2	стол	stol
+15848	mkd	1261708	2	столица	stolica
+15848	mlt	1266417	7	siġġu	
+15848	nan	1269189	3	椅仔	yi zi
+15848	oci	1272462	1	cadièra	
+15848	roh	1274659	10	sutga	
+15848	rup	1275784	13	scamnu	
+15848	rus	1282720	2	стул	stul
+15848	scn	1301015	7	seggia	
+15848	sin	1302346	10	පුටුව	puṭuva
+15848	smo	1302900	10	nofoa	
+15848	sot	1303415	2	setulo	
+15848	tat	1305618	8	урындык	urındıq
+15848	tgk	1308348	4	курси	kursi
+15848	tgl	1309333	7	silya	
+15848	tur	1313610	10	koltuk	
+15848	tur	1313797	10	iskemle	
+15848	tur	1313798	6	sandalye	
+15848	ukr	1321479	2	стілець	stilecʹ
+15848	ukr	1321377	5	крісло	krislo
+15848	vec	1326002	1	carega	
+15848	vie	1327119	10	ghế	
+15848	zsm	1332875	4	kerusi	
+15848	asm	1410162	12	চকী	soki
+15848	tel	1433672	4	కుర్చీ	kurcī
+15848	tam	1447434	10	நாற்காலி	nāṟkāli
+15848	san	1469225	10	मञ्चिका	mañcikā
+15848	pan	1532650	4	ਰਸੀ	ursī
+15848	ori	1553566	12	ଚଉକି	côuki
+15848	mal	1582810	10	കസേര	kasēra
+15848	mni	1610981	12	coki	
+15848	kok	1622967	4	खुर्ची	khurchī
+15848	kan	1648555	4	ಕುರ್ಚಿ	kurci
+15848	ben	1698977	4	কুরসি	kurôsi
+15848	ben	1698980	1	কেদারা	kedara
+15848	brx	1716509	10	मासि	māsi
+15848	zul	1758080	2	isihlalo	
+15848	tsn	1767980	2	setulô	
+15848	nso	1779915	2	setulo	
+15848	xho	1788284	2	isitulo	
+15848	mya	1793604	10	ထိုင်ခုံ	htuinghkum
+15848	guj	1811022	4	ખુરશી	khurśī
+15848	nep	1831362	4	कुर्सी	kursī
+15848	urd	1846470	4	کرسی	krsi
+15848	kas	1873949	4	کُرسی	kursī
+15848	mon	1953015	6	сандал	sandal
+14524	eng	684	1	ball	
+14524	spa	181063	1	pelota	
+14524	cat	212126	1	pilota	
+14524	zho	324484	10	球形物	qiu xing wu
+14524	jpn	355645	1	ボール	bo-ru
+14524	jpn	355647	10	毬	mari
+14524	jpn	355648	8	球	tama
+14524	jpn	355649	10	鞠	mari
+14524	tha	460019	1	ลูกบอล	lūkbxl
+14524	tha	483831	1	บอล	bɔɔl
+14524	sqi	512953	2	top	
+14524	hrv	558382	6	lopta	
+14524	ind	585558	1	bola	
+14524	msa	609719	1	bola	
+14524	pol	647512	1	piłka	
+14524	fin	725108	1	pallo	
+14524	eus	830529	1	baloi	
+14524	eus	838676	1	pilota	
+14524	arb	858138	10	كُرَة	kura
+14524	fra	866357	1	balle	
+14524	fra	876892	1	bille	
+14524	ell	918185	1	μπάλα	mpála
+14524	nld	931553	1	bol	
+14524	nld	928994	1	bal	
+14524	nld	952203	10	frommel	
+14524	nld	929529	10	prop	
+14524	por	983534	1	bola	
+14524	ron	1017999	1	bilă	
+14524	lit	1054543	10	sviedinys	
+14524	lit	1060292	10	kamuolys	
+14524	slk	1066839	10	guľa	
+14524	slv	1104989	10	žoga	
+14524	bar	1132142	1	boi	
+14524	bel	1132722	3	мяч	mjač
+14524	ccc	1136051	10	takululu	
+14524	ces	1139578	3	míč	
+14524	chr	1149372	10	ᎠᎳᏍᎦᎶᏗ	alasgalodi
+14524	cmn	1153790	8	球	qiu
+14524	deu	1174235	1	ball	
+14524	epo	1193377	1	pilko	
+14524	fry	1201419	1	bal	
+14524	fry	1201420	1	bol	
+14524	gle	1208437	10	liathróid	
+14524	glv	1212248	10	bluckan	
+14524	glv	1212249	10	crig	
+14524	hat	1214196	1	boul	
+14524	hin	1215816	10	गेंद	gend
+14524	hun	1221255	6	labda	
+14524	hye	1230185	10	գնդիկ	gndik
+14524	jam	1234425	1	baal	
+14524	kat	1236185	10	ბურთი	burti
+14524	lat	1252338	1	pila	
+14524	mkd	1261549	10	топка	topka
+14524	roh	1274631	1	balla	
+14524	rus	1282165	3	мяч	mjač
+14524	rus	1282166	10	шар	šar
+14524	rus	1282167	10	шарик	šarik
+14524	scn	1301003	1	palla	
+14524	scn	1301004	10	baddùni	
+14524	tur	1313643	2	top	
+14524	ukr	1321392	3	м'яч	mʺjač
+14524	zsm	1332793	1	bola	
+14524	asm	1412213	1	বল	bol
+14524	tel	1427984	1	బాలు	bālu
+14524	tel	1427985	4	చెండు	ceṇḍu
+14524	tel	1427986	10	పుట్టచెండు	puṭṭaceṇḍu
+14524	tam	1443442	4	பந்து	pantu
+14524	san	1461509	5	कन्दुकः	kandukaḥ
+14524	pan	1526550	1	ਬਾਲ	bāl
+14524	ori	1547781	4	ପେଣ୍ଡୁ	peṇḍu
+14524	ori	1547782	1	ବଲ	bôlô
+14524	mal	1581579	10	ഉരുണ്ട കളിക്കോപ്പു്‌	uruṇṭa kaḷikkōppŭ‌
+14524	mal	1581580	4	പന്ത്	pant
+14524	mni	1607394	10	koqgaubi	
+14524	mni	1607395	1	bol	
+14524	kok	1618431	1	बॉल	bŏl
+14524	kan	1639864	5	ಕಂದುಕ	kanduka
+14524	kan	1639865	4	ಚೆಂಡು	ceṇḍu
+14524	kan	1639866	1	ಬಾಲು	bālu
+14524	ben	1693974	1	বল	bôl
+14524	brx	1711205	1	बल	bal
+14524	ven	1757100	1	bola	
+14524	zul	1760092	1	ibhola	
+14524	tsn	1767133	10	tsamuru	
+14524	tsn	1767134	10	thele	
+14524	tsn	1767135	7	kgwele	
+14524	tsn	1767136	10	kgolokwe	
+14524	nso	1779072	10	nkgokolo	
+14524	nso	1779073	1	polo	
+14524	nso	1779074	7	kgwele	
+14524	nso	1779075	10	sefaga	
+14524	xho	1787113	1	ibhola	
+14524	guj	1802365	5	કંદુક	kanduk
+14524	guj	1802367	1	બોલ	bol
+14524	nep	1822724	1	बल	bala
+14524	nep	1827593	10	भकुन्डो	bhakunḍo
+14524	urd	1835765	1	بال	bāl
+14524	kas	1869833	1	بال	bāl
+14524	mon	1947365	10	бөмбөг	bömbög
+6525	eng	9184	1	horn	
+6525	ita	149603	1	corno	
+6525	spa	173240	1	cuerno	
+6525	cat	207354	10	banya	
+6525	zho	296406	4	角	jiao
+6525	jpn	378470	4	角	kaku
+6525	tha	485517	10	เขา	kǎo
+6525	sqi	511949	10	bri	
+6525	bul	518035	2	рог	rog
+6525	dan	525324	1	horn	
+6525	hrv	552815	2	rog	
+6525	isl	573903	1	horn	
+6525	ind	593506	5	sumbu	
+6525	ind	593507	6	cula	
+6525	ind	593508	3	tanduk	
+6525	msa	617975	5	sumbu	
+6525	msa	617976	6	cula	
+6525	msa	617977	3	tanduk	
+6525	pol	642285	2	róg	
+6525	pol	642286	2	rożek	
+6525	swe	694065	1	horn	
+6525	nno	699199	1	horn	
+6525	nob	702974	1	horn	
+6525	fin	712240	1	sarvi	
+6525	eus	826130	10	adar	
+6525	arb	861046	1	قَرْن	qarn
+6525	fra	866730	1	corne	
+6525	ell	925518	1	κέρατο	kérato
+6525	nld	953923	1	hoorn	
+6525	nld	953927	1	hoorntje	
+6525	nld	938568	1	horen	
+6525	por	976604	10	chifre	
+6525	por	976605	1	corno	
+6525	slk	1068811	2	roh	
+6525	slk	1083319	2	paroh	
+6525	slv	1097622	2	rog	
+6525	bel	1132459	2	рог	roh
+6525	ccc	1135985	10	c̈hepa	
+6525	ces	1138980	2	roh	
+6525	chu	1149813	2	рогъ	
+6525	chu	1149814	2	ⱃⱁⰳⱏ	
+6525	cmn	1152998	4	角	jiao
+6525	csb	1166038	2	róg	
+6525	deu	1172849	1	horn	
+6525	dng	1191238	10	гә	gə
+6525	dng	1191239	10	җүә	žyə
+6525	dsb	1191315	2	rog	
+6525	epo	1192776	1	korno	
+6525	fao	1199334	1	horn	
+6525	fry	1201296	1	hoarn	
+6525	gle	1208041	10	adharc	
+6525	grc	1213256	1	κέρας	kéras
+6525	hin	1215592	1	सींग	sīṅg
+6525	hsb	1218532	2	róh	
+6525	hun	1220672	1	szarv	
+6525	hye	1229860	10	եղջյուր	ełǰyur
+6525	hye	1229861	10	պոզ	poz
+6525	hye	1229862	10	կոտոշ	kotoš
+6525	kat	1235964	10	რქა	rka
+6525	kaz	1238500	8	мүйіз	müyiz
+6525	kor	1243603	10	뿔	ppul
+6525	lat	1252085	1	cornu	
+6525	ltg	1256129	2	rogs	
+6525	mkd	1261170	2	рог	rog
+6525	nav	1270063	10	adeeʼ	
+6525	prg	1274158	2	ragis	
+6525	rup	1275705	1	cornu	
+6525	rus	1281053	2	рог	rog
+6525	scn	1300930	1	cornu	
+6525	tgk	1308254	7	шох	šox
+6525	tly	1310384	7	شخ	śx
+6525	tur	1313206	8	boynuz	
+6525	ukr	1321076	2	ріг	rih
+6525	vie	1326719	1	sừng	
+6525	zsm	1332524	3	tanduk	
+6525	san	1475395	1	शृङ्ग	śṛṅga
+6525	zul	1758694	11	uphondo	
+6525	tsn	1766063	9	lenaka	
+6525	nso	1777995	9	lenaka	
+6525	xho	1785054	11	uphondo	
+6525	mya	1792545	4	ချို	hkyui
+6525	mya	1792546	4	ဦးချို	u:hkyui
+6525	urd	1855059	1	سینگ	sing
+6525	mon	1947571	10	эвэр	ever
+29967	eng	8689	1	hand	
+29967	eng	45148	2	manus	
+29967	eng	24452	9	mitt	
+29967	eng	20779	11	paw	
+29967	ita	153975	2	mano	
+29967	spa	170698	2	mano	
+29967	cat	204443	2	mà	
+29967	glg	243098	2	man	
+29967	zho	284932	10	前足	qian zu
+29967	zho	284933	6	手	shou
+29967	jpn	405890	1	ハンド	hando
+29967	jpn	405891	10	御手々	go te 々
+29967	jpn	405892	10	御手手	go te shu
+29967	jpn	405893	10	お手々	o te 々
+29967	jpn	405894	10	お手て	o te te
+29967	jpn	357468	6	手	te
+29967	jpn	405895	10	お手手	o te shu
+29967	tha	457728	13	มือ	mʉʉ
+29967	tha	500567	5	หัตถ์	h̄ạtt̄h̒
+29967	tha	509513	10	กร	gɔɔn
+29967	bul	520647	3	ръка	rǎka
+29967	dan	525218	1	hånd	
+29967	dan	525219	1	hånd-	
+29967	dan	525220	10	klør 'fem	
+29967	fas	530632	5	دست	dst
+29967	hrv	563060	3	ruka	
+29967	hrv	563062	10	šaka	
+29967	isl	576393	1	hönd	
+29967	isl	577921	7	mund	
+29967	ind	596652	4	tangan	
+29967	msa	621173	4	tangan	
+29967	pol	641815	3	ręka	
+29967	swe	692217	1	hand	
+29967	nno	699124	1	hand	
+29967	nob	702876	1	hånd	
+29967	fin	722047	8	käsi	
+29967	fin	741784	2	manus	
+29967	eus	825874	10	esku	
+29967	arb	864351	12	يَد	yad
+29967	fra	879057	2	main	
+29967	ell	914363	5	χέρι	khéri
+29967	nld	953310	1	hand	
+29967	por	990471	2	mão	
+29967	ron	1008771	2	mână	
+29967	slv	1104827	3	roka	
+29967	arz	1129538	12	ايد	
+29967	bel	1133218	3	рука	ruka
+29967	bjn	1134646	4	tangan	
+29967	bod	1134706	16	ལག	lag
+29967	bor	1134796	10	kera	
+29967	bqi	1134833	5	دست	
+29967	ccc	1136135	10	shijpa	
+29967	ces	1141795	3	ruka	
+29967	chu	1149891	3	рѫка	
+29967	cmn	1156708	6	手	shou
+29967	cop	1165353	10	ϭⲓϫ	qij
+29967	cym	1166984	14	llaw	
+29967	dak	1168169	10	nape	
+29967	deu	1178093	1	hand	
+29967	dsb	1191422	3	ruka	
+29967	epo	1194480	2	mano	
+29967	evn	1198891	10	ӈалэ	ӈale
+29967	ewe	1198977	10	asi	
+29967	fao	1199908	1	hond	
+29967	fry	1201554	1	hân	
+29967	fur	1202294	2	man	
+29967	gle	1209302	14	lámh	
+29967	haw	1214666	10	lima	
+29967	hin	1216419	5	हाथ	hāth
+29967	hsb	1218620	3	ruka	
+29967	hun	1223168	8	kéz	
+29967	hye	1231122	10	ձեռք	jeṙkʿ
+29967	kal	1234836	10	assak	
+29967	kaz	1238787	14	қол	qol
+29967	khm	1239986	10	ដៃ	dai
+29967	kir	1241861	14	кол	kol
+29967	kor	1245472	10	손	son
+29967	lao	1250776	13	ມື	mư̄
+29967	lat	1252965	2	manus	
+29967	lbe	1255608	10	ка	ka
+29967	ltg	1256376	3	rūka	
+29967	ltg	1256377	10	plauksts	
+29967	mhn	1260180	1	hònt	
+29967	min	1260254	4	tangan	
+29967	mkd	1262791	3	рака	raka
+29967	mlt	1266633	12	id	
+29967	mnk	1267413	10	buloo	
+29967	mri	1267715	10	ringa	
+29967	naq	1269923	10	ǁkhôab	
+29967	nav	1270718	10	álaʼ	
+29967	nay	1271448	10	mari	
+29967	nmn	1271971	10	ǀkxʼàa	
+29967	oci	1272626	2	man	
+29967	oss	1273474	10	арм	arm
+29967	ppl	1274081	10	-mey	
+29967	roh	1274796	2	maun	
+29967	rup	1275896	2	mãnã	
+29967	rus	1286156	3	рука	ruka
+29967	rus	1286158	10	кисть руки	kistʹ ruki
+29967	scn	1301085	2	manu	
+29967	shi	1302219	15	afus	
+29967	sin	1302407	5	අත	ata
+29967	sot	1303477	10	letsoho	
+29967	tgk	1308492	5	даст	dast
+29967	tly	1310414	5	دست	dst
+29967	tpi	1310668	1	han	
+29967	tur	1315070	10	el	
+29967	tzm	1320239	15	ⴰⴼⵓⵙ	afus
+29967	ukr	1322114	3	рука	ruka
+29967	vie	1327873	10	tay	
+29967	vie	1327874	10	bàn tay	
+29967	wln	1330908	2	mwin	
+29967	zsm	1333410	4	tangan	
+29967	tel	1438324	10	చెయ్యి	ceyyi
+29967	san	1475414	5	हस्त	hasta
+29967	pan	1542164	5	ਹਸਤ	hasat
+29967	ven	1756326	2	manus	
+29967	ven	1756327	11	paw	
+29967	ven	1756328	1	hand	
+29967	ven	1756329	9	mitt	
+29967	zul	1761874	2	manus	
+29967	zul	1761875	11	paw	
+29967	zul	1761876	1	hand	
+29967	zul	1761877	9	mitt	
+29967	tsn	1769091	10	seatla	
+29967	mya	1793078	16	လက်	lak
+29967	urd	1841340	5	ہاتھ	ہātھ
+29967	mon	1948020	10	гар	gar
+9482	eng	14814	13	hide	
+9482	eng	14815	2	pelt	
+9482	eng	14816	1	skin	
+9482	ita	145670	2	pelle	
+9482	spa	176286	2	pellejo	
+9482	spa	176287	2	piel	
+9482	cat	210471	8	cuir	
+9482	cat	210472	2	pell	
+9482	zho	279172	19	毛皮	mao pi
+9482	jpn	383422	1	スキン	sukin
+9482	jpn	383425	19	皮	kawa
+9482	tha	463179	16	หนัง	nǎng
+9482	sqi	512313	10	lëkurë	
+9482	sqi	512314	10	gëzof	
+9482	sqi	512315	10	lëvore	
+9482	bul	518733	3	кожа	koja
+9482	dan	524735	1	skind	
+9482	fas	530096	12	پوست	pust
+9482	fas	532482	10	پوست خام	pust xâm
+9482	hrv	555093	3	koža	
+9482	hrv	555094	10	koža s krznom	
+9482	hrv	555095	10	krzno	
+9482	isl	573727	13	húð	
+9482	isl	574079	1	skinn	
+9482	isl	581017	10	hamur	
+9482	ind	592244	7	kulit	
+9482	ind	595284	10	kulit bulu	
+9482	msa	616663	7	kulit	
+9482	pol	644272	10	obrzucić	
+9482	pol	644273	10	obrzucać	
+9482	pol	636578	10	zarzucenie	
+9482	pol	644274	10	zawalenie	
+9482	pol	644275	10	zasypanie	
+9482	pol	644276	10	zamelinować się	
+9482	pol	644277	10	zadekować się	
+9482	pol	644278	10	ukryć się	
+9482	pol	644279	10	skryć się	
+9482	pol	644280	10	schować się	
+9482	pol	644281	10	poukrywać	
+9482	pol	644282	10	pochować	
+9482	pol	644287	10	kryć	
+9482	pol	644288	10	zamaskować	
+9482	pol	641246	10	chować się	
+9482	pol	641247	10	kryć się	
+9482	pol	641248	10	ukrywać się	
+9482	pol	641249	10	skrywać się	
+9482	pol	644289	10	ukryć	
+9482	pol	644290	10	futerko	
+9482	pol	644291	10	żywić	
+9482	pol	644292	10	chować	
+9482	pol	644293	10	melinować się	
+9482	pol	644294	10	przykrywać	
+9482	swe	696585	1	skinn	
+9482	nno	698751	1	skinn	
+9482	nob	702424	1	skinn	
+9482	fin	717063	10	iho	
+9482	fin	717064	10	nahka	
+9482	fin	717065	10	vuota	
+9482	fin	717066	10	talja	
+9482	fin	717067	10	turkis	
+9482	eus	821370	10	azal	
+9482	eus	835714	10	larru	
+9482	eus	835722	10	larruazal	
+9482	arb	857729	18	جِلْد	jild
+9482	fra	878484	8	cuir	
+9482	fra	874280	2	peau	
+9482	ell	913499	10	δέρμα	dérma
+9482	ell	911523	10	φλοιός	phloiós
+9482	nld	937493	2	vel	
+9482	nld	935313	10	vloeitje	
+9482	nld	930569	13	huid	
+9482	por	979277	2	pele	
+9482	ron	1017953	10	blană	
+9482	ron	1008522	2	piele	
+9482	lit	1056492	10	kailis	
+9482	slk	1064555	10	srsť	
+9482	slk	1068901	3	koža	
+9482	slv	1100743	3	koža	
+9482	afr	1126857	2	vel	
+9482	alt	1128494	4	тере	tere
+9482	amm	1128800	10	tono	
+9482	arz	1129338	18	جلد	
+9482	ast	1130459	2	piel	
+9482	bak	1131806	4	тире	tire
+9482	bel	1132539	8	скура	skura
+9482	bre	1135025	20	kroc'hen	
+9482	bxr	1135869	11	арhан	arhan
+9482	ccc	1136011	10	s̈hama	
+9482	ceb	1136314	10	panit	
+9482	ces	1139173	3	kůže	
+9482	che	1149150	10	цӏока	c̣oka
+9482	chu	1149825	3	кожа	
+9482	chv	1150057	4	тир	tir
+9482	cjs	1150288	4	тере	
+9482	cmn	1153223	19	皮	pi
+9482	cmn	1153224	10	禽兽的外皮	qin shou de wai pi
+9482	cym	1166505	20	croen	
+9482	deu	1173270	2	fell	
+9482	deu	1173272	2	pelz	
+9482	dlg	1191208	4	тирии	tirii
+9482	dsb	1191348	3	kóža	
+9482	epo	1192998	2	felo	
+9482	epo	1192999	13	haŭto	
+9482	fry	1201348	13	hûd	
+9482	fur	1202162	2	piel	
+9482	gag	1202731	4	deri	
+9482	gla	1203953	6	craiceann	
+9482	gla	1203954	17	seiche	
+9482	gle	1208183	17	seithe	
+9482	gle	1208185	6	craiceann	
+9482	glv	1212181	6	crackan	
+9482	hat	1214180	2	po	
+9482	haw	1214691	7	ʻili	
+9482	hin	1215653	14	त्वचा	tvachā
+9482	hun	1220846	10	bőr	
+9482	hye	1229947	10	մորթի	mortʿi
+9482	hye	1229948	10	մաշկ	mašk
+9482	hye	1229949	10	մորթ	mortʿ
+9482	kaa	1234632	4	teri	
+9482	kat	1236030	10	კანი	ḳani
+9482	kaz	1238528	4	тері	teri
+9482	khm	1239603	10	ស្បែក	sbêk
+9482	kir	1241561	4	тери	teri
+9482	kjh	1242438	4	теер	teer
+9482	kor	1243726	10	가죽	gajuk
+9482	kor	1243727	10	살갗	salgat
+9482	kor	1243728	10	피부	pibu
+9482	kpy	1249967	10	гылгын	gïlgïn
+9482	krc	1250016	4	тери	teri
+9482	kum	1250268	4	тери	teri
+9482	kum	1250269	10	оьнг	öñ
+9482	lao	1250546	16	ຫນັງ	nang
+9482	lat	1252170	13	cutis	
+9482	mkd	1261287	3	кожа	koža
+9482	mri	1267572	7	kiri	
+9482	nog	1272032	4	тери	teri
+9482	oci	1272360	2	pèl	
+9482	pag	1273634	10	baog	
+9482	roh	1274542	2	pel	
+9482	rus	1281385	8	шкура	škura
+9482	rus	1281386	3	кожа	koža
+9482	sah	1300012	4	тирии	tirii	
+9482	sun	1304348	7	kulit	
+9482	tat	1305557	4	тире	tire
+9482	tgk	1308275	12	пӯст	püst
+9482	tgl	1309231	10	balat	
+9482	tpi	1310613	1	skin	
+9482	tuk	1311022	4	deri	
+9482	tur	1313345	4	deri	
+9482	tzm	1320212	10	ⵉⵍⵎ	ilm
+9482	uig	1320405	4	تېرە	tëre
+9482	vec	1325986	2	pełe	
+9482	vie	1326792	10	da	
+9482	xal	1331412	11	арсн	arsn
+9482	zsm	1332586	7	kulit	
+9482	tel	1422328	9	తోలు	tōlu
+9482	tel	1438288	8	చర్మము	carmamu
+9482	tam	1439598	9	தோல்	tōl
+9482	mal	1593264	8	ചര്‍മ്മം	car‍mmaṃ
+9482	mal	1576510	9	തൊലി	toli
+9482	kan	1640775	8	ಚರ್ಮ	carma
+9482	zul	1758041	5	isikhumba	
+9482	tsn	1764839	10	letlalô	
+9482	nso	1780181	10	mokgopa	
+9482	xho	1787116	5	isikhumba	
+9482	mya	1792948	10	အရေ	a.re
+9482	urd	1855009	14	توچا	tucā
+9482	mon	1945860	11	арьс	arʹs
+72252	eng	41319	1	sand		English
+72252	ita	141903	3	arena		Italian
+72252	ita	141905	1	sabbia		Italian
+72252	spa	180833	3	arena		Spanish
+72252	cat	237703	3	arena		Catalan
+72252	zho	280602	5	沙子	sha zi	Chinese, Mandarin
+72252	jpn	416765	1	サンド	sando	Japanese
+72252	jpn	436667	5	沙子	isago	Japanese
+72252	jpn	436668	10	真砂	masago	Japanese
+72252	tha	450119	10	ทราย	traai	Thai
+72252	tha	502226	10	ดินทราย	din thrāy	Thai
+72252	sqi	515510	10	rërë		Albanian
+72252	bul	522605	4	пясък	pjasǎk	Bulgarian
+72252	dan	524742	1	sand		Danish
+72252	fas	533213	10	ماسه	mâsh	Persian
+72252	hrv	571494	4	pijesak		Croatian
+72252	isl	577501	1	sandur		Icelandic
+72252	ind	606989	7	pasir		Indonesian
+72252	msa	630741	7	pasir		Malay
+72252	pol	683518	4	piasek		Polish
+72252	swe	695323	1	sand		Swedish
+72252	nno	698757	1	sand		Norwegian Nynorsk
+72252	nob	702430	1	sand		Norwegian Bokmal
+72252	fin	789542	10	hiekka		Finnish
+72252	eus	821801	10	hondar		Basque
+72252	eus	823027	3	harea		Basque
+72252	arb	861469	12	رَمْل	raml	Arabic, Standard
+72252	fra	874841	1	sable		French
+72252	ell	922372	10	άμμος	ámmos	Greek
+72252	nld	966761	1	zand		Dutch
+72252	por	1007299	3	areia		Portuguese
+72252	ron	1008310	10	nisip		Romanian
+72252	slv	1125856	10	mivka		Slovene
+72252	slv	1125857	4	pesek		Slovene
+72252	afr	1128037	1	sand		Afrikaans
+72252	alt	1128581	2	кумак	kumak	Altai, Southern
+72252	arz	1129826	12	رمل		Arabic, Egyptian Spoken
+72252	bak	1132075	2	ҡом	qom	Bashkort
+72252	bel	1134359	4	пясок	pjasok	Belarusian
+72252	bxr	1135916	6	элһэн	elhen	Buriat, Russia
+72252	ccc	1136181	10	mas̈hkojpe		Chamicuro
+72252	ces	1147168	4	písek		Czech
+72252	che	1149296	2	гӏум	ġum	Chechen
+72252	cho	1149336	10	shinuk		Choctaw
+72252	chr	1149739	10	ᏃᏯ	noya	Cherokee
+72252	chu	1149997	4	пѣсъкъ		Slavonic, Church
+72252	chv	1150213	10	хӑйӑр	hăjăr	Chuvash
+72252	cjs	1150369	2	қум		Shor
+72252	cjs	1150370	2	қумақ		Shor
+72252	cmn	1163417	5	沙子	sha zi	Chinese, Mandarin
+72252	crh	1165990	2	qum		Crimean Tatar
+72252	cym	1167875	10	tywod		Welsh
+72252	deu	1187976	1	sand		German, Standard
+72252	dlg	1191231	2	кумак	kumak	Dolgan
+72252	epo	1197673	1	sablo		Esperanto
+72252	fao	1200793	1	sandur		Faroese
+72252	fry	1201920	1	sân		Frisian
+72252	fur	1202560	1	savalon		Friulian
+72252	gag	1202795	2	kum		Gagauz
+72252	gla	1206526	13	gainmheach		Scottish Gaelic
+72252	gle	1211299	13	gaineamh		Irish
+72252	glv	1213096	13	geinnagh		Manx
+72252	haw	1214912	14	one		Hawaiian
+72252	hin	1218035	9	रेत	ret	Hindi
+72252	hin	1218036	8	बालू	bālū	Hindi
+72252	hop	1218518	10	tuuwa		Hopi
+72252	hun	1227202	2	homok		Hungarian
+72252	hye	1233592	10	ավազ	avaz	Armenian
+72252	inh	1234388	2	гӏум	ġum	Ingush
+72252	kaa	1234689	2	qum		Karakalpak
+72252	kat	1238031	10	ქვიშა	kviša	Georgian
+72252	kat	1238032	10	სილა	sila	Georgian
+72252	kaz	1239292	2	құм	qum	Kazakh
+72252	khm	1240948	11	ខ្សាច់	khsach	Khmer
+72252	kir	1242302	2	кум	kum	Kirghiz
+72252	kjh	1242529	2	хум	xum	Khakas
+72252	kor	1249294	10	모래	morae	Korean
+72252	krc	1250150	2	къум	kʺum	Karachay-Balkar
+72252	krc	1250151	10	юзмез	yuzmez	Karachay-Balkar
+72252	kum	1250363	2	хум	hum	Kumyk
+72252	lao	1251157	10	ດິນຊາຍ	din sāi	Lao
+72252	lat	1254473	3	arena		Latin
+72252	lat	1254474	3	harena		Latin
+72252	lat	1254475	10	ramentum		Latin
+72252	ltg	1256708	10	smiļkts		Latgalian
+72252	mkd	1265347	4	песок	pesok	Macedonian
+72252	mlt	1267240	10	borra		Maltese
+72252	mri	1267954	14	one		Maori
+72252	nav	1271304	10	séí		Navajo
+72252	nay	1271480	10	tune		Narrinyeri
+72252	nog	1272070	2	кум	kum	Nogai
+72252	oci	1273106	1	sabla		Occitan
+72252	oci	1273107	3	arena		Occitan
+72252	roh	1275245	1	sablun		Romansh
+72252	rup	1276171	3	arinã		Aromanian
+72252	rus	1295397	4	песок	pesok	Russian
+72252	sah	1300141	2	кумах	kumax	Yakut
+72252	scn	1301305	3	rina		Sicilian
+72252	tat	1305963	2	ком	qom	Tatar
+72252	tgk	1308934	10	рег	reg	Tajiki
+72252	tgl	1310176	10	buhangin		Tagalog
+72252	tuk	1311560	2	gum		Turkmen
+72252	tuk	1311561	10	çäge		Turkmen
+72252	tur	1318794	2	kum		Turkish
+72252	tyv	1320202	6	элезин	äläzïn	Tuva
+72252	tyv	1320203	2	кум	kum	Tuva
+72252	uig	1320588	2	قۇم	qum	Uyghur
+72252	ukr	1323718	4	пісок	pisok	Ukrainian
+72252	vie	1330077	11	cát		Vietnamese
+72252	xal	1331488	6	элсн	elsn	Kalmyk-Oirat
+72252	zsm	1334851	7	pasir		Malay, Standard
+72252	asm	1415207	8	বালি	bali	Assamese
+72252	tel	1431320	10	ఇసుక	isuka	Telugu
+72252	tam	1445538	15	மணல்	maṇal	Tamil
+72252	san	1465784	8	वालुका	vālukā	Sanskrit
+72252	pan	1529780	9	ਰੇਤਾ	retā	Punjabi, Eastern
+72252	ori	1550731	8	ବାଲୁକା	baluka	Odia
+72252	mal	1585000	15	മണല്‍	maṇal‍	Malayalam
+72252	mal	1585001	8	വാലുക	vāluka	Malayalam
+72252	mni	1609281	10	lyqoi		Manipuri
+72252	kok	1620750	9	रेंव	rẽv	Konkani
+72252	ben	1696302	8	বালি	bali	Bengali
+72252	ben	1696303	8	বালুকা	baluka	Bengali
+72252	brx	1713799	8	बाला	bālā	Bodo
+72252	zul	1763690	10	isihlabathi		Zulu
+72252	tsn	1768950	10	mošawa		Tswana
+72252	tsn	1773956	10	motlhaba		Tswana
+72252	tsn	1773957	10	sesiti		Tswana
+72252	mya	1792451	10	နှင်း	hnang:	Burmese
+72252	guj	1802309	9	રેત	ret	Gujarati
+72252	guj	1807002	8	બાલુકા	bālukā	Gujarati
+72252	guj	1807006	8	વાલુકા	vālukā	Gujarati
+72252	nep	1829303	8	बालुवा	bāluwā	Nepali
+72252	nep	1829304	9	रेत	reta	Nepali
+72252	urd	1843414	9	ریت	rit	Urdu
+72252	urd	1843415	8	بالو	bālu	Urdu
+72252	kas	1872030	10	سٮ۪کھ	sٮ۪kh	Kashmiri
+98263	eng	123802	1	eat	
+98263	spa	172709	1	comer	
+98263	cat	206670	10	cruspir-se	
+98263	cat	206671	10	jalar	
+98263	cat	206672	10	menjar-se	
+98263	cat	198512	4	menjar	
+98263	zho	292933	10	吃东西	chi dong xi
+98263	jpn	376427	10	召上がる	meshiagaru
+98263	jpn	365678	10	頂く	itadaku
+98263	jpn	376431	10	食する	shokusuru
+98263	jpn	376432	10	食べる	taberu
+98263	jpn	376434	10	食う	kuu
+98263	tha	442417	3	กิน	gin
+98263	tha	447491	10	ซัด	sát
+98263	tha	450447	11	ทาน	taan
+98263	tha	458943	10	รับประทาน	rạb prathān
+98263	tha	481495	10	เสวย	swə̌əi
+98263	tha	481496	10	ฉัน	chǎn
+98263	tha	507227	10	แดก	dɛ̀ɛk
+98263	sqi	509972	10	ushqim	
+98263	bul	517800	10	храня се	hranja se
+98263	bul	517801	1	ям	jam
+98263	dan	523989	1	æde	
+98263	dan	523990	12	spise	
+98263	hrv	551901	1	jesti	
+98263	hrv	551902	1	pojesti	
+98263	isl	579942	1	éta	
+98263	isl	575777	10	borða	
+98263	ind	583971	3	makan	
+98263	msa	608067	3	makan	
+98263	swe	692911	1	äta	
+98263	nno	698094	1	ete	
+98263	nob	701711	12	spise	
+98263	fin	796187	9	syödä	
+98263	eus	822884	10	jan	
+98263	arb	852301	13	أَكَلَ	ʾakala
+98263	fra	868192	4	manger	
+98263	ell	914339	10	τρώω	trṓō
+98263	nld	932145	1	eten	
+98263	por	975857	1	comer	
+98263	ron	1015546	4	mânca	
+98263	slv	1091478	1	jesti	
+98263	abk	1126539	10	афара	āfārā
+98263	afr	1128124	1	eet	
+98263	amh	1128785	10	መብላት	mäblat
+98263	arz	1129874	13	أكل	
+98263	ast	1131575	10	yantar	
+98263	ast	1131576	10	xintar	
+98263	bel	1134505	1	есці	jesci
+98263	bel	1134506	1	есьці	jesʹci
+98263	blt	1134664	3	kin	
+98263	bqi	1134863	10	خردن	
+98263	ceb	1136406	3	kaun	
+98263	ceb	1136407	3	kaon	
+98263	ces	1148335	1	jíst	
+98263	ces	1148336	10	sníst	
+98263	che	1149308	10	даа	daa
+98263	chu	1150013	1	ꙗсти	
+98263	chu	1150014	10	ⱑⱄⱅⰹ	
+98263	crh	1166012	10	aşamaq	
+98263	cym	1168058	10	bwyta	
+98263	deu	1171272	1	essen	
+98263	dsb	1191536	1	jěsć	
+98263	epo	1198395	4	manĝi	
+98263	fao	1200947	1	eta	
+98263	fij	1201133	10	daliga	
+98263	fry	1202020	1	ite	
+98263	fur	1202639	4	mangjâ	
+98263	gle	1211578	1	ith	
+98263	grc	1213643	1	ἔδω	édō
+98263	grc	1213644	1	ἐσθίω	esthíō
+98263	hat	1214148	4	manje	
+98263	hil	1215056	3	kaon	
+98263	hil	1215057	10	ab-ab	
+98263	hin	1215420	2	खाना	khānā
+98263	hsb	1218704	1	jěsć	
+98263	hun	1228168	9	eszik	
+98263	hye	1233961	10	ուտել	utel
+98263	jav	1234621	14	dhahar	
+98263	kal	1235045	10	nerivoq	
+98263	kat	1237140	10	ჭამა	č̣ama
+98263	kaz	1239348	8	жеу	jew
+98263	khm	1241069	10	ញ៉ាំ	nhăm
+98263	khm	1241070	10	ពិសា	pĭsa
+98263	khm	1241071	10	ស៊ី	si
+98263	kir	1242380	8	жеш	ceş
+98263	kor	1249730	10	먹다	meokda
+98263	kor	1249731	10	드시다	deusida
+98263	lao	1251238	3	ກິນ	kin
+98263	lao	1251239	11	ທານ	thān
+98263	lat	1255162	1	edo	
+98263	lat	1255163	1	comedo	
+98263	lat	1255164	4	manduco	
+98263	ltz	1258184	1	iessen	
+98263	ltz	1258185	10	buffen	
+98263	ltz	1258186	1	friessen	
+98263	luo	1258366	10	chamo	
+98263	mkd	1265771	1	јаде	jade
+98263	mlt	1267357	13	kiel	
+98263	mri	1267546	3	kai	
+98263	nap	1269827	4	mangià	
+98263	nap	1269828	4	magnà	
+98263	nav	1271404	10	ayą́	
+98263	oss	1273632	10	хæрын	xæryn
+98263	ppl	1274134	10	-kwa	
+98263	ppl	1274135	10	-cua	
+98263	rap	1274246	3	kai	
+98263	rgn	1274305	4	magnê	
+98263	roh	1275433	4	mangiar	
+98263	roh	1275434	4	magliar	
+98263	rup	1276328	4	mãc	
+98263	rus	1298047	1	есть	jestʹ
+98263	sin	1302647	2	කනවා	kanavā
+98263	sot	1303657	7	ja	
+98263	sun	1304436	10	tuang	
+98263	sun	1304437	10	neda	
+98263	sun	1304438	14	dahar	
+98263	sun	1304439	10	lebok	
+98263	sun	1304440	10	nyatu	
+98263	sun	1304441	10	lolodok	
+98263	sun	1304442	10	jajablog	
+98263	tat	1305994	10	аша-рга	aşa-rga
+98263	tgk	1308982	10	хӯрдан	xürdan
+98263	tgl	1310276	3	kain	
+98263	tgl	1310277	10	kumain	
+98263	tgl	1310278	3	kainin	
+98263	tpi	1310834	3	kai	
+98263	tuk	1311603	8	iýmek	
+98263	tur	1312726	8	yemek	
+98263	ukr	1323956	1	їсти	jisty
+98263	vie	1330403	10	ăn	
+98263	vie	1330404	10	ăn cơm	
+98263	yua	1331653	10	hanal	
+98263	yue	1332046	10	食	
+98263	yue	1332047	10	吃	
+98263	zsm	1335042	3	makan	
+98263	asm	1413075	2	খোৱা	khüa
+98263	asm	1413077	10	গিলা	gila
+98263	tel	1428820	6	తిను	tinu
+98263	tel	1428819	10	ఆరగించు	āragiñcu
+98263	tam	1443962	6	திண்ணு	tiṇṇu
+98263	tam	1443963	10	உண்ணு	uṇṇu
+98263	san	1462582	2	खाद्	khād
+98263	pan	1527307	10	ਛੱਕਣਾ	chakkaṇā
+98263	pan	1526908	10	ਾਣਾ	āṇā
+98263	ori	1548436	10	ଆହାର କରିବା	aharô kôriba
+98263	ori	1543940	2	ଖାଇବା	khaiba
+98263	mal	1582190	6	തിന്നുക	tinnuka
+98263	mal	1582630	10	കഴിക്കുക	kaḻikkuka
+98263	mni	1607869	10	cab	
+98263	mni	1607870	10	hab	
+98263	kok	1618948	2	खावप	khāvap
+98263	kok	1618949	10	आहार घेवप	āhār ghevap
+98263	kan	1641056	10	ಭಕ್ಷಿಸು	bhakṣisu
+98263	kan	1641057	6	ತಿನ್ನು	tinnu
+98263	kan	1641059	10	ಭೋಜಿಸು	bhōjisu
+98263	ben	1694498	2	খাওয়া	khaoয়a
+98263	zul	1757768	7	dla	
+98263	tsn	1766909	7	ja	
+98263	mya	1792516	10	စား	ca:
+98263	guj	1803525	10	જમવું	jamvũ
+98263	guj	1803526	2	ખાવું	khāvũ
+98263	nep	1827850	10	भोजनगर्नु	bhojanagarnu
+98263	nep	1827742	2	खानु	khānu
+98263	nep	1827851	10	हसुर्नु	hasurnu
+98263	urd	1840731	2	کھانا	kھānā
+98263	kas	1870378	2	کھیوٚن	khyon
+98263	mon	1944418	10	идэх	ideh
+10960	eng	17589	1	wing		English
+10960	ita	163516	3	ala		Italian
+10960	spa	177664	3	ala		Spanish
+10960	cat	211992	3	ala		Catalan
+10960	zho	311715	4	机翼	ji yi	Chinese, Mandarin
+10960	zho	284086	8	翅膀	chi bang	Chinese, Mandarin
+10960	jpn	385686	1	ウィング	wingu	Japanese
+10960	jpn	385687	1	ウイング	uingu	Japanese
+10960	jpn	385688	8	羽	hane	Japanese
+10960	jpn	383430	8	羽根	hane	Japanese
+10960	jpn	385689	4	翼	tsubasa	Japanese
+10960	sqi	512392	10	krah		Albanian
+10960	bul	519049	2	крило	krilo	Bulgarian
+10960	dan	524258	1	vinge		Danish
+10960	hrv	556143	2	krilo		Croatian
+10960	isl	575372	1	vængur		Icelandic
+10960	ind	596033	6	sayap		Indonesian
+10960	ind	596035	5	kepak		Indonesian
+10960	msa	620475	6	sayap		Malay
+10960	msa	620477	5	kepak		Malay
+10960	pol	645322	2	uskrzydlić		Polish
+10960	pol	645323	2	skrzydło		Polish
+10960	pol	645324	2	uskrzydlać		Polish
+10960	swe	694672	1	vinge		Swedish
+10960	nno	698339	1	veng		Norwegian Nynorsk
+10960	nno	698340	1	venge		Norwegian Nynorsk
+10960	nob	701971	1	vinge		Norwegian Bokmal
+10960	fin	717082	10	siipi		Finnish
+10960	eus	822699	10	hego		Basque
+10960	eus	822724	10	hegal		Basque
+10960	arb	857601	10	جَنَاح	janāḥ	Arabic, Standard
+10960	fra	880338	3	aile		French
+10960	ell	920484	10	πτέρυγα	ptéruga	Greek
+10960	ell	920485	10	πτέρυξ	ptérux	Greek
+10960	ell	920486	10	φτερούγα	phteroúga	Greek
+10960	ell	920487	10	φτερό	phteró	Greek
+10960	nld	938589	9	vleugel		Dutch
+10960	por	980555	3	ala		Portuguese
+10960	por	980556	3	asa		Portuguese
+10960	ron	1009143	10	aripă		Romanian
+10960	ron	1009144	10	aripioară		Romanian
+10960	lit	1055655	12	sparnas		Lithuanian
+10960	slk	1068044	2	krídlo		Slovak
+10960	slv	1102145	2	krilo		Slovene
+10960	cmn	1153383	4	机翼	ji yi	Chinese, Mandarin
+10960	deu	1173543	9	flügel		German, Standard
+10960	gla	1204020	11	sgiath		Scottish Gaelic
+10960	gle	1208268	11	sciathán		Irish
+10960	hun	1220945	10	szárny		Hungarian
+10960	hye	1230006	10	թև	tʿew	Armenian
+10960	rus	1281595	2	крыло	krylo	Russian
+10960	tur	1313424	10	kanat		Turkish
+10960	asm	1406489	10	ডেউকা	deuka	Assamese
+10960	asm	1406492	13	পাখি	pakhi	Assamese
+10960	tel	1422985	17	రెక్క	rekka	Telugu
+10960	tam	1439835	17	இறக்கை	iṟakkai	Tamil
+10960	san	1454935	13	पक्षः	pakṣaḥ	Sanskrit
+10960	pan	1521011	13	ਪੰਖ	paṅkh	Punjabi, Eastern
+10960	pan	1521524	12	ਪਰ	par	Punjabi, Eastern
+10960	ori	1543319	16	ଡେଣା	ḍeṇa	Odia
+10960	mal	1576699	10	ചിറകു്	ciṟakŭ	Malayalam
+10960	kok	1615430	13	पांखाटो	pāṅkhāṭo	Konkani
+10960	kok	1615431	13	पांखां	pāṅkhā̃	Konkani
+10960	kan	1631982	17	ರೆಕ್ಕೆ	rekke	Kannada
+10960	ben	1690367	16	ডানা	ḍana	Bengali
+10960	ben	1690368	13	পাখনা	pakhna	Bengali
+10960	brx	1707718	10	गां	gā̃	Bodo
+10960	zul	1761112	14	iphiko		Zulu
+10960	tsn	1768213	15	lefuka		Tswana
+10960	nso	1780155	15	lefego		Sotho, Northern
+10960	xho	1788610	14	iphiko		Xhosa
+10960	mya	1793665	10	တောင်ပံ	taungpam	Burmese
+10960	guj	1795185	13	પંખ	paṅkh	Gujarati
+10960	guj	1795186	12	પર	par	Gujarati
+10960	nep	1823117	12	पार्श	pārśa	Nepali
+10960	nep	1823118	13	पखेटा	pakheṭā	Nepali
+10960	urd	1835766	12	پر	pr	Urdu
+10960	urd	1835767	13	پنکھ	pnkھ	Urdu
+10960	kas	1867479	12	پَر	par	Kashmiri
+10960	kas	1867480	13	پَکھ	pakh	Kashmiri
+10960	mon	1949288	10	далавч	dalavč	Mongolian, Halh
+37	eng	32	1	animal	
+37	eng	33	10	animate being	
+37	eng	34	3	beast	
+37	eng	35	10	brute	
+37	eng	36	9	creature	
+37	eng	37	2	fauna	
+37	ita	152716	2	fauna	
+37	zho	165403	12	动物群	dong wu qun
+37	spa	166207	1	animal	
+37	spa	166208	3	bestia	
+37	spa	166209	9	criatura	
+37	spa	166210	2	fauna	
+37	cat	198449	1	animal	
+37	cat	226203	2	fauna	
+37	cat	228035	9	criatura	
+37	cat	207160	3	bèstia	
+37	glg	241088	9	criatura	
+37	glg	241196	2	fauna	
+37	glg	241356	1	animal	
+37	glg	241476	3	besta	
+37	jpn	351962	10	4つ脚	4tsu ashi
+37	jpn	351963	10	4つ足	4tsu ashi
+37	jpn	351964	1	アニマル	animaru
+37	jpn	351965	12	動物	do-butsu
+37	jpn	351966	10	四つ脚	yottsu ashi
+37	jpn	351967	10	四つ足	yottsu ashi
+37	jpn	351968	10	毛の荒物	ke no aramono
+37	jpn	351969	10	獣	shishi
+37	jpn	351970	10	獣畜	shishi 畜
+37	jpn	351971	10	珍獣	chinju-
+37	jpn	351554	10	生体	seitai
+37	jpn	351550	10	生き物	ikimono
+37	jpn	351972	10	生類	sho-rui
+37	jpn	351973	10	鳥獣	cho-ju-
+37	tha	461921	18	สัตว์	s̄ạtw̒
+37	tha	461974	10	สัตว์ป่า	s̄ạtw̒ p̀ā
+37	tha	462512	10	สิ่งมีชีวิต	s̄ìng mī chīwit
+37	tha	506617	10	เดียรัจฉาน	deīyrạcc̄hān
+37	tha	506618	10	สัตว์เดียรัจฉาน	s̄ạtw̒ deīyrạcc̄hān
+37	sqi	509935	10	kafshë	
+37	sqi	509936	3	bishë	
+37	sqi	509937	10	shtazë	
+37	sqi	509938	10	krijesë	
+37	sqi	509939	2	fauna	
+37	bul	515939	15	животно	jivotno
+37	dan	522827	11	dyr	
+37	dan	522828	20	dyreart	
+37	dan	522829	10	kræ	
+37	fas	527264	5	حیوانی	hivâni
+37	fas	527638	13	جانور	jânur
+37	fas	527639	5	حیوان	hivân
+37	fas	527640	13	جانوری	jânuri
+37	fas	527641	10	حس و حرکت	hs u hrkt
+37	fas	527643	10	جانداران	jândârân
+37	hrv	544931	15	životinja	
+37	isl	578050	10	skynleysingi	
+37	isl	579457	10	kvikindi	
+37	isl	579825	11	dýr	
+37	isl	583151	10	málleysingi	
+37	isl	579810	10	skepna	
+37	ind	583848	17	binatang	
+37	ind	583849	2	fauna	
+37	ind	583850	18	satwa	
+37	ind	583851	10	binatang buas	
+37	ind	583852	5	hewan	
+37	ind	583853	10	margasatwa	
+37	msa	607953	17	binatang	
+37	msa	607954	2	fauna	
+37	msa	607955	18	satwa	
+37	msa	607957	5	haiwan	
+37	pol	635220	16	zwierzę	
+37	pol	635221	9	kreatura	
+37	swe	692662	11	djur	
+37	nno	697191	11	dyr	
+37	nno	697192	20	dyreart	
+37	nno	697193	26	krek	
+37	nob	700622	11	dyr	
+37	nob	700623	20	dyreart	
+37	nob	700624	26	krek	
+37	fin	704728	7	eläin	
+37	fin	704712	10	olento	
+37	fin	704729	10	elukka	
+37	fin	704730	10	elollinen olento	
+37	fin	704731	10	järjetön luontokappale	
+37	fin	704732	2	fauna	
+37	fin	704733	10	eläimistö	
+37	eus	824954	2	fauna	
+37	eus	832682	1	animalia	
+37	eus	834054	10	abere	
+37	heb	845741	10	בַּעַל-חַיִּים	baʿal-ḥayyīm
+37	heb	845742	5	חַיָּה	ḥayyā
+37	arb	855212	5	حَيَوَان	ḥayawān
+37	arb	856057	10	بَهِيْمَة	bahiyma
+37	arb	856427	10	دَابَّة	dābba
+37	arb	857913	10	كَائِن حَيّ	kāʾin ḥayy
+37	arb	859141	25	مَخْلُوق	maḵlūq
+37	arb	863682	10	وَحْش	waḥš
+37	fra	864923	3	bête	
+37	fra	864924	9	créature	
+37	fra	864925	2	faune	
+37	fra	864926	1	animal	
+37	fra	864751	10	être	
+37	ell	921513	19	ζώο	zṓo
+37	nld	928607	10	wezen	
+37	nld	942539	8	schepsel	
+37	nld	942540	9	creatuur	
+37	nld	937874	3	beest	
+37	nld	937026	11	dier	
+37	por	967493	1	animal	
+37	por	967494	3	besta	
+37	por	967495	3	bicho	
+37	por	967340	9	criatura	
+37	ron	1011966	1	animal	
+37	ron	1017703	9	creatură	
+37	ron	1017704	15	jivină	
+37	ron	1017705	10	lighioană	
+37	ron	1017706	10	necuvântător	
+37	lit	1054811	10	gyvulys	
+37	lit	1061929	10	gyvūnas	
+37	lit	1063022	16	žvėris	
+37	slk	1069476	27	živočích	
+37	slk	1081876	16	zviera	
+37	slv	1088826	10	živo bitje	
+37	slv	1088958	2	favna	
+37	slv	1088959	10	žival	
+37	afr	1126737	11	dier	
+37	ale	1128433	10	algax	
+37	alt	1128485	4	амыт	amït
+37	arg	1128931	1	animal	
+37	ast	1130365	1	animal	
+37	bak	1131780	5	хайуан	xayuan
+37	bar	1132134	28	viech	
+37	bel	1132341	10	жывёла	žyvjóla
+37	bel	1132342	16	звер	zvjer
+37	bel	1132339	23	істота	istota
+37	bel	1132340	10	стварэнне	stvarennje
+37	bor	1134780	10	barögö	
+37	bre	1134946	10	loen	
+37	bre	1134947	1	aneval	
+37	ceb	1136306	10	mananap	
+37	ces	1138135	27	živočich	
+37	ces	1138136	16	zvíře	
+37	ces	1138126	22	tvor	
+37	chr	1149366	10	ᎦᎾᏝᎢ	ganatlai
+37	chv	1150047	10	чĕрчун	čĕrčun
+37	cmn	1151850	12	动物	dong wu
+37	cym	1166373	1	anifail	
+37	cym	1166374	10	mil	
+37	cym	1166375	9	creadur	
+37	deu	1171265	11	tier	
+37	deu	1171255	10	geschöpf	
+37	deu	1171266	9	kreatur	
+37	deu	1171267	28	vieh	
+37	dsb	1191311	16	zwěrje	
+37	epo	1192399	1	animalo	
+37	epo	1192395	10	estulo	
+37	fry	1201267	11	dier	
+37	fry	1201268	3	bist	
+37	fry	1201269	8	skepsel	
+37	gla	1203500	10	beathach	
+37	gla	1203501	6	ainmhidh	
+37	gla	1203502	9	creutair	
+37	gle	1207785	6	ainmhí	
+37	grc	1213240	19	ζῷον	zôion
+37	hat	1214146	1	animal	
+37	hat	1214147	10	zannimo	
+37	hin	1215416	28	पशु	paśu
+37	hin	1215417	13	जानवर	jānvar
+37	hun	1220029	10	állat	
+37	hye	1228960	10	կենդանի	kendani
+37	jav	1234482	5	kewan	
+37	kal	1234718	10	uumasoq	
+37	kat	1235838	10	ცხოველი	cxoveli
+37	kaz	1238464	13	жануар	janwar
+37	kaz	1238465	5	хайуан	xaywan
+37	kaz	1238466	5	айуан	aywan
+37	kaz	1238467	10	туынды	twındı
+37	kir	1241460	5	айбан	ayban
+37	kir	1241461	13	жаныбар	canıbar
+37	kjh	1242430	10	аң	añ
+37	kor	1243059	12	동물	dongmul
+37	kor	1243060	12	動物	
+37	krc	1250002	5	хайуан	khayuan
+37	krl	1250184	10	elätti	
+37	krl	1250185	15	žiivatta	
+37	kum	1250258	5	гьайван	hayvan
+37	lao	1250509	18	ສັດ	sat
+37	lat	1251866	1	animal	
+37	lat	1251867	3	bestia	
+37	ltg	1256111	10	dzeivnīks	
+37	ltg	1256112	15	žeivots	
+37	ltz	1257001	11	déier	
+37	mar	1259241	13	जनावर	janāvar
+37	mkd	1260847	15	животно	životno
+37	mkd	1260843	21	суштество	suštestvo
+37	nan	1269136	12	動物	dong wu
+37	nav	1270036	10	naaldeehii	
+37	oci	1272269	1	animal	
+37	rgn	1274289	1	animêl	
+37	roh	1274456	1	animal	
+37	roh	1274457	3	biestg	
+37	rup	1275698	10	pravdã	
+37	rus	1279354	15	животное	životnoje
+37	rus	1279355	16	зверь	zverʹ
+37	rus	1279340	22	тварь	tvarʹ
+37	rus	1279356	10	скотина	skotina
+37	rus	1279339	21	существо	suščestvo
+37	sah	1299997	10	харамай	xaramay
+37	sah	1299998	10	кыыл	kııl
+37	scn	1300919	1	armali	
+37	sco	1301451	1	ainimal	
+37	sco	1301452	9	craitur	
+37	sdc	1301758	1	animàri	
+37	sin	1302294	18	සතා	satā
+37	src	1303722	10	fiadu	
+37	sro	1304016	1	animali	
+37	tgk	1308216	5	ҳайвон	hayvon
+37	tgk	1308217	13	ҷонвар	jonvar
+37	ton	1310497	10	manu	
+37	tuk	1310984	5	haýwan	
+37	tur	1312721	5	hayvan	
+37	tyv	1320109	4	амытан	amıtan
+37	uig	1320389	5	ھايۋان	haywan
+37	ukr	1320869	16	звір	zvir
+37	ukr	1320861	23	істота	istota
+37	ukr	1320862	22	тварь	tvarʹ
+37	ukr	1320863	10	тварина	tvaryna
+37	ukr	1320864	10	створіння	stvorinnja
+37	vie	1326469	10	thú vật	
+37	vie	1326470	12	動物	
+37	vro	1330648	7	elläi	
+37	wln	1330795	3	biesse	
+37	xal	1331407	24	адусн	adusn
+37	zsm	1332388	17	binatang	
+37	zsm	1332389	5	haiwan	
+37	zsm	1332390	18	satwa	
+37	tel	1437955	10	జంతువు	jantuvu
+37	tam	1444446	10	விலங்கு	vilaṅku
+37	san	1475272	28	पशु	paśu
+37	san	1475273	29	मृग	mṛga
+37	san	1475274	10	प्राणी	prāṇī
+37	pan	1542124	5	ਹੈਵਾਨ	hēvān
+37	mal	1583305	29	മൃഗം	mr̥gaṃ
+37	ben	1706442	10	ফওনা	phona
+37	tsn	1766699	10	phôlôgôlô	
+37	xho	1786558	10	izilo zonke zelo zwe	
+37	xho	1786559	10	isidalwa	
+37	xho	1784659	10	into ephilayo	
+37	xho	1786560	10	isilwanyana	
+37	xho	1786561	10	isilo	
+37	mya	1792666	10	တိရစ္ဆာန်	ti.rachcan
+37	urd	1841500	13	جانور	jānur
+37	urd	1841503	5	حیوان	hiuān
+37	mon	1954719	4	амьтан	amʹtan
+37	mon	1954720	24	адгуус	adguus
+37	mon	1954721	10	амьтны аймаг	amʹtny aimag
+37	ind	583558	25	makhluk	
+37	msa	607666	25	makhluk	
+21086	eng	33146	1	pencil	
+21086	ita	155770	2	lapis	
+21086	ita	155771	11	matita	
+21086	cat	218114	2	llapis	
+21086	zho	279383	12	铅笔	qian bi
+21086	jpn	397267	1	ペンシル	penshiru
+21086	jpn	396047	12	鉛筆	enpitsu
+21086	tha	448407	10	ดินสอ	dins̄x
+21086	bul	520116	6	молив	moliv
+21086	dan	526067	3	blyant	
+21086	hrv	560682	8	olovka	
+21086	isl	579066	3	blýantur	
+21086	msa	623746	1	pensel	
+21086	pol	652059	8	ołówek	
+21086	swe	691431	10	penna	
+21086	nno	699719	3	blyant	
+21086	nob	703672	3	blyant	
+21086	fin	732622	10	kynä	
+21086	eus	832045	10	arkatz	
+21086	eus	835683	2	lapitz	
+21086	fra	876934	5	crayon	
+21086	ell	924897	6	μολύβι	molúbi
+21086	nld	945801	5	crayon	
+21086	nld	959531	1	penseel	
+21086	nld	934826	10	potlood	
+21086	por	986485	2	lápis	
+21086	ron	1018494	5	creion	
+21086	lit	1054018	10	pieštukas	
+21086	slk	1074929	9	ceruzka	
+21086	slk	1079693	9	ceruza	
+21086	slv	1107786	10	svinčnik	
+21086	bak	1131864	13	ҡәләм	qäläm
+21086	bel	1132949	8	аловак	alovak
+21086	bel	1132950	14	карандаш	karandaš
+21086	ces	1140550	10	tužka	
+21086	ces	1140551	8	olůvko	
+21086	cmn	1155258	12	铅笔	qian bi
+21086	deu	1176120	4	bleistift	
+21086	epo	1193876	5	krajono	
+21086	fao	1199725	3	blýantur	
+21086	fry	1201479	10	potlead	
+21086	gle	1208830	10	peann luaidhe	
+21086	hat	1214229	5	kreyon	
+21086	hin	1216072	1	पेन्सिल	pensil
+21086	hun	1222229	9	ceruza	
+21086	hye	1230605	11	մատիտ	matit
+21086	kal	1234805	10	aqerluusaq	
+21086	kat	1236467	10	ფანქარი	pankari
+21086	kor	1244722	12	연필	yeonpil
+21086	lao	1250679	10	ສໍ	sǭ
+21086	lao	1250680	10	ສໍດໍາ	sǭ dam
+21086	lat	1252602	6	plumbum	
+21086	ltz	1257310	4	bläistëft	
+21086	ltz	1257311	5	kräijong	
+21086	mar	1259409	1	पेन्सिल	pensil
+21086	mkd	1262176	6	молив	moliv
+21086	rmf	1274354	10	blyijako ranniboskero	
+21086	rus	1284223	14	карандаш	karandaš
+21086	sin	1302364	1	පැන්සල	pænsala
+21086	tgl	1309436	2	lapis	
+21086	tuk	1311152	13	galam	
+21086	tur	1314286	13	kalem	
+21086	ukr	1321720	8	олівець	olivecʹ
+21086	vie	1327401	12	bút chì	
+21086	zsm	1333098	1	pensil	
+21086	asm	1414649	1	পেঞ্চিল	peñsil
+21086	asm	1414650	1	পেন্সিল	pensil
+21086	asm	1414651	1	পেনচিল	penosil
+21086	tel	1430576	1	పెన్సిల్	pensil
+21086	tam	1445161	1	காகிதப்பென்சில்	kākitappeṉcil
+21086	tam	1445162	10	கரிக்கோல்	karikkōl
+21086	san	1454205	10	लेखनी	lekhanī
+21086	san	1465037	10	वर्णतूतिका	varṇatūtikā
+21086	san	1465038	10	वर्णतूली	varṇatūlī
+21086	san	1454207	10	कलमः	kalamaḥ
+21086	san	1454210	10	अक्षरतूलिका	akṣaratūlikā
+21086	san	1463521	10	चित्रकः	citrakaḥ
+21086	ori	1550094	1	ପେନ୍ସିଲ	pensilô
+21086	mal	1584312	10	എഴുത്തുകോല്‍	eḻuttukōl‍
+21086	mal	1584313	10	വർണ്ണിക	varṇṇika
+21086	mal	1576186	10	തൂലിക	tūlika
+21086	mal	1584314	1	പെന്സില്‍	pensil‍
+21086	mni	1608898	1	pensil	
+21086	kok	1620277	2	लाप्स	lāps
+21086	kok	1620278	1	पेन्सील	pensīl
+21086	kok	1620279	2	लापीस	lāpīs
+21086	kan	1643977	1	ಪೆನ್ಸೀಲು	pensīlu
+21086	kan	1643978	10	ಸೀಸದ ಕಡ್ಡಿ	sīsada kaḍḍi
+21086	ben	1695717	1	পেন্সিল	pensil
+21086	brx	1713306	1	फेनसिल	phensil
+21086	tsn	1765575	1	phênsêlê	
+21086	nso	1777521	1	phentshele	
+21086	guj	1806047	1	પેન્સિલ	pensil
+21086	guj	1806048	10	સીસાપેન	sīsāpen
+21086	guj	1806049	1	પેનસિલ	pensil
+21086	nep	1828846	10	सिसाकलम	sisākalama
+21086	nep	1828847	1	पेन्सिल	pensila
+21086	urd	1842654	1	پنسل	pnsl
+21086	kas	1871635	1	پینٛسَل	pynsal
+21086	mon	1949364	10	балын харандаа	balyn harandaa
+46454	eng	2562	3	rock	
+46454	eng	36115	2	stone	
+46454	spa	191082	1	piedra	
+46454	spa	191212	3	roca	
+46454	cat	227009	1	pedra	
+46454	cat	227188	3	roca	
+46454	zho	285544	4	石	shi
+46454	zho	285545	4	岩石	yan shi
+46454	jpn	421305	2	ストーン	sutōn
+46454	jpn	420887	4	岩	iwa
+46454	jpn	420888	4	岩石	ganseki
+46454	jpn	421306	4	石ころ	ishikoro
+46454	jpn	399346	4	石	ishi
+46454	tha	461127	8	ศิลา	ṣ̄ilā
+46454	tha	464224	10	หิน	hǐn
+46454	tha	481270	10	ก้อนหิน	k̂xn h̄in
+46454	sqi	514936	10	gurr i çmuar	
+46454	bul	521801	5	камък	kamǎk
+46454	dan	524606	2	sten	
+46454	hrv	561332	5	kamen	
+46454	hrv	566706	2	stijena	
+46454	isl	573819	10	hallur	
+46454	isl	578526	11	grjót	
+46454	isl	576879	2	steinn	
+46454	ind	598871	6	batu	
+46454	msa	623587	6	batu	
+46454	pol	649215	5	kamień	
+46454	pol	665102	10	opoka	
+46454	pol	668092	9	skała	
+46454	swe	695225	2	sten	
+46454	nno	698644	2	stein	
+46454	nob	702304	2	stein	
+46454	fin	751572	12	kivi	
+46454	eus	820479	13	harri	
+46454	eus	823002	10	harkaitz	
+46454	eus	823185	10	haitz	
+46454	heb	848349	10	אֶבֶן	ʾeḇen
+46454	arb	854998	15	حَجَر	ḥajar
+46454	arb	855570	10	صَخْر	ṣaḵr
+46454	arb	857791	10	جُلْمُود	julmūd
+46454	fra	868763	3	roche	
+46454	fra	868764	3	roc	
+46454	fra	867188	1	pierre	
+46454	ell	918851	1	πέτρα	pétra
+46454	nld	928087	3	rots	
+46454	nld	932346	2	steen	
+46454	por	997594	1	pedra	
+46454	por	997596	3	rocha	
+46454	ron	1009894	1	piatră	
+46454	ron	1016613	3	rocă	
+46454	lit	1056537	5	akmuo	
+46454	lit	1062971	10	uola	
+46454	slk	1085132	9	skala	
+46454	slk	1087565	5	kameň	
+46454	slv	1108425	5	kamen	
+46454	afr	1127634	3	rots	
+46454	agr	1128194	10	kaya	
+46454	ain	1128331	10	スマ	suma
+46454	amm	1128812	10	tomoki	
+46454	arz	1129696	15	حجر	hajrir
+46454	bak	1131988	14	таш	taš
+46454	bel	1133792	5	камень	kamjenʹ
+46454	bqi	1134839	10	برد	bard
+46454	ccc	1136191	10	chena	
+46454	ces	1140403	5	kámen	
+46454	ces	1144331	9	skála	
+46454	chu	1149932	5	камꙑ	
+46454	cmn	1160129	4	石	shi
+46454	cmn	1160130	4	石头	shi tou
+46454	cym	1167397	13	carreg	
+46454	deu	1182432	2	stein	
+46454	deu	1182433	10	fels	
+46454	deu	1182434	2	gestein	
+46454	dgr	1191121	7	kwe	
+46454	epo	1195906	2	ŝtono	
+46454	esh	1198805	10	سینگ	
+46454	fao	1199884	2	steinur	
+46454	fao	1200275	11	grót	
+46454	fur	1202380	1	piere	
+46454	gla	1205712	13	creag	
+46454	gle	1210338	13	carraig	
+46454	glv	1212711	10	clagh	
+46454	glv	1212712	13	carrick	
+46454	haw	1214818	6	haku	
+46454	hin	1215998	10	पत्थर	patthar
+46454	hin	1217226	8	शिला	śilā
+46454	hin	1217227	10	रोड़ा	roṛā
+46454	hun	1225114	12	kő	
+46454	hye	1232322	13	քար	kʿar
+46454	kal	1234924	10	ujarak	
+46454	kaz	1239002	14	тас	tas
+46454	khm	1240549	10	ថ្ម​	thmâ
+46454	kor	1247460	4	돌	dol
+46454	lat	1252525	10	lapis	
+46454	lat	1253625	1	petra	
+46454	lat	1253626	10	saxum	
+46454	lat	1253627	10	rupes	
+46454	lat	1253628	10	silex	
+46454	ltg	1256502	10	akmiņs	
+46454	ltz	1257723	2	steen	
+46454	mar	1259763	10	खडक	khaḍak
+46454	mkd	1260328	5	камен	kamen
+46454	mlt	1266926	10	ġebla	
+46454	mri	1267849	6	whatu	
+46454	nav	1270997	7	tsé	
+46454	oci	1272843	1	pèira	
+46454	rup	1276002	1	chiatrã	
+46454	rus	1290253	5	камень	kamenʹ
+46454	sat	1300837	10	ᱫᱷᱤᱨᱤ	dʰiri
+46454	scn	1301199	1	petra	
+46454	tgk	1308728	10	санг	sang
+46454	tgl	1309933	6	bato	
+46454	tur	1316866	14	taş	
+46454	tzm	1320263	10	ⴰⵇⵛⵎⵉⵔ	aqšmir
+46454	ukr	1322916	5	камінь	kaminʹ
+46454	vie	1328977	10	đá	
+46454	vot	1330637	12	tšivi	
+46454	zsm	1334118	6	batu	
+46454	tel	1428043	10	రాయి	rāyi
+46454	zul	1762593	10	idwala	
+46454	tsn	1769495	10	lefika	
+46454	mya	1792414	10	ကျောက်	kyauk
+46454	urd	1855225	10	پتھر	ptھr
+46454	mon	1949497	14	чулуу	čuluu
+103165	eng	62768	1	see	
+103165	spa	170145	2	ver	
+103165	cat	203867	2	veure	
+103165	zho	166060	10	注意	zhu yi
+103165	zho	261044	4	看见	kan jian
+103165	jpn	368952	10	みる	miru
+103165	jpn	367234	10	拝見+する	拝見+suru
+103165	jpn	385520	10	拝覧+する	拝ran +suru
+103165	jpn	385521	10	拝観+する	拝観+suru
+103165	jpn	353450	10	見る	miru
+103165	jpn	366575	10	見て取る	mitetoru
+103165	jpn	366576	10	見取る	mitoru
+103165	jpn	375766	10	視る	miru
+103165	jpn	385505	10	ご覧なさる	goran nasaru
+103165	jpn	385522	10	ご覧になる	goran ni naru
+103165	jpn	385506	10	観る	miru
+103165	jpn	385523	10	観覧+する	観覧+suru
+103165	tha	470941	3	เห็น	hěn
+103165	sqi	512497	10	kuptosh	
+103165	bul	519026	2	видя	vidja
+103165	bul	519027	10	виждам	vijdam
+103165	dan	524259	1	se	
+103165	hrv	548819	2	vidjeti	
+103165	isl	572447	10	leiða augum	
+103165	isl	574856	1	sjá	
+103165	isl	575466	10	reka augun í	
+103165	ind	595964	7	lihat	
+103165	ind	589324	7	melihat	
+103165	msa	620409	7	lihat	
+103165	msa	613636	7	melihat	
+103165	msa	608358	12	nampak	
+103165	msa	613642	10	menaruh mata	
+103165	swe	695767	1	se	
+103165	nno	698341	1	sjå	
+103165	nob	701972	1	se	
+103165	fin	794020	10	nähdä	
+103165	eus	842439	10	ikusi	
+103165	arb	852189	10	أَبْصَرَ	ʾabṣara
+103165	arb	861285	10	رَأَى	raʾā
+103165	fra	870428	10	percevoir	
+103165	fra	867323	2	voir	
+103165	ell	919039	10	βλέπω	blépō
+103165	nld	932508	1	zien	
+103165	por	980441	10	enxergar	
+103165	por	967774	8	olhar	
+103165	por	980263	2	ver	
+103165	ron	1015082	2	vedea	
+103165	slk	1065855	2	vidieť	
+103165	slk	1080209	2	uvidieť	
+103165	slv	1093499	2	videti	
+103165	afr	1128164	1	besien	
+103165	afr	1128165	1	sien	
+103165	arg	1129116	2	veyer	
+103165	ary	1129238	9	شاف	
+103165	arz	1129901	9	شاف	
+103165	ase	1130058	10	v@nose-palmback v@fromnose-palmback	
+103165	ase	1130059	10	k@nose-palmacross k@fromnose-palmacross	
+103165	ast	1131639	2	ver	
+103165	bak	1132100	6	күреү	kürew
+103165	bel	1134583	11	бачыць	bačycʹ
+103165	bre	1135808	17	gwelet	
+103165	ces	1148807	2	vidět	
+103165	chr	1149554	10	ᎠᎪᏩᏛᏗ	agowadvdi
+103165	chv	1150239	6	курма	kurma
+103165	cmn	1165036	4	见	jian
+103165	cmn	1165037	4	看见	kan jian
+103165	cmn	1165038	10	睇	di
+103165	cor	1165629	17	gweles	
+103165	cym	1168132	17	gweld	
+103165	deu	1178219	1	sehen	
+103165	deu	1190617	10	schauen	
+103165	dsb	1191534	2	wiźeś	
+103165	epo	1198218	2	vidi	
+103165	ewe	1199109	10	kpɔ	
+103165	fao	1201003	1	síggja	
+103165	fao	1201004	1	sjá	
+103165	fry	1202051	1	sjen	
+103165	fur	1202698	2	viodi	
+103165	gla	1207049	13	faic	
+103165	gle	1211665	13	feic	
+103165	glv	1213180	13	faik	
+103165	haw	1214678	5	ʻike	
+103165	hin	1218433	15	देखना	dekhnā
+103165	hun	1228656	10	lát	
+103165	hye	1234149	10	տեսնել	tesnel
+103165	ilo	1234369	5	kita	
+103165	kat	1238363	10	ხედვა	xedva
+103165	kaz	1239366	6	көру	körw
+103165	kaz	1239367	10	қарау	qaraw
+103165	khm	1241116	3	ឃើញ	kheunh
+103165	kir	1242401	6	көр	kör
+103165	kor	1249874	10	보다	boda
+103165	kor	1249875	10	뵙다	boepda
+103165	lao	1251276	3	ເຫັນ	hen
+103165	lat	1254959	2	video	
+103165	lij	1255667	2	védde	
+103165	lij	1255668	2	véi	
+103165	mkd	1265980	10	гледа	gleda
+103165	mri	1268020	5	kite	
+103165	mwl	1268173	2	ber	
+103165	mwl	1268174	10	mirar	
+103165	nap	1269863	2	veré	
+103165	nap	1269864	2	vedé	
+103165	nav	1271414	10	yooʼį́	
+103165	nay	1271489	10	nak	
+103165	nmn	1272025	10	ǀnâã	
+103165	oci	1273098	2	veire	
+103165	pms	1274044	2	vëdde	
+103165	ppl	1274151	10	tachia	
+103165	ppl	1274152	10	-ita	
+103165	roh	1275557	2	vesair	
+103165	rup	1276415	2	ved	
+103165	rus	1299278	2	видеть	videtʹ
+103165	rus	1299279	2	увидеть	uvidetʹ
+103165	sat	1300859	10	ᱧᱮᱞ	ñel
+103165	scn	1301383	2	vìdiri	
+103165	sot	1303670	16	bona	
+103165	sro	1304243	2	biri	
+103165	tat	1306000	6	күрергә	kürergä
+103165	tgk	1309000	10	дидан	didan
+103165	tgl	1310308	5	kita	
+103165	tpi	1310853	10	lukim	
+103165	tuk	1311611	6	görmek	
+103165	tur	1319787	6	görmek	
+103165	ukr	1324077	11	бачити	bačyty
+103165	vie	1330530	10	nhìn thấy	
+103165	vie	1330531	10	xem xét	
+103165	vie	1330532	10	thấy	
+103165	vie	1330533	10	xem	
+103165	zsm	1335131	7	lihat	
+103165	zsm	1335132	10	tengok	
+103165	zsm	1335133	12	nampak	
+103165	tel	1432457	10	చూచు	cūcu
+103165	tam	1445006	10	பார்	pār
+103165	san	1475320	10	पश्यति	paśyati
+103165	mal	1583981	10	കാണുക	kāṇuka
+103165	zul	1757314	16	bona	
+103165	mya	1793237	10	မြင်	mrang
+103165	mya	1793238	10	တွေ့	twe.
+103165	urd	1842397	15	دیکھنا	dikھnā
+103165	mon	1944420	10	үзэх	üzeh
+103165	mon	1949485	10	харах	harah
+102304	eng	3242	1	swim	
+102304	spa	176332	3	nadar	
+102304	cat	210319	3	nedar	
+102304	zho	297280	7	游泳	you yong
+102304	jpn	383924	10	水泳+する	水泳+suru
+102304	jpn	383925	10	水浴び+する	mizuabi +suru
+102304	jpn	383926	10	泳ぐ	oyogu
+102304	jpn	383927	7	游泳+する	游泳+suru
+102304	tha	480985	10	ว่ายน้ำ	ẁāy n̂ả
+102304	sqi	512400	3	notoj	
+102304	bul	518802	2	плувам	pluvam
+102304	dan	524246	1	svømme	
+102304	hrv	555334	2	plivati	
+102304	isl	577589	10	fleyta sér	
+102304	isl	578426	1	svamla	
+102304	isl	580074	10	synda	
+102304	ind	588657	5	berenang	
+102304	msa	612920	5	berenang	
+102304	swe	694450	1	simma	
+102304	nno	698329	1	symje	
+102304	nob	701960	1	svømme	
+102304	fin	798671	13	uida	
+102304	eus	843402	10	igeri egin	
+102304	heb	847624	6	שָׂחָה	śāḥā
+102304	arb	854153	10	عَامَ	ʿāma
+102304	arb	861758	6	سَبَحَ	sabaḥa
+102304	fra	869557	9	nager	
+102304	ell	921023	10	κολυμπώ	kolumpṓ
+102304	nld	947696	10	afzwemmen	
+102304	por	979544	10	boiar	
+102304	por	979001	3	nadar	
+102304	ron	1015309	3	înota	
+102304	slk	1063655	2	plávať	
+102304	slv	1100775	2	plavati	
+102304	arz	1129895	10	عام	
+102304	ast	1131623	3	nadar	
+102304	ast	1131624	3	ñadar	
+102304	bel	1134569	2	плаваць	plavacʹ
+102304	bre	1135800	15	neuial	
+102304	ces	1148734	2	plavat	
+102304	cmn	1152235	7	游泳	you yong
+102304	cym	1168123	15	nofio	
+102304	deu	1171834	1	schwimmen	
+102304	epo	1198590	9	naĝi	
+102304	fao	1200995	1	svimja	
+102304	fry	1202046	1	swimme	
+102304	fur	1202690	3	nadâ	
+102304	gla	1207038	11	snàmh	
+102304	gle	1207849	11	snámh	
+102304	hin	1218419	4	तैरना	tairnā
+102304	hun	1228556	13	úszik	
+102304	hye	1234125	10	լողալ	lołal
+102304	kat	1238352	10	შეცურება	šecureba
+102304	kaz	1239363	8	жүзу	jüzw
+102304	khm	1241107	10	ហែល	hêl
+102304	khm	1241108	10	ហែលទឹក	hêltœ̆k
+102304	kor	1249849	10	수영하다	suyeonghada
+102304	lao	1251272	10	ລອຍນ້ຳ	lǭi nam
+102304	lat	1255391	3	nato	
+102304	lat	1255392	10	no	
+102304	ltg	1256778	10	maut	
+102304	ltg	1256840	10	mauduot	
+102304	mkd	1265953	2	плива	pliva
+102304	mri	1267609	12	kau	
+102304	nav	1271410	10	naabé	
+102304	oci	1273308	3	nadar	
+102304	rap	1274282	12	kau	
+102304	roh	1275525	3	nudar	
+102304	roh	1275526	3	senudar	
+102304	roh	1275527	3	nuder	
+102304	roh	1275528	3	nodar	
+102304	rup	1276396	3	anot	
+102304	rup	1276397	3	not	
+102304	rup	1276398	10	mplãtescu	
+102304	rus	1298936	2	плавать	plavatʹ
+102304	rus	1298937	2	плыть	plytʹ
+102304	scn	1301375	3	natari	
+102304	sin	1302654	10	පිහිනනවා	pihinanavā
+102304	sro	1304238	3	nadai	
+102304	syc	1304479	10	ܣܚܐ	
+102304	tgl	1310305	10	langoy	
+102304	tur	1319553	8	yüzmek	
+102304	ukr	1324046	2	плавати	plavaty
+102304	vie	1326549	10	bơi	
+102304	vie	1330510	10	tắm	
+102304	asm	1416369	10	সাঁতুৰা	xãtura
+102304	tel	1432455	10	ఈతకొట్టు	ītakoṭṭu
+102304	tam	1446037	14	நீந்து	nīntu
+102304	san	1467708	10	उत्तृ	uttṛ
+102304	ori	1552137	10	ପହଁରିବା	pôhôm̐riba
+102304	mal	1585806	14	നീന്തുക	nīntuka
+102304	mni	1610093	10	iroib	
+102304	mni	1610094	10	samb	
+102304	kok	1621869	10	पेंवप	pẽvap
+102304	kan	1646752	10	ತೇಲು	tēlu
+102304	kan	1646753	10	ಈಜು	īju
+102304	ben	1697623	10	সাঁতার কাটা	saṁtar kaṭa
+102304	brx	1713136	14	सानस्रि	sānasri
+102304	tsn	1769266	10	thuma	
+102304	tsn	1769267	10	tšhapha	
+102304	mya	1793496	10	ရေကူး	reku:
+102304	guj	1809054	10	પાર કરવું	pār karvũ
+102304	guj	1809055	10	ઓળંગવું	oḷṃgavũ
+102304	guj	1808172	4	તરવું	tarvũ
+102304	nep	1830293	10	पौडनु	pauḍanu
+102304	urd	1844951	14	شناوری	śnāuri
+102304	urd	1844363	4	تیرنا	tirnā
+102304	kas	1872928	10	ژھرٛانٛٹھ وایِنۍ	ćhrٛاnṭh vāyin'
+102304	mon	1948873	10	сэлэх	seleh
+2264	eng	3161	1	game	
+2264	ita	139623	5	gioco	
+2264	ita	149236	8	partita	
+2264	spa	169303	5	juego	
+2264	cat	202981	5	joc	
+2264	glg	259857	5	xogo	
+2264	zho	298213	10	比赛规则	bi sai gui ze
+2264	jpn	364102	1	ゲーム	gēmu
+2264	tha	466879	1	เกม	geem
+2264	sqi	510862	10	lojë	
+2264	bul	516608	4	игра	igra
+2264	bul	516633	10	състезание	sǎstezanie
+2264	dan	525086	3	spil	
+2264	hrv	548104	4	igra	
+2264	isl	572680	10	leikur	
+2264	isl	574651	3	spil	
+2264	isl	573573	10	keppni	
+2264	ind	588529	7	permainan	
+2264	msa	612789	7	permainan	
+2264	pol	635812	10	sztuczka	
+2264	pol	635814	10	trick	
+2264	pol	636352	10	fortel	
+2264	pol	636353	10	chwyt	
+2264	pol	636354	10	wybieg	
+2264	pol	635813	10	trik	
+2264	pol	637928	10	rozrywka	
+2264	pol	637952	10	zabawa	
+2264	swe	693721	3	spel	
+2264	nno	699025	3	spel	
+2264	nob	702759	3	spill	
+2264	fin	707275	3	peli	
+2264	eus	820106	5	joko	
+2264	arb	858390	10	لُعْبَة	luʿba
+2264	arb	859609	10	مُبَارَاة	mubārāh
+2264	fra	869496	10	catch	
+2264	fra	864818	8	partie	
+2264	fra	864891	5	jeu	
+2264	ell	911355	10	παιχνίδι	paikhnídi
+2264	nld	937367	3	spel	
+2264	por	971568	5	jogo	
+2264	ron	1008532	5	joc	
+2264	lit	1056084	10	varžybos	
+2264	lit	1059975	10	žaidynės	
+2264	lit	1054701	10	rungtynės	
+2264	slk	1064210	4	hra	
+2264	slv	1092631	4	igra	
+2264	afr	1126769	3	spel	
+2264	avd	1131701	10	وازی	
+2264	bak	1131785	2	уйын	uyïn
+2264	bel	1132379	10	гульня	hulʹnja
+2264	bel	1132380	4	ігра	ihra
+2264	ces	1138435	4	hra	
+2264	cmn	1152256	10	游戏	you xi
+2264	cym	1166397	1	gêm	
+2264	deu	1171854	3	spiel	
+2264	epo	1192534	10	ludo	
+2264	gla	1203625	1	gaim	
+2264	hin	1215466	6	खेल	khel
+2264	hun	1220248	10	játék	
+2264	hye	1229655	10	խաղ	xał
+2264	kat	1235877	10	თამაში	tamaši
+2264	kaz	1238481	2	ойын	oyın
+2264	khm	1239532	10	ល្បែង	lbêng
+2264	kir	1241482	2	ойноо	oynoo
+2264	kor	1243220	10	놀이	nori
+2264	kor	1243221	1	게임	geim
+2264	lao	1250517	10	ກິລາ	ki lā
+2264	lat	1251974	10	ludus	
+2264	mar	1259258	6	खेल	khel
+2264	mkd	1260953	4	игра	igra
+2264	rus	1280014	4	игра	igra
+2264	scn	1300924	5	jocu	
+2264	tat	1305539	2	уен	uyen
+2264	tat	1305540	2	уйын	uyın
+2264	tgk	1308232	10	бози	bozi
+2264	tuk	1310990	2	oýun	
+2264	tur	1312901	2	oyun	
+2264	ukr	1320939	4	гра	hra
+2264	ukr	1320940	4	ігра	ihra
+2264	vie	1326552	10	trò chơi	
+2264	zsm	1332438	7	permainan	
+2264	tel	1426416	10	ఆట	āṭa
+2264	zul	1761239	10	umncintiswano	
+2264	tsn	1764919	10	motshamekô	
+2264	xho	1783601	10	umdlalo	
+2264	mya	1793432	10	အားကစား	a:ka.ca:
+2264	urd	1838365	6	کھیل	kھil
+2264	mon	1946273	10	тоглоом	togloom
+17121	eng	27852	1	door	
+17121	ita	144575	2	porta	
+17121	spa	182792	2	puerta	
+17121	spa	166772	10	seguro	
+17121	cat	216640	10	botó de seguretat	
+17121	cat	215990	10	dispositiu de seguretat	
+17121	cat	215911	2	porta	
+17121	zho	286194	15	门	men
+17121	jpn	393543	1	ドア	doa
+17121	jpn	393551	10	扉	tobira
+17121	tha	453747	13	ประตู	pratū
+17121	tha	507738	10	พระทวาร	phra thwār
+17121	tha	509626	10	บานประตู	bān pratū
+17121	bul	519881	3	врата	vrata
+17121	dan	523915	1	dør	
+17121	dan	523916	7	dørplade	
+17121	hrv	559574	3	vrata	
+17121	isl	572289	12	hurð	
+17121	ind	586513	8	laluan	
+17121	ind	598395	4	pintu	
+17121	msa	610687	8	laluan	
+17121	msa	623035	4	pintu	
+17121	pol	649563	1	drzwi	
+17121	swe	693339	1	dörr	
+17121	nno	698035	1	dør	
+17121	nob	701643	1	dør	
+17121	nob	701644	7	dørplate	
+17121	fin	728290	10	ovi	
+17121	eus	825990	10	ate	
+17121	fra	867813	2	porte	
+17121	fra	885899	6	huis	
+17121	ell	918352	1	θύρα	thúra
+17121	ell	918353	2	πόρτα	pórta
+17121	nld	931618	2	portier	
+17121	nld	950747	1	deur	
+17121	por	985492	2	portas	
+17121	por	984470	2	porta	
+17121	por	984471	2	portão	
+17121	ron	1013000	6	ușă	
+17121	lit	1058657	1	durys	
+17121	slk	1068467	1	dvere	
+17121	slv	1106537	3	vrata	
+17121	afr	1127018	1	deur	
+17121	arz	1129403	9	باب	
+17121	ast	1130563	2	puerta	
+17121	bel	1132815	1	дзверы	dzvjery
+17121	bre	1135136	1	dor	
+17121	ccc	1136067	10	is̈hoplama	
+17121	ces	1140014	1	dveře	
+17121	chu	1149862	1	двьри	
+17121	cmn	1154449	15	门	men
+17121	cym	1166717	1	drws	
+17121	dak	1168168	10	tiyopa	
+17121	deu	1175059	1	tür	
+17121	deu	1175060	1	türen	
+17121	deu	1175061	1	türe	
+17121	dsb	1191397	1	źurja	
+17121	epo	1193594	2	pordo	
+17121	ewe	1198956	10	ʋɔtru	
+17121	fao	1199648	1	dyr	
+17121	fao	1199649	12	hurð	
+17121	fry	1201449	1	doar	
+17121	fur	1202223	2	puarte	
+17121	gil	1202844	10	jetia	
+17121	gla	1204309	1	dorus	
+17121	gle	1208622	1	doras	
+17121	haw	1214726	10	puka	
+17121	hin	1215931	1	दरवाज़ा	darvāzā
+17121	hin	1215932	1	द्वार	dvār
+17121	hsb	1218606	1	durje	
+17121	hun	1221713	10	ajtó	
+17121	hun	1221714	11	kapu	
+17121	hun	1221715	10	bejárat	
+17121	hun	1221716	10	ajtónyílás	
+17121	hye	1230384	1	դուռ	duṙ
+17121	kat	1236316	10	კარი	ḳari
+17121	kaz	1238625	5	есік	esik
+17121	khm	1239759	1	ទ្វារ	tvéar
+17121	kir	1241702	5	эшик	eşik
+17121	kor	1244351	15	문	mun
+17121	krc	1250036	5	эшик	eśik
+17121	lao	1250641	13	ປະຕູ	pa tū
+17121	lat	1251901	6	ostium	
+17121	lat	1252464	10	ianua	
+17121	ltg	1256260	1	durovys	
+17121	ltz	1257240	1	dier	
+17121	mar	1259375	1	दरवाजा	darvājā
+17121	mar	1259376	1	दार	dār
+17121	mkd	1261829	3	врата	vrata
+17121	mlt	1266435	9	bieb	
+17121	mri	1267490	10	toa	
+17121	mwl	1268096	2	puorta	
+17121	naq	1269905	10	dao-ams	
+17121	nav	1270544	10	dáádílkał	
+17121	oci	1272475	2	pòrta	
+17121	oss	1273448	1	дуар	dwar
+17121	roh	1274676	6	isch	
+17121	roh	1274677	6	esch	
+17121	roh	1274678	6	üsch	
+17121	rup	1275794	6	ushã	
+17121	rus	1283133	1	дверь	dverʹ
+17121	rus	1283134	1	двери	dveri
+17121	scn	1301025	2	porta	
+17121	sin	1302350	1	දොර	dora
+17121	som	1303296	10	albaab	
+17121	tat	1305626	5	ишек	işek
+17121	tgk	1308358	1	дар‍	dar‍
+17121	tgl	1309358	4	pinto	
+17121	tly	1310399	1	بر	br
+17121	tuk	1311115	10	gapy	
+17121	tuk	1311116	5	iişik	
+17121	tur	1313912	11	kapı	
+17121	twf	1320004	10	kə̏dénemą	
+17121	uig	1320442	5	ئىشىك	ishik
+17121	ukr	1321538	1	двері	dveri
+17121	vie	1327195	10	cửa	
+17121	wln	1330851	6	ouxh	
+17121	zsm	1332929	4	pintu	
+17121	tel	1429462	10	తలుపు	talupu
+17121	tel	1423712	1	ద్వారము	dvāramu
+17121	tam	1453063	10	கதவு	katavu
+17121	san	1475261	1	द्वार	dvāra
+17121	pan	1542116	1	ਦਰਵਾਜ਼ਾ	darvāzā
+17121	mal	1593159	10	വാതില്‍	vātil‍
+17121	mal	1593160	10	കതക്	katak
+17121	mal	1593161	10	പ്രവേശനമുഖം	pravēśanamukhaṃ
+17121	mal	1593162	10	കവാടം	kavāṭaṃ
+17121	kan	1642144	10	ಬಾಗಿಲು	bāgilu
+17121	zul	1763691	10	isicabha	
+17121	tsn	1766998	14	lobati	
+17121	tsn	1766999	14	lebati	
+17121	tsn	1767000	10	setswalô	
+17121	nso	1778926	14	lebati	
+17121	xho	1792373	10	ucango	
+17121	mya	1792914	1	ဒွာရ	dwara.
+17121	guj	1821931	1	દ્વાર	dvār
+17121	urd	1854772	1	دوار	duār
+17121	urd	1840464	1	دروازہ	druāzہ
+17121	mon	1945444	10	хаалга	haalga
+17121	mon	1945445	10	үүд	üüd
+42476	eng	40870	1	coffee	
+42476	eng	52584	3	java	
+42476	ita	143972	1	caffè	
+42476	spa	181785	1	café	
+42476	cat	215798	1	cafè	
+42476	zho	286109	1	咖啡	ka pei
+42476	jpn	391715	1	カフェー	kafē
+42476	jpn	391716	1	キャフェ	kyafe
+42476	jpn	417871	1	コーヒー	kōhī
+42476	jpn	391718	1	カフェ	kafe
+42476	jpn	391719	1	カフエ	kafue
+42476	jpn	417872	1	珈琲	ko-hi-
+42476	tha	442329	1	กาแฟ	kāfæ
+42476	tha	505826	1	คอฟฟี่	khxf fī̀
+42476	sqi	514510	1	kafe	
+42476	bul	521503	1	кафе	kafe
+42476	dan	523466	1	kaffe	
+42476	dan	523467	2	mokka	
+42476	fas	538242	3	جاوه	jâuh
+42476	hrv	565938	1	kava	
+42476	isl	581722	1	kaffi	
+42476	ind	601338	1	kopi	
+42476	msa	626032	1	kopi	
+42476	pol	666102	1	kawa	
+42476	swe	691600	1	kaffe	
+42476	nno	697699	1	kaffi	
+42476	nno	697700	2	mokka	
+42476	nob	701220	1	kaffe	
+42476	nob	701221	2	mokka	
+42476	fin	738232	1	kahvi	
+42476	eus	834198	1	kafe	
+42476	arb	860989	1	قَهْوَة	qahwa
+42476	fra	884328	1	café	
+42476	ell	910091	1	καφές	kaphés
+42476	nld	955491	1	koffie	
+42476	por	984262	1	café	
+42476	ron	1010328	1	cafea	
+42476	lit	1055231	1	kava	
+42476	slk	1083019	1	káva	
+42476	slv	1110000	1	kava	
+42476	afr	1127556	1	koffie	
+42476	amh	1128705	10	ቡና	buna
+42476	ast	1131017	1	café	
+42476	bak	1131968	1	ҡәһүә	qähüä
+42476	bel	1133647	1	кава	kava
+42476	ces	1143817	1	káva	
+42476	che	1149238	1	къахьо	q̇aḥo
+42476	che	1149239	1	кофэ	kofe
+42476	chr	1149625	1	ᎧᏫ	kawi
+42476	chv	1150147	1	кофе	kofe
+42476	cmn	1159432	1	咖啡	ka pei
+42476	crh	1165925	1	qave	
+42476	cym	1167311	1	coffi	
+42476	deu	1181521	1	kaffee	
+42476	epo	1195544	1	kafo	
+42476	evn	1198895	1	кофе	kofe
+42476	fao	1200207	1	kaffi	
+42476	gla	1205561	1	cofaidh	
+42476	gle	1210114	1	caife	
+42476	hin	1217061	1	क़हवा	qahvā
+42476	hin	1217062	1	कोफ़ी	kofī
+42476	hin	1217063	1	काफ़ी	kāfī
+42476	hin	1217064	1	कॉफ़ी	kŏfī
+42476	hun	1224715	1	kávé	
+42476	hye	1232041	10	սուրճ	surč
+42476	kat	1237283	1	ყავა	q̇ava
+42476	kaz	1238948	1	кофе	kofe
+42476	khm	1240385	1	កាហ្វេ	kafé
+42476	kir	1242030	1	кофе	kofe
+42476	kor	1247010	1	커피	keopi
+42476	krc	1250096	1	кофе	kofe
+42476	lao	1250916	1	ກາເຟ	kā fē
+42476	lat	1253495	1	coffeum	
+42476	mar	1259717	1	काफी	kāphī
+42476	mdf	1260077	1	кофе	kofe
+42476	mkd	1263696	1	кафе	kafe
+42476	nan	1269407	1	咖啡	ka pei
+42476	nav	1270947	1	gohwééh	
+42476	oci	1272795	1	cafè	
+42476	pap	1273905	1	kòfi	
+42476	rus	1289493	1	кофе	kofe
+42476	sdc	1301817	1	caffè	
+42476	sdn	1301991	1	gaffè	
+42476	sin	1302510	1	කෝපි	kōpi
+42476	sme	1302754	1	gáffe	
+42476	sot	1303547	1	kofi	
+42476	src	1303815	1	caffei	
+42476	sro	1304108	1	caffeu	
+42476	tat	1305810	1	кофе	qofe
+42476	tat	1305811	1	каһвә	qahwä
+42476	tgk	1308673	1	қаҳва	qahva
+42476	tgl	1309879	1	kape	
+42476	tuk	1311376	1	kofe	
+42476	tur	1313747	1	kahve	
+42476	uig	1320517	1	قەھۋە	qehwe
+42476	ukr	1322709	1	кава	kava
+42476	vie	1328728	1	cà phê	
+42476	vro	1330684	1	kohv	
+42476	yue	1331900	1	咖啡	
+42476	zsm	1333960	1	kopi	
+42476	asm	1415645	1	কফি	kophi
+42476	tel	1431760	1	కాఫీ	kāphī
+42476	tam	1445850	10	கொட்டைநீர்	koṭṭainīr
+42476	san	1466658	10	यावनपानम्	yāvanapānam
+42476	pan	1542138	1	ਕਾਫ਼ੀ	kāfī
+42476	ori	1551219	1	କଫି	kôphi
+42476	mal	1585504	1	കാപ്പി	kāppi
+42476	mni	1609532	1	kopi	
+42476	kok	1621163	1	काफी	kāphī
+42476	kan	1645476	1	ಕಾಫಿ	kāphi
+42476	kan	1645477	1	ಕಾಪಿ	kāpi
+42476	kan	1645478	1	ಕ್ಯಾಪಿ	kyāpi
+42476	ben	1696761	1	কফি	kôphi
+42476	brx	1714262	1	कफि	kaphi
+42476	zul	1762978	1	ikhofi	
+42476	tsn	1769862	1	kofi	
+42476	nso	1782314	1	kofi	
+42476	xho	1787431	1	ikofu	
+42476	mya	1793389	1	ကော်ဖီ	kauhpi
+42476	guj	1807700	1	કૉફી	kɔphī
+42476	nep	1829624	1	कफी	kaphī
+42476	urd	1839504	1	کافی	kāfi
+42476	kas	1872320	1	کافی	kāfī
+42476	mon	1951941	1	кофе	kofe
+7783	eng	11491	1	crow	
+7783	ita	149596	1	cornacchia	
+7783	ita	135019	1	corvo	
+7783	cat	208610	4	cornella	
+7783	zho	318621	10	鸦	ya
+7783	jpn	380706	6	かあかあ	kākā
+7783	jpn	380708	1	クロウ	kurō
+7783	tha	439348	8	กา	gaa
+7783	tha	466526	10	อีกา	xīkā
+7783	hrv	553829	2	vrana	
+7783	ind	594367	9	gagak	
+7783	msa	618832	9	gagak	
+7783	pol	643154	2	wrona	
+7783	fin	714238	3	varis	
+7783	eus	829899	10	bele	
+7783	fra	872130	4	corneille	
+7783	ell	914558	1	κοράκι	koráki
+7783	nld	955710	1	kraai	
+7783	por	977748	1	corvo	
+7783	por	977749	1	corvus	
+7783	ron	1011450	1	cioară	
+7783	slv	1098858	2	vrana	
+7783	afr	1126827	1	kraai	
+7783	amh	1128600	1	ቁራ	ḳura
+7783	arz	1129317	10	غراب	
+7783	bel	1132475	2	варона	varona
+7783	bod	1134676	6	ཀ་ཀ	ka ka
+7783	bre	1134984	2	bran	
+7783	ces	1139050	2	vrána	
+7783	cho	1149322	10	fạla	
+7783	chr	1149385	10	ᎪᎬ	gogv
+7783	cmn	1153066	10	乌鸦	wu ya
+7783	cym	1166452	2	brân	
+7783	deu	1172979	1	krähe	
+7783	dsb	1191320	4	karwona	
+7783	dsb	1191321	4	garona	
+7783	epo	1192831	4	korniko	
+7783	fao	1199355	1	kráka	
+7783	fry	1201308	1	krie	
+7783	fur	1202129	1	çore	
+7783	fur	1202131	4	cornile	
+7783	gla	1203863	10	starrag	
+7783	gla	1203864	10	ròcas	
+7783	gla	1203865	10	feannag	
+7783	gle	1208078	10	caróg dhubh	
+7783	grc	1213259	1	κορώνη	korṓnē
+7783	haw	1214682	10	ʻalalā	
+7783	hin	1215606	6	कौआ	kauā
+7783	hop	1218488	10	angwusi	
+7783	hsb	1218536	2	wróna	
+7783	hun	1220719	3	varjú	
+7783	hye	1229890	10	ագռավ	agṙav
+7783	izh	1234397	3	variz	
+7783	kat	1235978	10	ყვავი	q̇vavi
+7783	kaz	1238505	5	қарға	qarğa
+7783	khm	1239576	6	ក្អែក	k’êk
+7783	kor	1243634	10	까마귀	kkamagwi
+7783	lat	1252106	1	corvus	
+7783	lld	1255943	10	agacion	
+7783	ltg	1256137	2	vuorna	
+7783	mar	1259290	6	कावळा	kāvḷā
+7783	mkd	1261197	2	врана	vrana
+7783	moe	1267423	10	kakatshu	
+7783	mri	1267560	10	kōkako	
+7783	nav	1270103	8	gáagii	
+7783	nay	1271423	10	marangani	
+7783	nds	1271527	1	kraa	
+7783	nds	1271528	1	kreeg	
+7783	nds	1271529	1	kreih	
+7783	oci	1272320	10	gralha	
+7783	roh	1274491	1	corv nair	
+7783	rus	1281181	2	ворона	vorona
+7783	sco	1301466	1	craw	
+7783	sms	1302980	4	käärnõs	
+7783	tgl	1309207	10	uwák	
+7783	tur	1313243	5	karga	
+7783	twf	1319959	10	kòki’ína	
+7783	uig	1320394	5	قاغا	qagha
+7783	ukr	1321100	2	ворона	vorona
+7783	ukr	1321101	8	ґава	gava
+7783	ukr	1321102	8	гава	hava
+7783	vie	1326745	10	con quạ	
+7783	vot	1330617	3	varõz	
+7783	wym	1331299	1	kröw	
+7783	zsm	1332542	9	gagak	
+7783	zsm	1332543	8	gauk	
+7783	asm	1412569	6	কাক	kak
+7783	tel	1428326	6	కాకి	kāki
+7783	tam	1443670	6	காக்கா	kākkā
+7783	san	1461928	6	काकः	kākaḥ
+7783	pan	1526893	6	ਕਾਗ	kāg
+7783	ori	1548076	6	କାକ	kakô
+7783	ori	1548077	6	କାଉ	kau
+7783	ori	1548078	10	ଡାମେରାକୁଆ	ḍamerakua
+7783	mal	1582118	6	കാക്ക	kākka
+7783	mni	1607634	10	kw ac	
+7783	kok	1618677	6	काको	kāko
+7783	kan	1640403	6	ಕಾಕೆ	kāke
+7783	kan	1640405	10	ಕಪ್ಪು ಬಣ್ಣದ ಪಕ್ಷಿ	kappu baṇṇada pakṣi
+7783	ben	1694189	6	কাক	kak
+7783	brx	1711477	10	दाउखा	dāukhā
+7783	tsn	1764841	10	legakabê	
+7783	mya	1793637	6	ကျီး	kyi:
+7783	guj	1802916	6	કાક	kāk
+7783	nep	1827725	6	काक	kāka
+7783	urd	1840351	6	کوا	kuā
+7783	kas	1870064	6	کاو	kāv
+7783	mon	1951327	10	хар хэрээ	har heree
