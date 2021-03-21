@@ -19,7 +19,7 @@ Each line represents one instance of a pair of cognate words. Columns are separa
 
 | Column | Description |
 | --- | --- |
-| concept | A code used by Princeton WordNet 3.0 to represent a meaning (called a synset)|
+| concept id | A code used by Princeton WordNet 3.0 to represent a meaning (called a synset)|
 | language 1 |	the 3-letter iso code for the first language |
 | word 1 |	a word in the language 1 |
 | language 2 |	the 3-letter iso code for the second language |
@@ -29,7 +29,7 @@ Each line represents one instance of a pair of cognate words. Columns are separa
 
 For example,
 
-| concept|	lang 1 |  word 1 |	lang 2|	word 2|	translit 1|	translit 2|
+| concept id |	lang 1 |  word 1 |	lang 2|	word 2|	translit 1|	translit 2|
 | --- |	--- | --- | --- | --- | --- | --- |
 | n14996158|	glg	| polipropileno |	jpn |	ポリプロピレン|-	|poripuropiren
 | n06566077|	nep	| सफ्टवेर |	kas|	سافٹویٚیَر|	saphtawera|	saftoeyar
