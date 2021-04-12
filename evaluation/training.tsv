@@ -1,4 +1,4 @@
-concept_id	language_code	id	group	lemma	transliteration
+concept_id	language_code	word_id	group_id	lemma	transliteration
 15071	eng	25028	1	book	
 15071	eng	25029	2	volume	
 15071	ita	147626	3	libro	
