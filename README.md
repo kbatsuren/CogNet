@@ -44,7 +44,7 @@ Please cite the following articles if you find this resource useful:
 
 Khuyagbaatar Batsuren, Gábor Bella, and Fausto Giunchiglia – CogNet: A large-scale cognate database, Proceedings of The 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. https://aclweb.org/anthology/papers/P/P19/P19-1302/
 
-Khuyagbaatar Batsuren, Gábor Bella, and Fausto Giunchiglia - A large and evolving cognate database. Lang Resources & Evaluation (2021). https://doi.org/10.1007/s10579-021-09544-6 https://link.springer.com/article/10.1007/s10579-021-09544-6
+Khuyagbaatar Batsuren, Gábor Bella, and Fausto Giunchiglia - A large and evolving cognate database. Lang Resources & Evaluation (2021). https://doi.org/10.1007/s10579-021-09544-6
 
 ## Acknowledgements
 Thanks to Global Wordnet Association (GWA) and all the wordnet developers.
