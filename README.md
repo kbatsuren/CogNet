@@ -37,7 +37,7 @@ For example,
 | n02506148|	cmn	| 象 |	mon |	заан| xiang|	zaan
 
 ## License
-This tool is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
+This resource is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ## References
 Please cite the following articles if you find this resource useful:
